@@ -1,5 +1,6 @@
 Dear User,
 In order to execute the code you will need to consider the following conditions:
+
       - create a virtual environment
       - have python3.11 installed
       - install the requirements.txt
