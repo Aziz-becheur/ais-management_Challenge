@@ -1,0 +1,226 @@
+{
+    "Fernmelde- und informationstechnische Anlagen": {
+        "id": 450,
+        "subcategories": [
+            {
+                "456": [
+                    {
+                        "Zugangskontrollanlage": [
+                            "Zugangskontrollanlage"
+                        ]
+                    },
+                    {
+                        "Videoüberwachungsanlage": [
+                            "Videoüberwachungsanlage"
+                        ]
+                    },
+                    {
+                        "Einbruchmeldeanlage": [
+                            "Einbruchmeldeanlage Teil 1",
+                            "Einbruchmeldeanlage Teil 2"
+                        ]
+                    },
+                    {
+                        "Leckagewarnanlage": [
+                            "Leckagewarnanlage Serverraum",
+                            "Leckagewarnanlage USV Raum",
+                            "Leckagewarnanlage NEA"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Nutzungsspezifische Anlagen": {
+        "id": 470,
+        "subcategories": [
+            {
+                "474": [
+                    {
+                        "Handfeuerlöscher": [
+                            "Handfeuerlöscher 1",
+                            "Handfeuerlöscher 2",
+                            "Handfeuerlöscher 3",
+                            "Handfeuerlöscher 4",
+                            "Handfeuerlöscher 5",
+                            "Handfeuerlöscher 6"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Lufttechnische Anlagen": {
+        "id": 430,
+        "subcategories": [
+            {
+                "431": [
+                    {
+                        "Zuluftanlage": [
+                            "Umluftkühler Server 1",
+                            "Umluftkühler Server 2",
+                            "Umluftkühler Server 3",
+                            "Umluftkühler USV 1",
+                            "Umluftkühler USV 2"
+                        ]
+                    },
+                    {
+                        "Zu- und Abluftanlage": [
+                            "Zu- und Abluftanlage Technikräume"
+                        ]
+                    },
+                    {
+                        "Abluftanlage": [
+                            "Abluftanlage Batterieraum"
+                        ]
+                    }
+                ]
+            },
+            {
+                "433": [
+                    {
+                        "Klimaanlage": [
+                            "Klimaanlage EDV"
+                        ]
+                    }
+                ]
+            },
+            {
+                "434": [
+                    {
+                        "Verteilnetz / Pumpen - Kälteerzeugung": [
+                            "Verteilnetz / Pumpen - Kälteerzeugung KG"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Abwasser-, Wasser-, Gasanlagen": {
+        "id": 410,
+        "subcategories": [
+            {
+                "411": [
+                    {
+                        "Tauchpumpe": [
+                            "Tauchpumpe vor USV Raum",
+                            "Tauchpumpe Lüftungszentrale",
+                            "Tuchpumpe KG Technik"
+                        ]
+                    },
+                    {
+                        "Hebeanlage": [
+                            "Hebeanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "412": [
+                    {
+                        "Sanitäre Einrichtungsgegenstände": [
+                            "Sanitäre Einrichtungsgegenstände"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Starkstromanlagen": {
+        "id": 440,
+        "subcategories": [
+            {
+                "442": [
+                    {
+                        "USV-Anlage": [
+                            "USV-Anlage A",
+                            "USV-Anlage B",
+                            "USV-Anlage C",
+                            "USV-Anlage"
+                        ]
+                    },
+                    {
+                        "Netzersatzanlage-Diesel": [
+                            "Netzersatzanlage-Diesel"
+                        ]
+                    },
+                    {
+                        "zentrale Batterieanlage": [
+                            "zentrale Batterieanlage USV A",
+                            "zentrale Batterieanlage USV B",
+                            "zentrale Batterieanlage USV C"
+                        ]
+                    }
+                ]
+            },
+            {
+                "444": [
+                    {
+                        "NS-Unterverteiler": [
+                            "NS-Unterverteiler"
+                        ]
+                    },
+                    {
+                        "Leitungen": [
+                            "Leitungen"
+                        ]
+                    },
+                    {
+                        "Kabel": [
+                            "Kabel"
+                        ]
+                    },
+                    {
+                        "Verlegesysteme": [
+                            "Verlegesysteme"
+                        ]
+                    }
+                ]
+            },
+            {
+                "445": [
+                    {
+                        "Raumbeleuchtung": [
+                            "Raumbeleuchtung"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Wärmeversorgungsanlagen": {
+        "id": 420,
+        "subcategories": [
+            {
+                "421": [
+                    {
+                        "Schornstein": [
+                            "Schornstein"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Außenwände": {
+        "id": 330,
+        "subcategories": [
+            {
+                "334": [
+                    {
+                        "Außentür": [
+                            "Brandschutztüre Serverraum",
+                            "Brandschutztüre Serverraum 2",
+                            "Brandschutztüre Lüftungszentrale",
+                            "Brandschutztüre USV-Raum",
+                            "Brandschutztüre Haustechnik 1",
+                            "Brandschutztüre Haustechnik 2",
+                            "Brandschutztüre vom HT zum Stiegenhaus",
+                            "Brandschutztüre vom neben Stiegenhaus"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

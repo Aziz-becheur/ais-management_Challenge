@@ -1,0 +1,345 @@
+{
+    "Starkstromanlagen": {
+        "id": 440,
+        "subcategories": [
+            {
+                "444": [
+                    {
+                        "Kabel": [
+                            "Kabel"
+                        ]
+                    },
+                    {
+                        "Leitungen": [
+                            "Leitungen"
+                        ]
+                    },
+                    {
+                        "Verlegesysteme": [
+                            "Verlegesysteme"
+                        ]
+                    },
+                    {
+                        "NS-Unterverteiler": [
+                            "NS-Unterverteiler"
+                        ]
+                    }
+                ]
+            },
+            {
+                "445": [
+                    {
+                        "Raumbeleuchtung": [
+                            "Raumbeleuchtung"
+                        ]
+                    },
+                    {
+                        "Sicherheitsbeleuchtungsanlage": [
+                            "Sicherheitsbeleuchtungsanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "446": [
+                    {
+                        "Blitzschutzanlage": [
+                            "Blitzschutzanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Abwasser-, Wasser-, Gasanlagen": {
+        "id": 410,
+        "subcategories": [
+            {
+                "412": [
+                    {
+                        "Rohrleitungen": [
+                            "Rohrleitungen"
+                        ]
+                    },
+                    {
+                        "Wasseraufbereitungsanlage (Dosierung)": [
+                            "Wasseraufbereitungsanlage (Dosierung)"
+                        ]
+                    },
+                    {
+                        "Wasseraufbereitungsanlage (Enthärtung)": [
+                            "Wasseraufbereitungsanlage (Enthärtung)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "411": [
+                    {
+                        "Abwasserleitungen": [
+                            "Abwasserleitungen",
+                            "Abwasserleitungen - Regen"
+                        ]
+                    },
+                    {
+                        "Abläufe": [
+                            "Abläufe",
+                            "Abläufe Rigol Passage",
+                            "Abläufe - Regen"
+                        ]
+                    },
+                    {
+                        "Tauchpumpe": [
+                            "Tauchpumpe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Wärmeversorgungsanlagen": {
+        "id": 420,
+        "subcategories": [
+            {
+                "422": [
+                    {
+                        "Wärmeverteilnetz": [
+                            "Wärmeverteilnetz"
+                        ]
+                    }
+                ]
+            },
+            {
+                "421": [
+                    {
+                        "Fernwärmeübergabestation - Heißwasser": [
+                            "Fernwärmeübergabestation - Heißwasser Stiege 1",
+                            "Fernwärmeübergabestation - Heißwasser Stiege 4"
+                        ]
+                    },
+                    {
+                        "Wassererwärmungsanlage": [
+                            "Wassererwärmungsanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Förderanlagen": {
+        "id": 460,
+        "subcategories": [
+            {
+                "461": [
+                    {
+                        "Personenaufzug": [
+                            "Personenaufzug Stiege 3",
+                            "Personenaufzug Stiege 4",
+                            "Personenaufzug Stiege 1"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Fernmelde- und informationstechnische Anlagen": {
+        "id": 450,
+        "subcategories": [
+            {
+                "452": [
+                    {
+                        "Türsprech- und Türöffneranlage": [
+                            "Türsprech- und Türöffneranlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "456": [
+                    {
+                        "Brandmeldeanlage": [
+                            "Brandmeldeanlage noch nicht in Betrieb"
+                        ]
+                    }
+                ]
+            },
+            {
+                "455": [
+                    {
+                        "Antennenanlage (Stabanntenne, Parabolspiegelantenne)": [
+                            "Antennenanlage (Stabanntenne, Parabolspiegelantenne)"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Außenwände": {
+        "id": 330,
+        "subcategories": [
+            {
+                "334": [
+                    {
+                        "Außentor": [
+                            "Außentor Herrengasse",
+                            "Außentor"
+                        ]
+                    },
+                    {
+                        "Außentür": [
+                            "Außentür Stiege 1",
+                            "BST EG/ Müllraum",
+                            "Außentür Stiege 2",
+                            "Außentür Stiege 3",
+                            "Außentür Stiege 4",
+                            "BST 4OG Schleuse zu WHG"
+                        ]
+                    },
+                    {
+                        "Außenfenster mit Kipp- oder Drehflügel": [
+                            "Außenfenster mit Kipp- oder Drehflügel"
+                        ]
+                    }
+                ]
+            },
+            {
+                "339": [
+                    {
+                        "Werbeanlage": [
+                            "Werbeanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Sonstiges zur KG": {
+        "id": 380,
+        "subcategories": [
+            {
+                "389": [
+                    {
+                        "Tritte / Leitern": [
+                            "Tritte / Leitern"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Ausstattung": {
+        "id": 610,
+        "subcategories": [
+            {
+                "611": [
+                    {
+                        "Werkstattausstattung": [
+                            "Ausgußbecken",
+                            "Feuerwehrschlüsselsafe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gebäudeautomation": {
+        "id": 480,
+        "subcategories": [
+            {
+                "482": [
+                    {
+                        "GA-Schaltschränke": [
+                            "GA-Schaltschränke"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Nutzungsspezifische Anlagen": {
+        "id": 470,
+        "subcategories": [
+            {
+                "474": [
+                    {
+                        "Handfeuerlöscher": [
+                            "Handfeuerlöscher 1/6",
+                            "Handfeuerlöscher 1/5",
+                            "Handfeuerlöscher 1/4",
+                            "Handfeuerlöscher 1/3-4",
+                            "Handfeuerlöscher 1/3",
+                            "Handfeuerlöscher 1/2-3",
+                            "Handfeuerlöscher 1/2",
+                            "Handfeuerlöscher 1/1",
+                            "Handfeuerlöscher 2/1",
+                            "Handfeuerlöscher 2/2",
+                            "Handfeuerlöscher 2/3",
+                            "Handfeuerlöscher 3/4",
+                            "Handfeuerlöscher 3/3",
+                            "Handfeuerlöscher 3/2",
+                            "Handfeuerlöscher 3/1",
+                            "Handfeuerlöscher 4/5",
+                            "Handfeuerlöscher 4/4",
+                            "Handfeuerlöscher 4/3",
+                            "Handfeuerlöscher 4/2",
+                            "Handfeuerlöscher 4/1",
+                            "Handfeuerlöscher 4/EG",
+                            "Handfeuerlöscher 4/KG"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Lufttechnische Anlagen": {
+        "id": 430,
+        "subcategories": [
+            {
+                "439": [
+                    {
+                        "Rauchwärmeabzugsanlage (RWA)": [
+                            "Rauchwärmeabzugsanlage (RWA)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "431": [
+                    {
+                        "Abluftanlage": [
+                            "Abluftanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Technische Anlagen in Außenanlagen": {
+        "id": 540,
+        "subcategories": [
+            {
+                "546": [
+                    {
+                        "Außenbeleuchtung": [
+                            "Außenbeleuchtung"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Dächer": {
+        "id": 360,
+        "subcategories": [
+            {
+                "363": [
+                    {
+                        "Geneigtes Dach": [
+                            "Geneigtes Dach"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

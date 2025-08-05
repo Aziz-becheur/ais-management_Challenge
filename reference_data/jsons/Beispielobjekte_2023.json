@@ -1,0 +1,317 @@
+{
+    "Starkstromanlagen": {
+        "id": 440,
+        "subcategories": [
+            {
+                "444": [
+                    {
+                        "Kabel": [
+                            "Kabel"
+                        ]
+                    },
+                    {
+                        "Leitungen": [
+                            "Leitungen"
+                        ]
+                    },
+                    {
+                        "Verlegesysteme": [
+                            "Verlegesysteme"
+                        ]
+                    },
+                    {
+                        "NS-Unterverteiler": [
+                            "NS-Unterverteiler"
+                        ]
+                    }
+                ]
+            },
+            {
+                "445": [
+                    {
+                        "Raumbeleuchtung": [
+                            "Raumbeleuchtung"
+                        ]
+                    },
+                    {
+                        "Sicherheitsbeleuchtungsanlage": [
+                            "Sicherheitsbeleuchtungsanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "443": [
+                    {
+                        "Niederspannungshauptverteiler": [
+                            "Niederspannungshauptverteiler"
+                        ]
+                    }
+                ]
+            },
+            {
+                "446": [
+                    {
+                        "Blitzschutzanlage": [
+                            "Blitzschutzanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Abwasser-, Wasser-, Gasanlagen": {
+        "id": 410,
+        "subcategories": [
+            {
+                "412": [
+                    {
+                        "Rohrleitungen": [
+                            "Rohrleitungen"
+                        ]
+                    },
+                    {
+                        "Wasseraufbereitungsanlage (Enthärtung)": [
+                            "Wasseraufbereitungsanlage (Enthärtung)"
+                        ]
+                    },
+                    {
+                        "Wasseraufbereitungsanlage (Dosierung)": [
+                            "Wasseraufbereitungsanlage (Dosierung)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "411": [
+                    {
+                        "Abwasserleitungen": [
+                            "Abwasserleitungen"
+                        ]
+                    },
+                    {
+                        "Tauchpumpe": [
+                            "Tauchpumpe"
+                        ]
+                    },
+                    {
+                        "Abläufe": [
+                            "Abläufe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Wärmeversorgungsanlagen": {
+        "id": 420,
+        "subcategories": [
+            {
+                "422": [
+                    {
+                        "Wärmeverteilnetz": [
+                            "Wärmeverteilnetz"
+                        ]
+                    }
+                ]
+            },
+            {
+                "421": [
+                    {
+                        "Fernwärmeübergabestation - Heißwasser": [
+                            "Fernwärmeübergabestation - Heißwasser"
+                        ]
+                    },
+                    {
+                        "Wassererwärmungsanlage": [
+                            "Wassererwärmungsanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Dächer": {
+        "id": 360,
+        "subcategories": [
+            {
+                "363": [
+                    {
+                        "Geneigtes Dach": [
+                            "Geneigtes Dach"
+                        ]
+                    },
+                    {
+                        "Flachdach": [
+                            "Flachdach"
+                        ]
+                    }
+                ]
+            },
+            {
+                "362": [
+                    {
+                        "Lichtkuppel / Oberlicht / Dachfenster": [
+                            "Lichtkuppel / Oberlicht / Dachfenster"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Fernmelde- und informationstechnische Anlagen": {
+        "id": 450,
+        "subcategories": [
+            {
+                "452": [
+                    {
+                        "Türsprech- und Türöffneranlage": [
+                            "Türsprech- und Türöffneranlage Fischer von Erlachgasse",
+                            "Türsprech- und Türöffneranlage Jungfergasse"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Außenwände": {
+        "id": 330,
+        "subcategories": [
+            {
+                "334": [
+                    {
+                        "Außentür": [
+                            "BST Mieter",
+                            "BST Müllraum",
+                            "BST Stiegenhaus",
+                            "BST Triebwerksraum",
+                            "BST Dachboden",
+                            "BST 3OG",
+                            "BST 2OG",
+                            "Außentür Jungferngasse",
+                            "Außentür  Fischer von Erlach Straße"
+                        ]
+                    },
+                    {
+                        "Außenfenster mit Kipp- oder Drehflügel": [
+                            "Außenfenster mit Kipp- oder Drehflügel"
+                        ]
+                    }
+                ]
+            },
+            {
+                "338": [
+                    {
+                        "Sonnenschutzanlage": [
+                            "Sonnenschutzanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "339": [
+                    {
+                        "Werbeanlage": [
+                            "Werbeanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Lufttechnische Anlagen": {
+        "id": 430,
+        "subcategories": [
+            {
+                "431": [
+                    {
+                        "Abluftanlage": [
+                            "Abluftanlage Müllraum",
+                            "Abluftanlage Rohrventilator Heizraumtüre"
+                        ]
+                    }
+                ]
+            },
+            {
+                "439": [
+                    {
+                        "Rauchwärmeabzugsanlage (RWA)": [
+                            "Rauchwärmeabzugsanlage (RWA)"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Nutzungsspezifische Anlagen": {
+        "id": 470,
+        "subcategories": [
+            {
+                "474": [
+                    {
+                        "Handfeuerlöscher": [
+                            "Handfeuerlöscher"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Sonstiges zur KG": {
+        "id": 380,
+        "subcategories": [
+            {
+                "389": [
+                    {
+                        "Tritte / Leitern": [
+                            "Tritte / Leitern Triebwerksraum",
+                            "Tritte / Leitern"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Förderanlagen": {
+        "id": 460,
+        "subcategories": [
+            {
+                "461": [
+                    {
+                        "Personenaufzug": [
+                            "Personenaufzug"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gebäudeautomation": {
+        "id": 480,
+        "subcategories": [
+            {
+                "482": [
+                    {
+                        "GA-Schaltschränke": [
+                            "GA-Schaltschränke"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Technische Anlagen in Außenanlagen": {
+        "id": 540,
+        "subcategories": [
+            {
+                "546": [
+                    {
+                        "Außenbeleuchtung": [
+                            "Außenbeleuchtung"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,590 @@
+{
+    "Abwasser-, Wasser-, Gasanlagen": {
+        "id": 410,
+        "subcategories": [
+            {
+                "411": [
+                    {
+                        "Hebeanlage": [
+                            "Hebeanlage"
+                        ]
+                    },
+                    {
+                        "Neutralisationsanlage": [
+                            "Neutralisationsanlage 1",
+                            "Neutralisationsanlage 2"
+                        ]
+                    },
+                    {
+                        "Abläufe": [
+                            "Abläufe NO",
+                            "Abläufe SU",
+                            "Abläufe"
+                        ]
+                    },
+                    {
+                        "Abwasserleitungen": [
+                            "Abwasserleitungen Haus 3 Dach"
+                        ]
+                    }
+                ]
+            },
+            {
+                "412": [
+                    {
+                        "Rohrleitungen": [
+                            "Rohrleitungen Nachfüllstation",
+                            "Rohrleitungen"
+                        ]
+                    },
+                    {
+                        "Wasseraufbereitungsanlage (Enthärtung)": [
+                            "Wasseraufbereitungsanlage (Enthärtung)"
+                        ]
+                    },
+                    {
+                        "Sanitäre Einrichtungsgegenstände": [
+                            "Sanitäre Einrichtungsgegenstände"
+                        ]
+                    },
+                    {
+                        "Brunnenanlage": [
+                            "Brunnenanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "413": [
+                    {
+                        "Gaseinspeisung": [
+                            "Gaseinspeisung"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Wärmeversorgungsanlagen": {
+        "id": 420,
+        "subcategories": [
+            {
+                "422": [
+                    {
+                        "Wärmeverteilnetz": [
+                            "Wärmeverteilnetz",
+                            "WRG Kältemaschiene",
+                            "Wärmeverteilnetz Zirkulation",
+                            "Wärme/Kälteverteilnetz C10 Büro NO",
+                            "Wärme/Kälteverteilnetz C11 Zul Geschäft 1,2,3",
+                            "Wärme/Kälteverteilnetz C16 Zul Innenzone",
+                            "Wärme/Kälteverteilnetz C3 Zul Innenzone",
+                            "Wärme/Kälteverteilnetz C2 Kunden SW",
+                            "Wärme/Kälteverteilnetz C9 Sitzungszimmer DG",
+                            "Wärmeverteilnetz Zuluft Archiv 2",
+                            "Wärmeverteilnetz Abluft Archiv 1",
+                            "Wärmeverteilnetz Zuluft Archiv 1"
+                        ]
+                    },
+                    {
+                        "Druckhaltesystem mit Fremddruckerzeugung": [
+                            "Druckhaltesystem mit Fremddruckerzeugung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "421": [
+                    {
+                        "Gastherme": [
+                            "Gastherme 2",
+                            "Gastherme 1"
+                        ]
+                    },
+                    {
+                        "Schornstein": [
+                            "Schornstein"
+                        ]
+                    }
+                ]
+            },
+            {
+                "423": [
+                    {
+                        "Heizkörper": [
+                            "Heizkörper"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Fernmelde- und informationstechnische Anlagen": {
+        "id": 450,
+        "subcategories": [
+            {
+                "456": [
+                    {
+                        "Leckagewarnanlage": [
+                            "Leckagewarnanlage"
+                        ]
+                    },
+                    {
+                        "Gas-Warnanlage": [
+                            "CO-Warnanlage"
+                        ]
+                    },
+                    {
+                        "Brandmeldeanlage": [
+                            "Brandmeldeanlage"
+                        ]
+                    },
+                    {
+                        "Zugangskontrollanlage": [
+                            "Zugangskontrollanlage Mieter (nur Aufnahme zur Sicherheit)"
+                        ]
+                    },
+                    {
+                        "Videoüberwachungsanlage": [
+                            "Videoüberwachungsanlage Mieter"
+                        ]
+                    }
+                ]
+            },
+            {
+                "452": [
+                    {
+                        "Türsprech- und Türöffneranlage": [
+                            "Türsprech- und Türöffneranlage Haus 3",
+                            "Türsprech- und Türöffneranlage Haus 5",
+                            "Türsprech- und Türöffneranlage Haus 7"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gebäudeautomation": {
+        "id": 480,
+        "subcategories": [
+            {
+                "482": [
+                    {
+                        "GA-Schaltschränke": [
+                            "GA-Schaltschränke",
+                            "GA-Schaltschränke Lichtsteuerung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "481": [
+                    {
+                        "Automationssystem": [
+                            "Automationssystem"
+                        ]
+                    }
+                ]
+            },
+            {
+                "483": [
+                    {
+                        "Management-Ebene": [
+                            "Management-Ebene"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Lufttechnische Anlagen": {
+        "id": 430,
+        "subcategories": [
+            {
+                "431": [
+                    {
+                        "Zu- und Abluftanlage": [
+                            "Zu- und Abluftanlage",
+                            "Zu- und Abluftanlage Kältezentrale",
+                            "Zu- und Abluftanlage nshv"
+                        ]
+                    },
+                    {
+                        "Abluftanlage": [
+                            "Abluftanlage Garage",
+                            "Abluftanlage C12 Geschäft 1",
+                            "Abluftanlage C13 Geschäft 2",
+                            "Abluftanlage C15 WC EG",
+                            "Abluftanlage C17 Nebenräume 1,2 OG",
+                            "Abluftanlage C18 WC 1-3 OG",
+                            "Abluftanlage C14 Geschäft 3",
+                            "Abluftanlage Rückkühler 1",
+                            "Abluftanlage Rückkühler 2",
+                            "Abluftanlage Rückkühler 3",
+                            "Abluftanlage Rückkühler 4",
+                            "Abluftanlage C5 Abl Archiv Büro",
+                            "Abluftanlage C4 Abl EDV",
+                            "Abluftanlage C6 Abl WC",
+                            "Abluftanlage Kellerabteile 1",
+                            "Abluftanlage Kellerabteile 2",
+                            "Abluftanlage Haus 3 WC u. Bader",
+                            "Abluftanlage Haus 3 Küchen rechts",
+                            "Abluftanlage Haus 3 Küchen links",
+                            "Abluftanlage Kellerwasserzentrale",
+                            "Abluftanlage"
+                        ]
+                    },
+                    {
+                        "Luftschleieranlage": [
+                            "Torluftschleieranlage"
+                        ]
+                    },
+                    {
+                        "Zuluftanlage": [
+                            "Zuluftanlage Kellerwasserzentrale",
+                            "Zuluftanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "434": [
+                    {
+                        "Kompressionskältemaschine": [
+                            "Kompressionskältemaschine"
+                        ]
+                    },
+                    {
+                        "Verteilnetz / Pumpen - Kälteerzeugung": [
+                            "Verteilnetz / Pumpen - Kälteerzeugung",
+                            "Rückkühlung Verteilnetz / Pumpen - Kälteerzeugung"
+                        ]
+                    },
+                    {
+                        "Rückkühlwerk": [
+                            "Rückkühlwerk"
+                        ]
+                    },
+                    {
+                        "Splitanlage": [
+                            "Splitanlage Büro",
+                            "Splitanlage EDV"
+                        ]
+                    },
+                    {
+                        "Umluftkühlgerät": [
+                            "Fancoil gesamt"
+                        ]
+                    }
+                ]
+            },
+            {
+                "433": [
+                    {
+                        "Klimaanlage": [
+                            "Klimaanlage C10 Büro NO",
+                            "Klimaanlage C11 Zul Geschäft 1,2,3",
+                            "Klimaanlage C16 Zul Innenzone",
+                            "Klimaanlage C1 Büro SW",
+                            "Klimaanlage C3 Zul Innenzone",
+                            "Klimaanlage C2 Kunden SW",
+                            "Klimaanlage C9 Sitzungszimmer DG"
+                        ]
+                    }
+                ]
+            },
+            {
+                "439": [
+                    {
+                        "Kanalnetz": [
+                            "Kanalnetz NO",
+                            "Kanalnetz SU"
+                        ]
+                    },
+                    {
+                        "Rauchwärmeabzugsanlage (RWA)": [
+                            "Rauchwärmeabzugsanlage (RWA)",
+                            "Rauchwärmeabzugsanlage (RWA) Haus 3",
+                            "Rauchwärmeabzugsanlage (RWA) Haus 5",
+                            "Rauchwärmeabzugsanlage (RWA) Haus 7"
+                        ]
+                    },
+                    {
+                        "Brandschutzklappe": [
+                            "Brandschutzklappe gesamtes Haus"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Außenwände": {
+        "id": 330,
+        "subcategories": [
+            {
+                "334": [
+                    {
+                        "Außentür": [
+                            "Außentür",
+                            "Außentür Zugang Mieter links",
+                            "Außentür Zugang Mieter rechts",
+                            "Außentür Küche",
+                            "Außentür Zugang LZ Südwest",
+                            "Automatische Schiebetüren Hof innen",
+                            "Automatische Schiebetüren Hof außen",
+                            "Automatische Schiebetüren zum Mieter",
+                            "Außentür Zugang Kundenbetreuer",
+                            "Außentür Garage Haus 3"
+                        ]
+                    },
+                    {
+                        "Außentor": [
+                            "Außentor"
+                        ]
+                    },
+                    {
+                        "Außenfenster mit Kipp- oder Drehflügel": [
+                            "Außenfenster mit Kipp- oder Drehflügel Haus 1 1flg.",
+                            "Außenfenster mit Kipp- oder Drehflügel Haus 1 2flg.",
+                            "Außenfenster mit Kipp- oder Drehflügel Haus 3 1flg.",
+                            "Schaufenster Haus 1",
+                            "Außenfenster mit Kipp- oder Drehflügel Haus 5 u. 7 1flg.",
+                            "Schaufenster Haus 3",
+                            "Schaufenster Haus 5 u 7"
+                        ]
+                    }
+                ]
+            },
+            {
+                "339": [
+                    {
+                        "Werbeanlage": [
+                            "Werbeanlage Fassade 6 M am Haus 1",
+                            "Werbeanlage Fassade 9 M am Haus 1",
+                            "Werbeanlage Fassade 4 M am Haus 3",
+                            "Werbeanlage Boden vorm Haus 1",
+                            "Werbeanlage Fassade 15 M am Haus 3"
+                        ]
+                    }
+                ]
+            },
+            {
+                "338": [
+                    {
+                        "Sonnenschutzanlage": [
+                            "Sonnenschutzanlage Haus 1",
+                            "Sonnenschutzanlage Haus 3",
+                            "Sonnenschutzanlage Haus 5 u. 7"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Sonstiges zur KG": {
+        "id": 380,
+        "subcategories": [
+            {
+                "389": [
+                    {
+                        "Tritte / Leitern": [
+                            "Tritte / Leitern",
+                            "Tritte / Leitern Haus 3"
+                        ]
+                    }
+                ]
+            },
+            {
+                "387": [
+                    {
+                        "Rauchschutz- / Feuerschutzvorhang / Rauchschürze": [
+                            "Rauchschutz- / Feuerschutzvorhang / Rauchschürze"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Starkstromanlagen": {
+        "id": 440,
+        "subcategories": [
+            {
+                "443": [
+                    {
+                        "Niederspannungshauptverteiler": [
+                            "Niederspannungshauptverteiler",
+                            "Niederspannungshauptverteiler Haus AB Feld 4",
+                            "Niederspannungshauptverteiler Haus AB Feld 1",
+                            "Niederspannungshauptverteiler Haus AB Feld 2",
+                            "Niederspannungshauptverteiler Haus AB Feld 3"
+                        ]
+                    },
+                    {
+                        "Blindstromkompensationsanlage": [
+                            "Blindstromkompensationsanlage kap",
+                            "Blindstromkompensationsanlage ind"
+                        ]
+                    }
+                ]
+            },
+            {
+                "444": [
+                    {
+                        "NS-Unterverteiler": [
+                            "NS-Unterverteiler",
+                            "NS-Unterverteiler Aufzug Haus C",
+                            "NS-Unterverteiler Allg Haus AB"
+                        ]
+                    },
+                    {
+                        "Leitungen": [
+                            "Leitungen"
+                        ]
+                    },
+                    {
+                        "Kabel": [
+                            "Kabel"
+                        ]
+                    },
+                    {
+                        "Verlegesysteme": [
+                            "Verlegesysteme"
+                        ]
+                    }
+                ]
+            },
+            {
+                "445": [
+                    {
+                        "Sicherheitsbeleuchtungsanlage": [
+                            "Sicherheitsbeleuchtungsanlage"
+                        ]
+                    },
+                    {
+                        "Ampelanlage": [
+                            "Ampelanlage Einfahrt Garage",
+                            "Ampelanlage Ausfahrt Garage"
+                        ]
+                    },
+                    {
+                        "Raumbeleuchtung": [
+                            "Raumbeleuchtung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "442": [
+                    {
+                        "zentrale Batterieanlage": [
+                            "zentrale Batterieanlage"
+                        ]
+                    },
+                    {
+                        "USV-Anlage": [
+                            "USV-Anlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "449": [
+                    {
+                        "Begleitheizung": [
+                            "Begleitheizung nordost",
+                            "Begleitheizung südwest",
+                            "Begleitheizung Haus 3, 5, 7"
+                        ]
+                    }
+                ]
+            },
+            {
+                "446": [
+                    {
+                        "Blitzschutzanlage": [
+                            "Blitzschutzanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Ausstattung": {
+        "id": 610,
+        "subcategories": [
+            {
+                "611": [
+                    {
+                        "Werkstattausstattung": [
+                            "Wetterstation",
+                            "Feuerwehrschlüsselsafe",
+                            "Werkstattausstattung"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Nutzungsspezifische Anlagen": {
+        "id": 470,
+        "subcategories": [
+            {
+                "474": [
+                    {
+                        "Handfeuerlöscher": [
+                            "Handfeuerlöscher 3OG Stiegenhaus",
+                            "Handfeuerlöscher",
+                            "Handfeuerlöscher 2OG Stiegenhaus",
+                            "Handfeuerlöscher 1OG Stiegenhaus",
+                            "Handfeuerlöscher EG Foyer",
+                            "Handfeuerlöscher 1 UG",
+                            "Handfeuerlöscher Haus 3"
+                        ]
+                    }
+                ]
+            },
+            {
+                "472": [
+                    {
+                        "Kleinteilewaschmaschine": [
+                            "Kleinteilewaschmaschine"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Förderanlagen": {
+        "id": 460,
+        "subcategories": [
+            {
+                "461": [
+                    {
+                        "Personenaufzug": [
+                            "Personenaufzug Haus 1",
+                            "Personenaufzug Haus 3",
+                            "Personenaufzug Haus 5",
+                            "Personenaufzug Haus 7"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Dächer": {
+        "id": 360,
+        "subcategories": [
+            {
+                "363": [
+                    {
+                        "Geneigtes Dach": [
+                            "Geneigtes Dach Haus 1",
+                            "Geneigtes Dach Haus 5 und 7",
+                            "Geneigtes Dach Haus 3"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

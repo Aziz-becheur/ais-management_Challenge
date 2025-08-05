@@ -1,0 +1,365 @@
+{
+    "Starkstromanlagen": {
+        "id": 440,
+        "subcategories": [
+            {
+                "445": [
+                    {
+                        "Raumbeleuchtung": [
+                            "Raumbeleuchtung"
+                        ]
+                    },
+                    {
+                        "Sicherheitsbeleuchtungsanlage": [
+                            "Sicherheitsbeleuchtungsanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "444": [
+                    {
+                        "Verlegesysteme": [
+                            "Verlegesysteme"
+                        ]
+                    },
+                    {
+                        "Kabel": [
+                            "Kabel"
+                        ]
+                    },
+                    {
+                        "Leitungen": [
+                            "Leitungen"
+                        ]
+                    },
+                    {
+                        "NS-Unterverteiler": [
+                            "NS-Unterverteiler"
+                        ]
+                    }
+                ]
+            },
+            {
+                "446": [
+                    {
+                        "Blitzschutzanlage": [
+                            "Blitzschutzanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "443": [
+                    {
+                        "Niederspannungshauptverteiler": [
+                            "Niederspannungshauptverteiler Allgemein Verteiler",
+                            "Niederspannungshauptverteiler Zähler",
+                            "Niederspannungshauptverteiler"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Abwasser-, Wasser-, Gasanlagen": {
+        "id": 410,
+        "subcategories": [
+            {
+                "412": [
+                    {
+                        "Rohrleitungen": [
+                            "Rohrleitungen"
+                        ]
+                    },
+                    {
+                        "Sanitäre Einrichtungsgegenstände": [
+                            "Ausgußbecken"
+                        ]
+                    }
+                ]
+            },
+            {
+                "411": [
+                    {
+                        "Abwasserleitungen": [
+                            "Abwasserleitungen"
+                        ]
+                    },
+                    {
+                        "Abläufe": [
+                            "Abläufe",
+                            "Regenrinne",
+                            "Abläufe Hof"
+                        ]
+                    },
+                    {
+                        "Hebeanlage": [
+                            "Hebeanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Wärmeversorgungsanlagen": {
+        "id": 420,
+        "subcategories": [
+            {
+                "422": [
+                    {
+                        "Wärmeverteilnetz": [
+                            "Wärmeverteilnetz"
+                        ]
+                    }
+                ]
+            },
+            {
+                "421": [
+                    {
+                        "Wassererwärmungsanlage": [
+                            "Wassererwärmungsanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Lufttechnische Anlagen": {
+        "id": 430,
+        "subcategories": [
+            {
+                "439": [
+                    {
+                        "Kanalnetz": [
+                            "Kanalnetz"
+                        ]
+                    },
+                    {
+                        "Brandschutzklappe": [
+                            "Brandschutzklappen"
+                        ]
+                    },
+                    {
+                        "Rauchwärmeabzugsanlage (RWA)": [
+                            "Rauchwärmeabzugsanlage (RWA)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "434": [
+                    {
+                        "Verteilnetz / Pumpen - Kälteerzeugung": [
+                            "Verteilnetz / Pumpen - Kälteerzeugung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "431": [
+                    {
+                        "Abluftanlage": [
+                            "Abluftanlage Müllraum",
+                            "Abluftanlage Nassräume und Küchen",
+                            "Abluftanlage 1",
+                            "Abluftanlage 2"
+                        ]
+                    },
+                    {
+                        "Zu- und Abluftanlage": [
+                            "Zu- und Abluftanlage Büros"
+                        ]
+                    },
+                    {
+                        "Zuluftanlage": [
+                            "Zuluftanlage 2",
+                            "Zuluftanlage 1"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Außenwände": {
+        "id": 330,
+        "subcategories": [
+            {
+                "334": [
+                    {
+                        "Außentür": [
+                            "BST 01/1.DG Lüftungszentrale",
+                            "BST 02/1.DG Lüftungsschacht 1",
+                            "BST 03/1.DG Lüftungsschacht 2",
+                            "BST 04/1.DG Triebwerksraum",
+                            "BST 03/EG Müllraum",
+                            "BST 04/EG Lager Reisebüro",
+                            "BST 05/EG Zugang Reisebüro",
+                            "BST 06/KG Zugang Kellerabteile",
+                            "BST 07/KG Zugang Technik",
+                            "BST 08/KG Lager 1",
+                            "BST 09/KG Lager 2 (Thalbauer)",
+                            "BST 10/KG Lüftung/Heizung",
+                            "BST 11/KG Lager Ulla Popken",
+                            "BST 12/KG NSHV-Raum",
+                            "BST 13/KG Zählerraum",
+                            "Außentür Dachausstieg",
+                            "Außentür Dachluke",
+                            "BST 04/2.DG Triebwerksraum",
+                            "Außentür Flachdach",
+                            "Außentür Haupteingang",
+                            "Außentür Müllraum",
+                            "Außentür Reisebüro",
+                            "Außentür Ulla Propken",
+                            "Außentür Terrasse/Loggia/Balkon"
+                        ]
+                    },
+                    {
+                        "Außenfenster mit Kipp- oder Drehflügel": [
+                            "Außenfenster mit Kipp- oder Drehflügel"
+                        ]
+                    }
+                ]
+            },
+            {
+                "338": [
+                    {
+                        "Sonnenschutzanlage": [
+                            "Sonnenschutzanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Nutzungsspezifische Anlagen": {
+        "id": 470,
+        "subcategories": [
+            {
+                "474": [
+                    {
+                        "Löschwasseranlage (nass-trocken)": [
+                            "Löschwasseranlage (nass-trocken)"
+                        ]
+                    },
+                    {
+                        "Druckerhöhungsanlage für Löschwasseranlage": [
+                            "Druckerhöhungsanlage für Löschwasseranlage"
+                        ]
+                    },
+                    {
+                        "Handfeuerlöscher": [
+                            "Handfeuerlöscher 2. DG",
+                            "Handfeuerlöscher"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Förderanlagen": {
+        "id": 460,
+        "subcategories": [
+            {
+                "461": [
+                    {
+                        "Personenaufzug": [
+                            "Personenaufzug KG - 1. DG"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Dächer": {
+        "id": 360,
+        "subcategories": [
+            {
+                "363": [
+                    {
+                        "Geneigtes Dach": [
+                            "Geneigtes Dach"
+                        ]
+                    },
+                    {
+                        "Flachdach": [
+                            "Flachdach"
+                        ]
+                    }
+                ]
+            },
+            {
+                "362": [
+                    {
+                        "Lichtkuppel / Oberlicht / Dachfenster": [
+                            "Lichtkuppel / Oberlicht / Dachfenster"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Sonstiges zur KG": {
+        "id": 380,
+        "subcategories": [
+            {
+                "389": [
+                    {
+                        "Tritte / Leitern": [
+                            "Tritte / Leitern Dachsteg"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gebäudeautomation": {
+        "id": 480,
+        "subcategories": [
+            {
+                "482": [
+                    {
+                        "GA-Schaltschränke": [
+                            "GA-Schaltschränke LA 2. DG",
+                            "GA-Schaltschränke Geschäft 1",
+                            "GA-Schaltschränke Geschäft 2",
+                            "GA-Schaltschränke Heizung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "481": [
+                    {
+                        "Automationssystem": [
+                            "Automationssystem"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Fernmelde- und informationstechnische Anlagen": {
+        "id": 450,
+        "subcategories": [
+            {
+                "456": [
+                    {
+                        "Zugangskontrollanlage": [
+                            "Zugangskontrollanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "452": [
+                    {
+                        "Türsprech- und Türöffneranlage": [
+                            "Türsprech- und Türöffneranlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

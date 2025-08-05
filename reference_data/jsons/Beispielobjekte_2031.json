@@ -1,0 +1,639 @@
+{
+    "Starkstromanlagen": {
+        "id": 440,
+        "subcategories": [
+            {
+                "444": [
+                    {
+                        "Kabel": [
+                            "Kabel"
+                        ]
+                    },
+                    {
+                        "Leitungen": [
+                            "Leitungen"
+                        ]
+                    },
+                    {
+                        "Verlegesysteme": [
+                            "Verlegesysteme"
+                        ]
+                    },
+                    {
+                        "NS-Unterverteiler": [
+                            "NS-Unterverteiler Videoanlage Feld 4",
+                            "NS-Unterverteiler"
+                        ]
+                    }
+                ]
+            },
+            {
+                "445": [
+                    {
+                        "Raumbeleuchtung": [
+                            "Raumbeleuchtung"
+                        ]
+                    },
+                    {
+                        "Ampelanlage": [
+                            "Ampelanlage"
+                        ]
+                    },
+                    {
+                        "Sicherheitsbeleuchtungsanlage": [
+                            "Sicherheitsbeleuchtungsanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "446": [
+                    {
+                        "Blitzschutzanlage": [
+                            "Blitzschutzanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "442": [
+                    {
+                        "USV-Anlage": [
+                            "USV-Anlage"
+                        ]
+                    },
+                    {
+                        "Netzersatzanlage-Diesel": [
+                            "Netzersatzanlage-Diesel"
+                        ]
+                    }
+                ]
+            },
+            {
+                "443": [
+                    {
+                        "Blindstromkompensationsanlage": [
+                            "Blindstromkompensationsanlage"
+                        ]
+                    },
+                    {
+                        "Niederspannungshauptverteiler": [
+                            "Niederspannungshauptverteiler Feld 1",
+                            "Niederspannungshauptverteiler Feld 2",
+                            "Niederspannungshauptverteiler Feld 3",
+                            "Niederspannungshauptverteiler Feld 4",
+                            "Niederspannungshauptverteiler Feld 5",
+                            "Niederspannungshauptverteiler Feld 6",
+                            "Niederspannungshauptverteiler Feld 7",
+                            "Niederspannungshauptverteiler Feld 8"
+                        ]
+                    }
+                ]
+            },
+            {
+                "449": [
+                    {
+                        "Begleitheizung": [
+                            "Begleitheizung",
+                            "Begleitheizung Dachrinne",
+                            "Begleitheizung Rigol"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Abwasser-, Wasser-, Gasanlagen": {
+        "id": 410,
+        "subcategories": [
+            {
+                "412": [
+                    {
+                        "Rohrleitungen": [
+                            "Rohrleitungen"
+                        ]
+                    },
+                    {
+                        "Sanitäre Einrichtungsgegenstände": [
+                            "Sanitäre Einrichtungsgegenstände Ausgußbecken"
+                        ]
+                    }
+                ]
+            },
+            {
+                "411": [
+                    {
+                        "Abwasserleitungen": [
+                            "Abwasserleitungen"
+                        ]
+                    },
+                    {
+                        "Leichtflüssigkeitsabscheider": [
+                            "Leichtflüssigkeitsabscheider - Mineralölabscheider"
+                        ]
+                    },
+                    {
+                        "Abläufe": [
+                            "Abläufe"
+                        ]
+                    },
+                    {
+                        "Hebeanlage": [
+                            "Hebeanlage 26,5m",
+                            "Hebeanlage 26,5m³"
+                        ]
+                    },
+                    {
+                        "Tauchpumpe": [
+                            "Tauchpumpe"
+                        ]
+                    },
+                    {
+                        "Fettabscheider": [
+                            "Fettabscheider"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Wärmeversorgungsanlagen": {
+        "id": 420,
+        "subcategories": [
+            {
+                "422": [
+                    {
+                        "Wärmeverteilnetz": [
+                            "Wärmeverteilnetz"
+                        ]
+                    }
+                ]
+            },
+            {
+                "421": [
+                    {
+                        "Fernwärmeübergabestation - Heißwasser": [
+                            "Fernwärmeübergabestation - Heißwasser"
+                        ]
+                    },
+                    {
+                        "Wassererwärmungsanlage": [
+                            "Wassererwärmungsanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "423": [
+                    {
+                        "Heizkörper": [
+                            "Heizkörper"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Lufttechnische Anlagen": {
+        "id": 430,
+        "subcategories": [
+            {
+                "439": [
+                    {
+                        "Kanalnetz": [
+                            "Kanalnetz"
+                        ]
+                    },
+                    {
+                        "Brandschutzklappe": [
+                            "Brandschutzklappe"
+                        ]
+                    },
+                    {
+                        "Rauchwärmeabzugsanlage (RWA)": [
+                            "Rauchwärmeabzugsanlage (RWA)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "433": [
+                    {
+                        "Klimaanlage": [
+                            "Klimaanlage L1 - Büro, Kundenhalle",
+                            "Klimaanlage L2 - innenliegende Räume"
+                        ]
+                    }
+                ]
+            },
+            {
+                "431": [
+                    {
+                        "Abluftanlage": [
+                            "Abluftanlage L3  - Abluftventilator WC",
+                            "Abluftanlage L5 - Lüftung Technikräume",
+                            "Abluftanlage L7 - Lüftung Fernwärme",
+                            "Abluftanlage L8 - Lüftung Schleuse",
+                            "Abluftanlage L9 - Lüftung Schleuse",
+                            "Abluftanlage L10 - Lüftung Schleuse",
+                            "Abluftanlage L11 - Lüftung Lager/Müllraum",
+                            "Abluftanlage L12 - Lüftung Maschinenraum",
+                            "Abluftanlage L13 - Lüftung Maschinenraum",
+                            "Abluftanlage L14 - Abluft Batterieraum",
+                            "Abluftanlage L15 - Lüftung Fettabscheider",
+                            "Abluftanlage"
+                        ]
+                    },
+                    {
+                        "Zu- und Abluftanlage": [
+                            "Zu- und Abluftanlage L4 - Lüftung Lager, Keller",
+                            "Zuftanlage L6 - Lüftung Küche"
+                        ]
+                    },
+                    {
+                        "Zuluftanlage": [
+                            "Zuluftanlage L5 - Lüftung Technikräume",
+                            "Zuluftanlage L7 - Lüftung Fernwärme",
+                            "Zuluftanlage L8 - Lüftung Schleuse",
+                            "Zuluftanlage L9 - Lüftung Schleuse",
+                            "Zuluftanlage L10 - Lüftung Schleuse",
+                            "Zuluftanlage L11 - Lüftung Lager/Müllraum",
+                            "Zuluftanlage BRE Garage"
+                        ]
+                    },
+                    {
+                        "Küchenabluftanlage": [
+                            "Küchenabluftanlage L6 - Lüftung Küche"
+                        ]
+                    },
+                    {
+                        "Luftschleieranlage": [
+                            "Luftschleieranlage - Fancoils Mietbereiche",
+                            "Fancoil Batterieraum",
+                            "Luftschleieranlage"
+                        ]
+                    },
+                    {
+                        "Maschinelle Rauch-/Wärmeabzuganlage (MRA)": [
+                            "Maschinelle Rauch-/Wärmeabzuganlage (MRA) L16"
+                        ]
+                    }
+                ]
+            },
+            {
+                "434": [
+                    {
+                        "Verteilnetz / Pumpen - Kälteerzeugung": [
+                            "Verteilnetz / Pumpen - Kälteerzeugung"
+                        ]
+                    },
+                    {
+                        "Kompressionskältemaschine": [
+                            "Kompressionskältemaschine I",
+                            "Kompressionskältemaschine II",
+                            "Kompressionskältemaschine III"
+                        ]
+                    },
+                    {
+                        "Splitanlage": [
+                            "Splitanlage Serverraum und Kundenbüro"
+                        ]
+                    },
+                    {
+                        "Rückkühlwerk": [
+                            "Rückkühlwerk KM I und II"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Fernmelde- und informationstechnische Anlagen": {
+        "id": 450,
+        "subcategories": [
+            {
+                "456": [
+                    {
+                        "Brandmeldeanlage": [
+                            "Brandmeldeanlage"
+                        ]
+                    },
+                    {
+                        "Gas-Warnanlage": [
+                            "Gas-Warnanlage - CO Anlage"
+                        ]
+                    },
+                    {
+                        "Zugangskontrollanlage": [
+                            "Zugangskontrollanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "452": [
+                    {
+                        "Türsprech- und Türöffneranlage": [
+                            "Türsprech- und Türöffneranlage",
+                            "Türsprech- und Türöffneranlage mit Tastenfeld"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Ausstattung": {
+        "id": 610,
+        "subcategories": [
+            {
+                "611": [
+                    {
+                        "Werkstattausstattung": [
+                            "Feuerwehrschlüsselsafe",
+                            "Bewässerung"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Nutzungsspezifische Anlagen": {
+        "id": 470,
+        "subcategories": [
+            {
+                "474": [
+                    {
+                        "Löschwasseranlage (nass-trocken)": [
+                            "Löschwasseranlage (nass-trocken)"
+                        ]
+                    },
+                    {
+                        "Handfeuerlöscher": [
+                            "Handfeuerlöscher"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gebäudeautomation": {
+        "id": 480,
+        "subcategories": [
+            {
+                "482": [
+                    {
+                        "GA-Schaltschränke": [
+                            "GA-Schaltschränke"
+                        ]
+                    }
+                ]
+            },
+            {
+                "483": [
+                    {
+                        "Management-Ebene": [
+                            "Management-Ebene"
+                        ]
+                    }
+                ]
+            },
+            {
+                "481": [
+                    {
+                        "Automationssystem": [
+                            "Automationssystem"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Sonstiges zur KG": {
+        "id": 380,
+        "subcategories": [
+            {
+                "389": [
+                    {
+                        "Tritte / Leitern": [
+                            "Tritte / Leitern"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Förderanlagen": {
+        "id": 460,
+        "subcategories": [
+            {
+                "461": [
+                    {
+                        "Personenaufzug": [
+                            "Personenaufzug"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Technische Anlagen in Außenanlagen": {
+        "id": 540,
+        "subcategories": [
+            {
+                "546": [
+                    {
+                        "Außenbeleuchtung": [
+                            "Außenbeleuchtung 5OG",
+                            "Außenbeleuchtung EG"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Außenwände": {
+        "id": 330,
+        "subcategories": [
+            {
+                "334": [
+                    {
+                        "Außentür": [
+                            "BST 01 Dachausstieg",
+                            "BST 02 Lüftungszentrale",
+                            "BST 03 Aufgang 7OG",
+                            "BST 04 Gang zu Hauptstiegenhaus",
+                            "BST 05 E-Verteilerraum",
+                            "BST 06 Hauptstiegenhaus zu Gang Aufzug und Gästezimmer",
+                            "BST 07 Steig- und Versorgungsschachtraum",
+                            "BST 08 Gang zu Gästerzimmer",
+                            "BST 09 Gang zu Lager Küche",
+                            "BST 10 Gang zu Kantine",
+                            "BST 11 Gang zu Arbeitsraum Küche",
+                            "BST 12 Arbeitsraum Küche zu Kantine",
+                            "BST 13 Küche zu Kantine",
+                            "BST 14 Fluchtstiegenhaus",
+                            "BST 15 Fluchtstiege",
+                            "BST 16 Gang Nord zu Foyer",
+                            "BST 17 Foyer zu Hauptstiegenhaus",
+                            "BST 18 Foyer zu Gang Süde",
+                            "BST 19 Gang Süd zu Hauptstiegenhaus",
+                            "BST 20 Versorgungs-/Steigschacht",
+                            "BST 21 E-Verteilerraum",
+                            "BST 22 Hauptstiegenhaus zu Besprechungszimmer",
+                            "BST 23 Fluchtstiege",
+                            "BST 24 Gang NO zu Gang NW",
+                            "BST 25 Gang NO zu Foyer",
+                            "BST 26 Foyer zu Hauptstiegenhaus",
+                            "BST 27",
+                            "BST 28",
+                            "BST 29",
+                            "BST 30",
+                            "BST 31",
+                            "BST 32",
+                            "BST 33",
+                            "BST 34",
+                            "BST 35",
+                            "BST 36",
+                            "BST 37",
+                            "BST 38",
+                            "BST 39",
+                            "BST 40",
+                            "BST 41",
+                            "BST 42",
+                            "BST 43",
+                            "BST 44",
+                            "BST 45",
+                            "BST 46",
+                            "BST 47",
+                            "BST 48",
+                            "BST 49",
+                            "BST 50",
+                            "BST 51",
+                            "BST 52",
+                            "BST 53",
+                            "BST 54",
+                            "BST 55",
+                            "BST 57",
+                            "BST 58",
+                            "BST 59",
+                            "BST 60",
+                            "BST 61",
+                            "BST 62",
+                            "BST 63",
+                            "BST 64",
+                            "BST 65",
+                            "BST 66",
+                            "BST 67",
+                            "BST 68",
+                            "BST 69",
+                            "BST 70",
+                            "BST 71",
+                            "BST 72",
+                            "BST 73",
+                            "BST 74",
+                            "BST 75",
+                            "BST 76",
+                            "BST 77",
+                            "BST 78",
+                            "BST 79",
+                            "BST 80",
+                            "BST 81",
+                            "BST 82",
+                            "BST 83",
+                            "BST 84",
+                            "BST 85",
+                            "BST 86",
+                            "BST 87",
+                            "BST 88",
+                            "BST 89",
+                            "BST 90",
+                            "BST 91",
+                            "BST 92",
+                            "BST 93",
+                            "BST 94",
+                            "BST 95",
+                            "BST 97",
+                            "BST 98",
+                            "BST 99",
+                            "BST 100",
+                            "BST 101",
+                            "BST 102",
+                            "BST 103",
+                            "BST 104",
+                            "BST 105",
+                            "BST 106",
+                            "BST 107",
+                            "BST 108",
+                            "BST 109",
+                            "BST 110",
+                            "BST 111",
+                            "BST 112",
+                            "BST 113",
+                            "BST 114",
+                            "BST 115",
+                            "BST 116",
+                            "BST 117",
+                            "BST 118",
+                            "BST 119",
+                            "BST 120",
+                            "BST 121",
+                            "BST 122",
+                            "BST 123",
+                            "BST 124",
+                            "BST 125",
+                            "BST 126",
+                            "BST 127"
+                        ]
+                    },
+                    {
+                        "Außenfenster mit Kipp- oder Drehflügel": [
+                            "Außenfenster mit Kipp- oder Drehflügel"
+                        ]
+                    }
+                ]
+            },
+            {
+                "338": [
+                    {
+                        "Sonnenschutzanlage": [
+                            "Sonnenschutzanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Dächer": {
+        "id": 360,
+        "subcategories": [
+            {
+                "363": [
+                    {
+                        "Flachdach": [
+                            "Flachdach"
+                        ]
+                    },
+                    {
+                        "Geneigtes Dach": [
+                            "Geneigtes Dach"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Baukonstruktionen in Außenanlagen": {
+        "id": 530,
+        "subcategories": [
+            {
+                "531": [
+                    {
+                        "Schrankenanlage": [
+                            "Schrankenanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

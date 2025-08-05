@@ -1,0 +1,504 @@
+{
+    "Lufttechnische Anlagen": {
+        "id": 430,
+        "subcategories": [
+            {
+                "433": [
+                    {
+                        "Klimaanlage": [
+                            "Klimaanlage Nord Süd",
+                            "Klimaanlage Anlage 3 (Schulung)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "431": [
+                    {
+                        "Abluftanlage": [
+                            "Abluftanlage Küche",
+                            "Abluftanlage WC 1",
+                            "Abluftanlage WC 2",
+                            "Abuftanlage Dachventilator",
+                            "Abluftventilator KM-Raum"
+                        ]
+                    }
+                ]
+            },
+            {
+                "439": [
+                    {
+                        "Brandschutzklappe": [
+                            "Brandschutzklappen elektrisch"
+                        ]
+                    },
+                    {
+                        "Kanalnetz": [
+                            "Kanalnetz Klimaanlage Nord Süd (Zuluft)",
+                            "Kanalnetz Klimaanlage Nord Süd (Abluft)",
+                            "Kanalnetz Abluftanlage Küche (Abluft)",
+                            "Kanalnetz Abluftanlage WC 1 (Abluft)",
+                            "Kanalnetz Abluftanlage WC 2 (Abluft)",
+                            "Kanalnetz Abluftanlage Dachventilator (Abluft)",
+                            "Kanalnetz Anlage 3 (Schulung) (Abluft)",
+                            "Kanalnetz Anlage 3 (Schulung) (Zuluft)"
+                        ]
+                    },
+                    {
+                        "Rauchwärmeabzugsanlage (RWA)": [
+                            "Rauchwärmeabzugsanlage (RWA)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "434": [
+                    {
+                        "Kompressionskältemaschine": [
+                            "Kompressionskältemaschine Trane",
+                            "Kompressionskältemaschine Hiros"
+                        ]
+                    },
+                    {
+                        "Verteilnetz / Pumpen - Kälteerzeugung": [
+                            "Verteilnetz / Pumpen - Kälteerzeugung"
+                        ]
+                    },
+                    {
+                        "Rückkühlwerk": [
+                            "Rückkühlwerk Hiros",
+                            "Rückkühlwerk Trane"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Abwasser-, Wasser-, Gasanlagen": {
+        "id": 410,
+        "subcategories": [
+            {
+                "411": [
+                    {
+                        "Abläufe": [
+                            "Abläufe"
+                        ]
+                    },
+                    {
+                        "Abwasserleitungen": [
+                            "Abwasserleitungen"
+                        ]
+                    }
+                ]
+            },
+            {
+                "412": [
+                    {
+                        "Rohrleitungen": [
+                            "Rohrleitungen"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Nutzungsspezifische Anlagen": {
+        "id": 470,
+        "subcategories": [
+            {
+                "474": [
+                    {
+                        "Handfeuerlöscher": [
+                            "Handfeuerlöscher 1",
+                            "Handfeuerlöscher 2",
+                            "Handfeuerlöscher 3",
+                            "Handfeuerlöscher 4",
+                            "Handfeuerlöscher 5",
+                            "Handfeuerlöscher Stg 1 4OG",
+                            "Handfeuerlöscher Stg 2 4OG",
+                            "Handfeuerlöscher Stg 1 3OG",
+                            "Handfeuerlöscher Stg 2 3OG",
+                            "Handfeuerlöscher Stg 1 2OG",
+                            "Handfeuerlöscher Stg 2 2OG",
+                            "Handfeuerlöscher Stg 1 1OG",
+                            "Handfeuerlöscher Stg. 2 1OG",
+                            "Handfeuerlöscher Stg 1 EG",
+                            "Handfeuerlöscher  Stg 2 EG",
+                            "Handfeuerlöscher Foyer",
+                            "Handfeuerlöscher  Stg. 2 UG1",
+                            "Handfeuerlöscher Stg 1 UG1",
+                            "Handfeuerlöscher Pulver Garage 12 kg",
+                            "Handfeuerlöscher Pulver Garage 9 kg",
+                            "Handfeuerlöscher NSHV",
+                            "Handfeuerlöscher NSHV 2"
+                        ]
+                    },
+                    {
+                        "Löschwasseranlage (trocken)": [
+                            "Löschwasseranlage (trocken)"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Starkstromanlagen": {
+        "id": 440,
+        "subcategories": [
+            {
+                "445": [
+                    {
+                        "Sicherheitsbeleuchtungsanlage": [
+                            "Sicherheitsbeleuchtungsanlage"
+                        ]
+                    },
+                    {
+                        "Raumbeleuchtung": [
+                            "Raumbeleuchtung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "446": [
+                    {
+                        "Blitzschutzanlage": [
+                            "Blitzschutzanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "444": [
+                    {
+                        "NS-Unterverteiler": [
+                            "NS-Unterverteiler 1OG",
+                            "NS-Unterverteiler 2OG",
+                            "NS-Unterverteiler 3OG",
+                            "NS-Unterverteiler 4OG",
+                            "NS-Unterverteiler DG LZ"
+                        ]
+                    },
+                    {
+                        "Leitungen": [
+                            "Leitungen"
+                        ]
+                    },
+                    {
+                        "Kabel": [
+                            "Kabel"
+                        ]
+                    },
+                    {
+                        "Verlegesysteme": [
+                            "Verlegesysteme"
+                        ]
+                    }
+                ]
+            },
+            {
+                "443": [
+                    {
+                        "Niederspannungshauptverteiler": [
+                            "Niederspannungshauptverteiler"
+                        ]
+                    },
+                    {
+                        "Blindstromkompensationsanlage": [
+                            "Blindstromkompensationsanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "441": [
+                    {
+                        "Transformator": [
+                            "Transformator 1",
+                            "Transformator 2"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gebäudeautomation": {
+        "id": 480,
+        "subcategories": [
+            {
+                "482": [
+                    {
+                        "GA-Schaltschränke": [
+                            "GA-Schaltschränke A",
+                            "GA-Schaltschränke B",
+                            "GA-Schaltschränke C",
+                            "GA-Schaltschränke D",
+                            "GA-Schaltschränke",
+                            "GA-Schaltschränke Heizung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "481": [
+                    {
+                        "Automationssystem": [
+                            "Automationssystem"
+                        ]
+                    }
+                ]
+            },
+            {
+                "483": [
+                    {
+                        "Management-Ebene": [
+                            "Management-Ebene"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Dächer": {
+        "id": 360,
+        "subcategories": [
+            {
+                "362": [
+                    {
+                        "Lichtkuppel / Oberlicht / Dachfenster": [
+                            "Lichtkuppel / Oberlicht / Dachfenster",
+                            "Lichtkuppel / Oberlicht / Dachfenster Mensa"
+                        ]
+                    }
+                ]
+            },
+            {
+                "363": [
+                    {
+                        "Flachdach": [
+                            "Flachdach"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Außenwände": {
+        "id": 330,
+        "subcategories": [
+            {
+                "334": [
+                    {
+                        "Außentür": [
+                            "Brandschutztüre Lüftungszentrale",
+                            "Außentüre DG LZ",
+                            "Brandschutztüre Stg. 2 4OG",
+                            "Brandschutztüre Stg. 1 4OG",
+                            "Brandschutztüre Mietbereich 4OG",
+                            "Brandschutztüre Stg. 2 3OG",
+                            "Brandschutztüre Stg. 1 3OG",
+                            "Brandschutztüre Mietbereich 3OG",
+                            "Brandschutztüre Stg. 2 2OG",
+                            "Brandschutztüre Stg. 1 2OG",
+                            "Brandschutztüre Mietbereich 2OG",
+                            "Brandschutztüre Stg. 2 1OG",
+                            "Brandschutztüre Stg. 1 1OG",
+                            "Brandschutztüre Mietbereich 1OG",
+                            "Brandschutztüre Stg. 1 EG",
+                            "Brandschutztüre Stg. 2 EG",
+                            "Brandschutztüre EG Foyer - Lager 2",
+                            "Brandschutztüre EG Lager 2",
+                            "Brandschutztüre EG Foyer - Haustechnik",
+                            "Brandschutztüre EG Foyer - Restroom",
+                            "Brandschutztüre EG Foyer - Mensa 1",
+                            "Brandschutztüre EG Foyer - Mensa 2",
+                            "Brandschutztüre Stg 2 UG1",
+                            "Brandschutztüre Stg 2 Garage 1 UG",
+                            "Brandschutztüre Stiege 2 Abstellraum 1UG",
+                            "Brandschutztüre Stiege 2 Zugang FH Campus 1UG",
+                            "Außentür - Automatische Schiebetür",
+                            "Brandschutztüre 5OG Kälteverteilerraum",
+                            "Brandschutztüre 5OG Aufzugstriebwerksraum",
+                            "Brandschutztüre 5OG Stiege 1"
+                        ]
+                    },
+                    {
+                        "Außentor": [
+                            "Außentor Garagentor"
+                        ]
+                    },
+                    {
+                        "Außenfenster mit Kipp- oder Drehflügel": [
+                            "Außenfenster mit Kipp- oder Drehflügel"
+                        ]
+                    }
+                ]
+            },
+            {
+                "339": [
+                    {
+                        "Werbeanlage": [
+                            "Werbeanlage GENERALI Außenfassade"
+                        ]
+                    }
+                ]
+            },
+            {
+                "338": [
+                    {
+                        "Sonnenschutzanlage": [
+                            "Sonnenschutzanlage gesamtes Haus"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Sonstiges zur KG": {
+        "id": 380,
+        "subcategories": [
+            {
+                "389": [
+                    {
+                        "Tritte / Leitern": [
+                            "Tritte / Leitern"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Wärmeversorgungsanlagen": {
+        "id": 420,
+        "subcategories": [
+            {
+                "422": [
+                    {
+                        "Wärmeverteilnetz": [
+                            "Wärmeverteilnetz"
+                        ]
+                    },
+                    {
+                        "Druckhaltesystem mit Fremddruckerzeugung": [
+                            "Druckhaltesystem mit Fremddruckerzeugung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "421": [
+                    {
+                        "Fernwärmeübergabestation - Heißwasser": [
+                            "Fernwärmeübergabestation - Heißwasser"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Förderanlagen": {
+        "id": 460,
+        "subcategories": [
+            {
+                "461": [
+                    {
+                        "Treppenlifter": [
+                            "Treppenlifter Haupteingang"
+                        ]
+                    },
+                    {
+                        "Personenaufzug": [
+                            "Personenaufzug 2",
+                            "Personenaufzug 1"
+                        ]
+                    }
+                ]
+            },
+            {
+                "469": [
+                    {
+                        "Scherenhubtisch": [
+                            "Scherenhubtisch"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Baukonstruktionen in Außenanlagen": {
+        "id": 530,
+        "subcategories": [
+            {
+                "531": [
+                    {
+                        "Schrankenanlage": [
+                            "Schrankenanlage Einfahrt",
+                            "Schrankenanlage Ausfahrt"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Fernmelde- und informationstechnische Anlagen": {
+        "id": 450,
+        "subcategories": [
+            {
+                "452": [
+                    {
+                        "Türsprech- und Türöffneranlage": [
+                            "Türsprech- und Türöffneranlage Schranken PKW",
+                            "Türsprech- und Türöffneranlage Schranken LKW",
+                            "Türsprech- und Türöffneranlage Gegensprechanlage Haupteingang"
+                        ]
+                    }
+                ]
+            },
+            {
+                "456": [
+                    {
+                        "Brandmeldeanlage": [
+                            "Brandmeldeanlage"
+                        ]
+                    },
+                    {
+                        "Gas-Warnanlage": [
+                            "Gas-Warnanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Technische Anlagen in Außenanlagen": {
+        "id": 540,
+        "subcategories": [
+            {
+                "546": [
+                    {
+                        "Außenbeleuchtung": [
+                            "Außenbeleuchtung",
+                            "Außenbeleuchtung Eingang Spots",
+                            "Außenbeleuchtung 2",
+                            "Außenbeleuchtung Außenleuchten"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Ausstattung": {
+        "id": 610,
+        "subcategories": [
+            {
+                "611": [
+                    {
+                        "Werkstattausstattung": [
+                            "Feuerwehrschlüsselsafe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,506 @@
+{
+    "Abwasser-, Wasser-, Gasanlagen": {
+        "id": 410,
+        "subcategories": [
+            {
+                "411": [
+                    {
+                        "Abwasserleitungen": [
+                            "Abwasserleitungen"
+                        ]
+                    },
+                    {
+                        "Abläufe": [
+                            "Abläufe Dachgully",
+                            "Abläufe"
+                        ]
+                    },
+                    {
+                        "Hebeanlage": [
+                            "Hebeanlage"
+                        ]
+                    },
+                    {
+                        "Tauchpumpe": [
+                            "Tauchpumpe Sumpfpumpe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "412": [
+                    {
+                        "Rohrleitungen": [
+                            "Kaltwasser - Rohrleitungsnetz"
+                        ]
+                    },
+                    {
+                        "Sanitäre Einrichtungsgegenstände": [
+                            "Sanitäre Einrichtungsgegenstände Ausgußbecken"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Wärmeversorgungsanlagen": {
+        "id": 420,
+        "subcategories": [
+            {
+                "422": [
+                    {
+                        "Wärmeverteilnetz": [
+                            "Wärmeverteilnetz"
+                        ]
+                    }
+                ]
+            },
+            {
+                "423": [
+                    {
+                        "Heizkörper": [
+                            "Heizkörper"
+                        ]
+                    }
+                ]
+            },
+            {
+                "421": [
+                    {
+                        "Fernwärmeübergabestation - Heißwasser": [
+                            "Fernwärmeübergabestation - Heißwasser 1"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Lufttechnische Anlagen": {
+        "id": 430,
+        "subcategories": [
+            {
+                "434": [
+                    {
+                        "Verteilnetz / Pumpen - Kälteerzeugung": [
+                            "Kälteverteilnetz"
+                        ]
+                    },
+                    {
+                        "Kompressionskältemaschine": [
+                            "Kältemaschine KM 1",
+                            "Kältemaschine KM 2"
+                        ]
+                    },
+                    {
+                        "Rückkühlwerk": [
+                            "Rückkühlwerk 1",
+                            "Rückkühlwerk 2"
+                        ]
+                    }
+                ]
+            },
+            {
+                "439": [
+                    {
+                        "Kanalnetz": [
+                            "LA-Kanalnetz"
+                        ]
+                    },
+                    {
+                        "Brandschutzklappe": [
+                            "Brandschutzklappen"
+                        ]
+                    },
+                    {
+                        "Rauchwärmeabzugsanlage (RWA)": [
+                            "Rauchwärmeabzugsanlage (RWA) - STGH 2",
+                            "Rauchwärmeabzugsanlage (RWA) - STGH 1",
+                            "Rauchwärmeabzugsanlage (RWA) 1",
+                            "Rauchwärmeabzugsanlage (RWA) 2"
+                        ]
+                    }
+                ]
+            },
+            {
+                "432": [
+                    {
+                        "Teilklimaanlage": [
+                            "Teilklimaanlage LA01 innenliegende Räume",
+                            "Teilklimaanlage - LA02 ÖTV"
+                        ]
+                    }
+                ]
+            },
+            {
+                "431": [
+                    {
+                        "Zu- und Abluftanlage": [
+                            "Zu- und Abluftanlage LA01 innenliegende Räume",
+                            "Zu- und Abluftanlage LA02 Büro DG",
+                            "Zu- und Abluftanlage LA10 BTV",
+                            "Zu- und Abluftanlage BTV Besprechung Umläuft?",
+                            "Zu- und Abluftanlage LA12",
+                            "Zu- und Abluftanlage LA02 ÖTV",
+                            "Zu- und Abluftanlage Coffeeday"
+                        ]
+                    },
+                    {
+                        "Küchenabluftanlage": [
+                            "Küchenabluftanlage LA13"
+                        ]
+                    },
+                    {
+                        "Abluftanlage": [
+                            "Abluftanlage LA04 Müllraum EG",
+                            "Abluftanlage LA04 Müllraum KG",
+                            "Abluftanlage LA05 Kältezentrale",
+                            "Abluftanlage LA14 WC"
+                        ]
+                    },
+                    {
+                        "Luftschleieranlage": [
+                            "Luftschleieranlage LA11",
+                            "Fancoils"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Starkstromanlagen": {
+        "id": 440,
+        "subcategories": [
+            {
+                "443": [
+                    {
+                        "Niederspannungshauptverteiler": [
+                            "Niederspannungshauptverteiler Trafo 1",
+                            "Niederspannungshauptverteiler Trafo 2",
+                            "Niederspannungshauptverteiler Feld 2",
+                            "Niederspannungshauptverteiler Feld 3",
+                            "Niederspannungshauptverteiler Feld 4"
+                        ]
+                    },
+                    {
+                        "Blindstromkompensationsanlage": [
+                            "Blindstromkompensationsanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "446": [
+                    {
+                        "Blitzschutzanlage": [
+                            "Blitzschutzanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "445": [
+                    {
+                        "Sicherheitsbeleuchtungsanlage": [
+                            "Sicherheitsbeleuchtungsanlage"
+                        ]
+                    },
+                    {
+                        "Raumbeleuchtung": [
+                            "Raumbeleuchtung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "444": [
+                    {
+                        "Leitungen": [
+                            "Leitungen"
+                        ]
+                    },
+                    {
+                        "Kabel": [
+                            "Kabel"
+                        ]
+                    },
+                    {
+                        "Verlegesysteme": [
+                            "Verlegesysteme"
+                        ]
+                    },
+                    {
+                        "NS-Unterverteiler": [
+                            "NS-Unterverteiler UV A Spitzboden",
+                            "NS-Unterverteiler Mietberteich",
+                            "NS-Unterverteiler"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Ausstattung": {
+        "id": 610,
+        "subcategories": [
+            {
+                "611": [
+                    {
+                        "Werkstattausstattung": [
+                            "Feuerwehrschlüsselsafe"
+                        ]
+                    },
+                    {
+                        "Leitern, Tritte ortsveränderl.": [
+                            "Leitern, Tritte ortsveränderl."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Fernmelde- und informationstechnische Anlagen": {
+        "id": 450,
+        "subcategories": [
+            {
+                "456": [
+                    {
+                        "Brandmeldeanlage": [
+                            "Brandmeldeanlage"
+                        ]
+                    },
+                    {
+                        "Zugangskontrollanlage": [
+                            "Zugangskontrollanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "452": [
+                    {
+                        "Türsprech- und Türöffneranlage": [
+                            "Türsprech- und Türöffneranlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Nutzungsspezifische Anlagen": {
+        "id": 470,
+        "subcategories": [
+            {
+                "474": [
+                    {
+                        "Löschwasseranlage (trocken)": [
+                            "Löschwasseranlage (trocken) Einspeisung"
+                        ]
+                    },
+                    {
+                        "Handfeuerlöscher": [
+                            "Handfeuerlöscher 1. UG vor E-Betriebsraum",
+                            "Handfeuerlöscher 1. Gang vor Kältezentrale",
+                            "Handfeuerlöscher 1. UG Gang Nähe Lift",
+                            "Handfeuerlöscher 1. UG Gang bei Lift",
+                            "Handfeuerlöscher 6 1. UG Lagergang",
+                            "Handfeuerlöscher 5 1. UG Lagergang",
+                            "Handfeuerlöscher 1. UG Gitterlager",
+                            "Handfeuerlöscher EG Seitengang, Gang zu Lift",
+                            "Handfeuerlöscher DG, Lüftungszentrale Notstiege"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Sonstiges zur KG": {
+        "id": 380,
+        "subcategories": [
+            {
+                "389": [
+                    {
+                        "Anschlagpunkte": [
+                            "Anschlagpunkte",
+                            "Anschlagpunkte innen"
+                        ]
+                    },
+                    {
+                        "Seilsysteme": [
+                            "Seilsysteme"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Förderanlagen": {
+        "id": 460,
+        "subcategories": [
+            {
+                "461": [
+                    {
+                        "Personenaufzug": [
+                            "Personenaufzug 1/1",
+                            "Personenaufzug 1/2"
+                        ]
+                    },
+                    {
+                        "Lastenaufzug": [
+                            "Lastenaufzug"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gebäudeautomation": {
+        "id": 480,
+        "subcategories": [
+            {
+                "481": [
+                    {
+                        "Automationssystem": [
+                            "Automationssystem"
+                        ]
+                    }
+                ]
+            },
+            {
+                "483": [
+                    {
+                        "Management-Ebene": [
+                            "Management-Ebene"
+                        ]
+                    }
+                ]
+            },
+            {
+                "482": [
+                    {
+                        "GA-Schaltschränke": [
+                            "GA-Schaltschränke SS2 - DG",
+                            "GA-Schaltschränke SS3 BTV",
+                            "GA-Schaltschränke SS1 KG"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Außenwände": {
+        "id": 330,
+        "subcategories": [
+            {
+                "334": [
+                    {
+                        "Außentür": [
+                            "Außentür Karuselltür Haupteingang",
+                            "Außentür Drehtür 1 Haupteingang",
+                            "Außentür Drehtür 2 Haupteingang",
+                            "Dachluke",
+                            "BST Mieter 2.KG",
+                            "BST Mieter 1.OG - GG 1800",
+                            "BST Mieter 1.OG - GG 900",
+                            "Außentür Nebeneingang",
+                            "Außentür Mieter"
+                        ]
+                    },
+                    {
+                        "Außenfenster mit Kipp- oder Drehflügel": [
+                            "Außenfenster mit Kipp- oder Drehflügel"
+                        ]
+                    }
+                ]
+            },
+            {
+                "339": [
+                    {
+                        "Werbeanlage": [
+                            "Werbeanlage Weltkugel"
+                        ]
+                    }
+                ]
+            },
+            {
+                "338": [
+                    {
+                        "Sonnenschutzanlage": [
+                            "Sonnenschutzanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Dächer": {
+        "id": 360,
+        "subcategories": [
+            {
+                "363": [
+                    {
+                        "Geneigtes Dach": [
+                            "Geneigtes Dach"
+                        ]
+                    },
+                    {
+                        "Flachdach": [
+                            "Flachdach"
+                        ]
+                    }
+                ]
+            },
+            {
+                "362": [
+                    {
+                        "Lichtkuppel / Oberlicht / Dachfenster": [
+                            "Lichtkuppel / Oberlicht / Dachfenster RWA STGH 2",
+                            "Lichtkuppel / Oberlicht / Dachfenster RWA STGH 1"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Innenwände": {
+        "id": 340,
+        "subcategories": [
+            {
+                "344": [
+                    {
+                        "Innentür": [
+                            "BST Spitzbogen Turm 1",
+                            "BST Spitzbogen Turm 2 zu Mieter",
+                            "BST Spitzbogen 3",
+                            "BST Spitzbogen 4",
+                            "BST Lüftungszentrale in Spitzbogen",
+                            "BST Lüftungszentrale",
+                            "BST EG STGH 2",
+                            "BST EG Lager Souvenier",
+                            "BST EG Müllraum",
+                            "BST EG Lager Souvenier 2",
+                            "BST EG Foyer BTV",
+                            "BST EG Schacht",
+                            "BST EG Lokal 8",
+                            "BST EG Foyer zu Gang Stiege 2",
+                            "BST EG Top 5",
+                            "BST Mezzanin Schacht R",
+                            "BST Mezzanin Schacht L",
+                            "BST 1OG Schacht R",
+                            "BST 1OG Schacht L",
+                            "BST 2OG Schacht R",
+                            "BST 2OG Schacht L",
+                            "BST 3OG Schacht R",
+                            "BST 3OG Schacht L",
+                            "BST 4OG Schacht R",
+                            "BST 4OG Schacht L",
+                            "BST DG Schacht R",
+                            "BST DG Schacht L",
+                            "BST KG zu Lüftungszentrale",
+                            "BST KG zu Wasserzählerraum"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

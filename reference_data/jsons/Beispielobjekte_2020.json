@@ -1,0 +1,319 @@
+{
+    "Starkstromanlagen": {
+        "id": 440,
+        "subcategories": [
+            {
+                "444": [
+                    {
+                        "Kabel": [
+                            "Kabel"
+                        ]
+                    },
+                    {
+                        "Leitungen": [
+                            "Leitungen"
+                        ]
+                    },
+                    {
+                        "Verlegesysteme": [
+                            "Verlegesysteme"
+                        ]
+                    }
+                ]
+            },
+            {
+                "446": [
+                    {
+                        "Blitzschutzanlage": [
+                            "Blitzschutzanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "443": [
+                    {
+                        "Blindstromkompensationsanlage": [
+                            "Blindstromkompensationsanlage"
+                        ]
+                    },
+                    {
+                        "Niederspannungshauptverteiler": [
+                            "Niederspannungshauptverteiler"
+                        ]
+                    }
+                ]
+            },
+            {
+                "445": [
+                    {
+                        "Raumbeleuchtung": [
+                            "Raumbeleuchtung"
+                        ]
+                    },
+                    {
+                        "Ampelanlage": [
+                            "Ampelanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "449": [
+                    {
+                        "Begleitheizung": [
+                            "Begleitheizung"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Fernmelde- und informationstechnische Anlagen": {
+        "id": 450,
+        "subcategories": [
+            {
+                "452": [
+                    {
+                        "Türsprech- und Türöffneranlage": [
+                            "Türsprech- und Türöffneranlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "456": [
+                    {
+                        "Gas-Warnanlage": [
+                            "Gas-Warnanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Lufttechnische Anlagen": {
+        "id": 430,
+        "subcategories": [
+            {
+                "439": [
+                    {
+                        "Brandschutzklappe": [
+                            "Brandschutzklappe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "434": [
+                    {
+                        "Kompressionskältemaschine": [
+                            "Kompressionskältemaschine"
+                        ]
+                    },
+                    {
+                        "Rückkühlwerk": [
+                            "Rückkühlwerk"
+                        ]
+                    }
+                ]
+            },
+            {
+                "431": [
+                    {
+                        "Abluftanlage": [
+                            "Abluftanlage",
+                            "Abluftanlage wc",
+                            "Rückkühler 1",
+                            "Rückkühler 2"
+                        ]
+                    }
+                ]
+            },
+            {
+                "433": [
+                    {
+                        "Klimaanlage": [
+                            "Klimaanlage Büro"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Sonstiges zur KG": {
+        "id": 380,
+        "subcategories": [
+            {
+                "389": [
+                    {
+                        "Anschlagpunkte": [
+                            "Anschlagpunkte"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Abwasser-, Wasser-, Gasanlagen": {
+        "id": 410,
+        "subcategories": [
+            {
+                "411": [
+                    {
+                        "Abläufe": [
+                            "Abläufe"
+                        ]
+                    },
+                    {
+                        "Hebeanlage": [
+                            "Hebeanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "412": [
+                    {
+                        "Sanitäre Einrichtungsgegenstände": [
+                            "Sanitäre Einrichtungsgegenstände"
+                        ]
+                    },
+                    {
+                        "Durchlauferhitzer, Klein-, Wand- und Standspeicher": [
+                            "Durchlauferhitzer, Klein-, Wand- und Standspeicher"
+                        ]
+                    },
+                    {
+                        "Rohrleitungen": [
+                            "Rohrleitungen"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Dächer": {
+        "id": 360,
+        "subcategories": [
+            {
+                "363": [
+                    {
+                        "Flachdach": [
+                            "Flachdach"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Wärmeversorgungsanlagen": {
+        "id": 420,
+        "subcategories": [
+            {
+                "422": [
+                    {
+                        "Wärmeverteilnetz": [
+                            "Kälteverteilnetz",
+                            "Wärmeverteilnetz"
+                        ]
+                    },
+                    {
+                        "Druckhaltesystem mit Fremddruckerzeugung": [
+                            "Druckhaltesystem mit Fremddruckerzeugung"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Außenwände": {
+        "id": 330,
+        "subcategories": [
+            {
+                "334": [
+                    {
+                        "Außentür": [
+                            "Außentür"
+                        ]
+                    },
+                    {
+                        "Außentor": [
+                            "Außentor"
+                        ]
+                    },
+                    {
+                        "Außenfenster mit Kipp- oder Drehflügel": [
+                            "Außenfenster mit Kipp- oder Drehflügel"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gebäudeautomation": {
+        "id": 480,
+        "subcategories": [
+            {
+                "482": [
+                    {
+                        "GA-Schaltschränke": [
+                            "GA-Schaltschränke"
+                        ]
+                    }
+                ]
+            },
+            {
+                "481": [
+                    {
+                        "Automationssystem": [
+                            "Automationssystem"
+                        ]
+                    }
+                ]
+            },
+            {
+                "483": [
+                    {
+                        "Management-Ebene": [
+                            "Management-Ebene"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Nutzungsspezifische Anlagen": {
+        "id": 470,
+        "subcategories": [
+            {
+                "474": [
+                    {
+                        "Handfeuerlöscher": [
+                            "Handfeuerlöscher"
+                        ]
+                    },
+                    {
+                        "Löschwasseranlage (trocken)": [
+                            "Löschwasseranlage (trocken)"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Förderanlagen": {
+        "id": 460,
+        "subcategories": [
+            {
+                "461": [
+                    {
+                        "Personenaufzug": [
+                            "Personenaufzug"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,576 @@
+{
+    "RLT": {
+        "id": [
+            430
+        ],
+        "subcategories": [
+            {
+                "31211": {
+                    "L\u00fcftungsanlagen": [
+                        "Schutzrauml\u00fcft. ohne Sandfilt.",
+                        "Zu-/Abluftanlage",
+                        "L\u00fcftungsanlage mit Heizung",
+                        "Abluftanlage",
+                        "Schutzrauml\u00fcft. mit Sandfilter",
+                        "L\u00fcftungsanlage K\u00fcche"
+                    ]
+                }
+            },
+            {
+                "31221": {
+                    "Zu-/Abluftger\u00e4te": [
+                        "Abluftger\u00e4t"
+                    ]
+                }
+            },
+            {
+                "31223": {
+                    "Ventilatoren": [
+                        "Wand-/Fensterventilator",
+                        "Deckenventilator"
+                    ]
+                }
+            },
+            {
+                "31217": {
+                    "\u00fcbergeordneter Schaltschrank": [
+                        "\u00fcbergeordneter Schaltschrank"
+                    ]
+                }
+            },
+            {
+                "3123": {
+                    "Brandschutzklappen": [
+                        "Brandschutzklappen"
+                    ]
+                }
+            }
+        ]
+    },
+    "Elektro": {
+        "id": [
+            440,
+            450,
+            470
+        ],
+        "subcategories": [
+            {
+                "3330": {
+                    "Blitzschutz-/Erdungsanlage": [
+                        "Blitzschutz/Erdung Geb\u00e4ude"
+                    ]
+                }
+            },
+            {
+                "33103": {
+                    "Niederspannungsleitungsanlagen": [
+                        "Niederspannungsleitungsanlage"
+                    ]
+                }
+            },
+            {
+                "3410": {
+                    "Innenbeleuchtungseinrichtungen": [
+                        "Innenbel.einr. ortsf. Leuchten"
+                    ]
+                }
+            },
+            {
+                "3420": {
+                    "Au\u00dfenbeleuchtungseinrichtungen": [
+                        "Au\u00dfenbel.einr. ortsf. Leuchten"
+                    ]
+                }
+            },
+            {
+                "3450": {
+                    "Sicherheitsleuchten, einzelne": [
+                        "Sicherheitsl.einzel ortsver\u00e4nd",
+                        "Sicherheitsl.einzel ortsfest"
+                    ]
+                }
+            },
+            {
+                "3112": {
+                    "Heizger\u00e4te": [
+                        "Heizger\u00e4t, ortsfest"
+                    ]
+                }
+            },
+            {
+                "3113": {
+                    "Wassererw\u00e4rmungsger\u00e4te ortsfest": [
+                        "Ger\u00e4t, elektrisch beheizt"
+                    ]
+                }
+            },
+            {
+                "3440": {
+                    "Sicherheitsbeleuchtung; Anlagen": [
+                        "Sicherheitsbeleuchtung"
+                    ]
+                }
+            },
+            {
+                "5112": {
+                    "Firmenlogos": [
+                        "Konzern - T mit Digits"
+                    ]
+                }
+            },
+            {
+                "3730": {
+                    "K\u00fcchen-/Kochger\u00e4te": [
+                        "Geschirrsp\u00fclmaschine, Haushalt",
+                        "Mikrowellenger\u00e4t"
+                    ]
+                }
+            },
+            {
+                "33104": {
+                    "Ortsver\u00e4nderliche elektr. Anschlusseinr.": [
+                        "ortsver\u00e4nderl. elektr. Ger\u00e4te"
+                    ]
+                }
+            },
+            {
+                "3345": {
+                    "Lades\u00e4ulen": [
+                        "AC-Lades\u00e4ule"
+                    ]
+                }
+            }
+        ]
+    },
+    "Haustechn Einricht": {
+        "id": [
+            610,
+            530
+        ],
+        "subcategories": [
+            {
+                "3520": {
+                    "Elektroakustische Anlagen": [
+                        "Beschallungsanlage",
+                        "Wechsel- / Gegensprechanlage"
+                    ]
+                }
+            },
+            {
+                "3622": {
+                    "Krane": [
+                        "Laufkatzenanlage",
+                        "Ausleger- /Drehkran"
+                    ]
+                }
+            },
+            {
+                "3590": {
+                    "Meldeeinrichtungen, sonstige": [
+                        "T\u00fcr-Klingel-/Sprech-/Videoanl",
+                        "Wasserwarnanlage",
+                        "Gasmeldeanlage sonstige"
+                    ]
+                }
+            },
+            {
+                "3623": {
+                    "Hebeb\u00fchnen": [
+                        "Hebeb\u00fchne, ortsfest"
+                    ]
+                }
+            },
+            {
+                "3990": {
+                    "besondere Einrichtungen": [
+                        "Behinderten-WC",
+                        "Dachrinnen-, Rohrbegleitheiz.",
+                        "Rundfunkempfangsantennenanlage"
+                    ]
+                }
+            },
+            {
+                "3550": {
+                    "Zeitdiensteinrichtungen": [
+                        "Uhrenanlagen, Zeiterfassungssy"
+                    ]
+                }
+            },
+            {
+                "3992": {
+                    "Steig- und Anschlageinrichtungen": [
+                        "Steigleiter",
+                        "Dachbodenleiter, handbet\u00e4tigt"
+                    ]
+                }
+            },
+            {
+                "5111": {
+                    "Fahnen": [
+                        "Fahne am Mast mit Ausleger"
+                    ]
+                }
+            },
+            {
+                "3790": {
+                    "Gemeinschaftsverpfleg.einr., sonstige": [
+                        "Minik\u00fcche/Teek\u00fcche"
+                    ]
+                }
+            },
+            {
+                "9920": {
+                    "spezielle T\u00e4tigkeiten": [
+                        "Verkehrssicherungspflicht"
+                    ]
+                }
+            },
+            {
+                "9111": {
+                    "Technischer Platz allgemein": [
+                        "Leitern und Tritte"
+                    ]
+                }
+            },
+            {
+                "3510": {
+                    "Geb\u00e4ude-/ Raum\u00fcberwachungsanlage": [
+                        "Fernbeobachtungseinrichtung"
+                    ]
+                }
+            },
+            {
+                "9910": {
+                    "spezielle Kundenanforderungen": [
+                        "jedes Jahr (1J)"
+                    ]
+                }
+            },
+            {
+                "3970": {
+                    "Medizinische Ger\u00e4te und Hilfsmittel": [
+                        "Erste-Hilfe-Verbandskasten"
+                    ]
+                }
+            },
+            {
+                "3710": {
+                    "Warenverkaufseinrichtungen": [
+                        "Getr\u00e4nkeschank-und-zapfanlage"
+                    ]
+                }
+            }
+        ]
+    },
+    "Sanit\u00e4r": {
+        "id": [
+            410
+        ],
+        "subcategories": [
+            {
+                "32302": {
+                    "Hebeanlagen/Entw\u00e4sserungspumpen": [
+                        "Entw\u00e4sserungspumpen, ortsfest",
+                        "F\u00e4kalienhebeanlage",
+                        "Abwasserhebeanlage"
+                    ]
+                }
+            },
+            {
+                "32205": {
+                    "Wasserverteilanlagen": [
+                        "Wasserverteilanlage"
+                    ]
+                }
+            },
+            {
+                "32301": {
+                    "Abwasserleitungsanlagen": [
+                        "Abwasserleitungsanlage"
+                    ]
+                }
+            },
+            {
+                "32304": {
+                    "Abscheider, Sperren": [
+                        "Heiz\u00f6lsperre",
+                        "Fettabscheider",
+                        "\u00d6l-/Wassertrenner"
+                    ]
+                }
+            },
+            {
+                "32204": {
+                    "Wasserdruckerh\u00f6hungsanlagen": [
+                        "Wasserdruckerh\u00f6hungsanlage"
+                    ]
+                }
+            },
+            {
+                "32202": {
+                    "Wassergewinnungsanlagen": [
+                        "Brunnen",
+                        "Zisterne"
+                    ]
+                }
+            },
+            {
+                "32203": {
+                    "Wasserspeicherungsanlagen": [
+                        "Wasserspeicherungsanlage"
+                    ]
+                }
+            },
+            {
+                "32201": {
+                    "Wasseraufbereitungsanlagen": [
+                        "Enth\u00e4rtungsanlage"
+                    ]
+                }
+            },
+            {
+                "32303": {
+                    "Abwasserbehandlunganlagen": [
+                        "Neutralisationsanlage"
+                    ]
+                }
+            },
+            {
+                "32206": {
+                    "sonstige Wassertechnische Einrichtungen": [
+                        "Automatische Sp\u00fcleinrichtung",
+                        "Systemtrenner"
+                    ]
+                }
+            }
+        ]
+    },
+    "BuES, GLT, IZS": {
+        "id": [
+            480
+        ],
+        "subcategories": [
+            {
+                "35601": {
+                    "autarke Zutrittsanlagen": [
+                        "autarke Zutrittsanlagen"
+                    ]
+                }
+            },
+            {
+                "35602": {
+                    "IZS-Zutrittskontrollzentrale": [
+                        "IDT",
+                        "ZKZ-EZS",
+                        "ACU"
+                    ]
+                }
+            }
+        ]
+    },
+    "Brandschutz": {
+        "id": [
+            470
+        ],
+        "subcategories": [
+            {
+                "39301": {
+                    "Kleinl\u00f6schger\u00e4te": [
+                        "Feuerl\u00f6scher"
+                    ]
+                }
+            },
+            {
+                "39307": {
+                    "Feuerl\u00f6schschl\u00e4uche/-armaturen": [
+                        "Feuerl\u00f6schschl\u00e4uche",
+                        "Feuerl\u00f6scharmaturen"
+                    ]
+                }
+            },
+            {
+                "35401": {
+                    "Gefahrenmeldeanlagen": [
+                        "Einbruch-/\u00dcberfallmeldeanlage",
+                        "Brandmeldeanlage",
+                        "Brandfr\u00fchesterkennungsanlage"
+                    ]
+                }
+            },
+            {
+                "35403": {
+                    "RWA-Anlagen": [
+                        "RWA-Anlagen"
+                    ]
+                }
+            },
+            {
+                "35404": {
+                    "Feuer-/Rauchschutzabschl\u00fcsse": [
+                        "Feuer-/Rauchschutz-T\u00dcR"
+                    ]
+                }
+            },
+            {
+                "39306": {
+                    "Steigleitungen": [
+                        "Steigleitung"
+                    ]
+                }
+            },
+            {
+                "39305": {
+                    "Hydrantenanlagen": [
+                        "Hydrantenanlage"
+                    ]
+                }
+            }
+        ]
+    },
+    "K\u00e4ltetechnik": {
+        "id": [
+            430,
+            470,
+            410
+        ],
+        "subcategories": [
+            {
+                "3760": {
+                    "K\u00fchleinrichtungen": [
+                        "K\u00fchlger\u00e4te"
+                    ]
+                }
+            },
+            {
+                "31212": {
+                    "Teilklimaanlagen": [
+                        "TK mit K\u00e4lte, Heizung, Befeuch",
+                        "Teilklima mit K\u00e4lte u. Heizg."
+                    ]
+                }
+            },
+            {
+                "31226": {
+                    "Splitklimager\u00e4te": [
+                        "Splitklimager\u00e4t",
+                        "mobiles Splitklimager\u00e4t"
+                    ]
+                }
+            },
+            {
+                "31301": {
+                    "Zentrale K\u00e4lteanlagen": [
+                        "Kolbenverdichter",
+                        "Scroll-/Spiralverdichter"
+                    ]
+                }
+            },
+            {
+                "31305": {
+                    "trockene R\u00fcckk\u00fchlwerke": [
+                        "K\u00fchlturm/Trockenk\u00fchler"
+                    ]
+                }
+            }
+        ]
+    },
+    "Heizung": {
+        "id": [
+            410
+        ],
+        "subcategories": [
+            {
+                "31111": {
+                    "Heizungsanlagen": [
+                        "Heizungsanlage"
+                    ]
+                }
+            },
+            {
+                "31115": {
+                    "Fernw\u00e4rmeheizungsanlagen": [
+                        "Fernw\u00e4rmeheizungsanlage"
+                    ]
+                }
+            },
+            {
+                "3210": {
+                    "Gasversorgungseinrichtungen": [
+                        "Gasleitungsanlage, Erdgas"
+                    ]
+                }
+            },
+            {
+                "31116": {
+                    "Wassererw\u00e4rmungsanlagen": [
+                        "Wassererw\u00e4rmungsanlage"
+                    ]
+                }
+            }
+        ]
+    },
+    "T\u00fcren und Tore": {
+        "id": [
+            330,
+            340,
+            360
+        ],
+        "subcategories": [
+            {
+                "3991": {
+                    "kraftbet\u00e4tigte Einrichtungen": [
+                        "Schranke, Tor, T\u00fcr, Rollgitter",
+                        "Sonnenschutz, au\u00dfen",
+                        "Sonnenschutz, innen",
+                        "Fenster"
+                    ]
+                }
+            }
+        ]
+    },
+    "Aufzug": {
+        "id": [
+            460
+        ],
+        "subcategories": [
+            {
+                "36101": {
+                    "Personen-/Lastenaufz\u00fcge": [
+                        "Personenaufzug",
+                        "Lastenaufzug"
+                    ]
+                }
+            },
+            {
+                "36103": {
+                    "Fassadenaufz\u00fcge": [
+                        "Fassadenaufzug"
+                    ]
+                }
+            },
+            {
+                "36104": {
+                    "Kleing\u00fcteraufz\u00fcge": [
+                        "Kleing\u00fcteraufzug"
+                    ]
+                }
+            }
+        ]
+    },
+    "GEV": {
+        "id": [
+            470,
+            480,
+            440
+        ],
+        "subcategories": [
+            {
+                "3341": {
+                    "Gleichstromanlagen": [
+                        "Gleichstromversorgung ortsfest"
+                    ]
+                }
+            }
+        ]
+    }
+}

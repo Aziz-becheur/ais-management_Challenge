@@ -1,0 +1,397 @@
+{
+    "Förderanlagen": {
+        "id": 460,
+        "subcategories": [
+            {
+                "461": [
+                    {
+                        "Personenaufzug": [
+                            "Personenaufzug 1",
+                            "Personenaufzug 2",
+                            "Personenaufzug 3"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Außenwände": {
+        "id": 330,
+        "subcategories": [
+            {
+                "334": [
+                    {
+                        "Außentür": [
+                            "Außentür"
+                        ]
+                    },
+                    {
+                        "Außentor": [
+                            "Außentor"
+                        ]
+                    },
+                    {
+                        "Außenfenster mit Kipp- oder Drehflügel": [
+                            "Außenfenster mit Kipp- oder Drehflügel"
+                        ]
+                    }
+                ]
+            },
+            {
+                "338": [
+                    {
+                        "Sonnenschutzanlage": [
+                            "Sonnenschutzanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Nutzungsspezifische Anlagen": {
+        "id": 470,
+        "subcategories": [
+            {
+                "474": [
+                    {
+                        "Handfeuerlöscher": [
+                            "Handfeuerlöscher"
+                        ]
+                    },
+                    {
+                        "Löschwasseranlage (nass-trocken)": [
+                            "Löschwasseranlage (nass-trocken)"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Sonstiges zur KG": {
+        "id": 380,
+        "subcategories": [
+            {
+                "389": [
+                    {
+                        "Tritte / Leitern": [
+                            "Tritte / Leitern"
+                        ]
+                    },
+                    {
+                        "Anschlagpunkte": [
+                            "Anschlagpunkte"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Lufttechnische Anlagen": {
+        "id": 430,
+        "subcategories": [
+            {
+                "431": [
+                    {
+                        "Zu- und Abluftanlage": [
+                            "Zu- und Abluftanlage Lager"
+                        ]
+                    },
+                    {
+                        "Abluftanlage": [
+                            "Abluftanlage Brandentrauchung",
+                            "Abluftanlage"
+                        ]
+                    },
+                    {
+                        "Luftschleieranlage": [
+                            "Luftschleieranlage",
+                            "Fancoils Mietbereiche"
+                        ]
+                    }
+                ]
+            },
+            {
+                "433": [
+                    {
+                        "Klimaanlage": [
+                            "Klimaanlage",
+                            "Klimaanlage geschäfte",
+                            "Klimaanlage Paris-Lodron"
+                        ]
+                    }
+                ]
+            },
+            {
+                "434": [
+                    {
+                        "Rückkühlwerk": [
+                            "Rückkühlwerk"
+                        ]
+                    },
+                    {
+                        "Kompressionskältemaschine": [
+                            "Kompressionskältemaschine",
+                            "Kompressionskältemaschine klein"
+                        ]
+                    }
+                ]
+            },
+            {
+                "439": [
+                    {
+                        "Rauchwärmeabzugsanlage (RWA)": [
+                            "Rauchwärmeabzugsanlage (RWA)"
+                        ]
+                    },
+                    {
+                        "Brandschutzklappe": [
+                            "Brandschutzklappe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Wärmeversorgungsanlagen": {
+        "id": 420,
+        "subcategories": [
+            {
+                "423": [
+                    {
+                        "Heizkörper": [
+                            "Heizkörper"
+                        ]
+                    }
+                ]
+            },
+            {
+                "422": [
+                    {
+                        "Wärmeverteilnetz": [
+                            "Wärmeverteilnetz",
+                            "Kälteverteilnetz",
+                            "WRG Lüftung Geschäfte",
+                            "WRG Lüftung Paris-Lodron"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Abwasser-, Wasser-, Gasanlagen": {
+        "id": 410,
+        "subcategories": [
+            {
+                "411": [
+                    {
+                        "Hebeanlage": [
+                            "Hebeanlage"
+                        ]
+                    },
+                    {
+                        "Abwasserleitungen": [
+                            "Abwasserleitungen"
+                        ]
+                    },
+                    {
+                        "Abläufe": [
+                            "Abläufe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "412": [
+                    {
+                        "Rohrleitungen": [
+                            "Rohrleitungen"
+                        ]
+                    },
+                    {
+                        "Durchlauferhitzer, Klein-, Wand- und Standspeicher": [
+                            "Durchlauferhitzer, Klein-, Wand- und Standspeicher"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Fernmelde- und informationstechnische Anlagen": {
+        "id": 450,
+        "subcategories": [
+            {
+                "452": [
+                    {
+                        "Türsprech- und Türöffneranlage": [
+                            "Türsprech- und Türöffneranlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "456": [
+                    {
+                        "Brandmeldeanlage": [
+                            "Brandmeldeanlage"
+                        ]
+                    },
+                    {
+                        "Gas-Warnanlage": [
+                            "Gas-Warnanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Starkstromanlagen": {
+        "id": 440,
+        "subcategories": [
+            {
+                "442": [
+                    {
+                        "USV-Anlage": [
+                            "USV-Anlage Notstromaggregat"
+                        ]
+                    }
+                ]
+            },
+            {
+                "446": [
+                    {
+                        "Blitzschutzanlage": [
+                            "Blitzschutzanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "445": [
+                    {
+                        "Sicherheitsbeleuchtungsanlage": [
+                            "Sicherheitsbeleuchtungsanlage"
+                        ]
+                    },
+                    {
+                        "Ampelanlage": [
+                            "Ampelanlage"
+                        ]
+                    },
+                    {
+                        "Raumbeleuchtung": [
+                            "Raumbeleuchtung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "443": [
+                    {
+                        "Niederspannungshauptverteiler": [
+                            "Niederspannungshauptverteiler"
+                        ]
+                    },
+                    {
+                        "Blindstromkompensationsanlage": [
+                            "Blindstromkompensationsanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "444": [
+                    {
+                        "Kabel": [
+                            "Kabel"
+                        ]
+                    },
+                    {
+                        "Leitungen": [
+                            "Leitungen"
+                        ]
+                    },
+                    {
+                        "Verlegesysteme": [
+                            "Verlegesysteme"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gebäudeautomation": {
+        "id": 480,
+        "subcategories": [
+            {
+                "481": [
+                    {
+                        "Automationssystem": [
+                            "Automationssystem"
+                        ]
+                    }
+                ]
+            },
+            {
+                "482": [
+                    {
+                        "GA-Schaltschränke": [
+                            "GA-Schaltschränke",
+                            "GA-Schaltschränke CO"
+                        ]
+                    }
+                ]
+            },
+            {
+                "483": [
+                    {
+                        "Management-Ebene": [
+                            "Management-Ebene"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Baukonstruktionen in Außenanlagen": {
+        "id": 530,
+        "subcategories": [
+            {
+                "531": [
+                    {
+                        "Schrankenanlage": [
+                            "Schrankenanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Technische Anlagen in Außenanlagen": {
+        "id": 540,
+        "subcategories": [
+            {
+                "546": [
+                    {
+                        "Außenbeleuchtung": [
+                            "Außenbeleuchtung"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Dächer": {
+        "id": 360,
+        "subcategories": [
+            {
+                "363": [
+                    {
+                        "Geneigtes Dach": [
+                            "Geneigtes Dach"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

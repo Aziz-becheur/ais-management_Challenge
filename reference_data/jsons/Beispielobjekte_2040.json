@@ -1,0 +1,656 @@
+{
+    "Starkstromanlagen": {
+        "id": 440,
+        "subcategories": [
+            {
+                "445": [
+                    {
+                        "Raumbeleuchtung": [
+                            "Raumbeleuchtung"
+                        ]
+                    },
+                    {
+                        "Sicherheitsbeleuchtungsanlage": [
+                            "Sicherheitsbeleuchtungsanlage"
+                        ]
+                    },
+                    {
+                        "Ampelanlage": [
+                            "Ampelanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "444": [
+                    {
+                        "Kabel": [
+                            "Kabel"
+                        ]
+                    },
+                    {
+                        "Verlegesysteme": [
+                            "Verlegesysteme"
+                        ]
+                    },
+                    {
+                        "Leitungen": [
+                            "Leitungen"
+                        ]
+                    },
+                    {
+                        "NS-Unterverteiler": [
+                            "NS-Unterverteiler Aufzug 1",
+                            "NS-Unterverteiler Aufzug 2",
+                            "NS-Unterverteiler Aufzug 3",
+                            "NS-Unterverteiler"
+                        ]
+                    }
+                ]
+            },
+            {
+                "442": [
+                    {
+                        "USV-Anlage": [
+                            "USV-Anlage"
+                        ]
+                    },
+                    {
+                        "Netzersatzanlage-Diesel": [
+                            "Netzersatzanlage-Diesel"
+                        ]
+                    }
+                ]
+            },
+            {
+                "449": [
+                    {
+                        "Ladestation": [
+                            "Ladestation Garage Kehrmaschine"
+                        ]
+                    },
+                    {
+                        "Begleitheizung": [
+                            "Begleitheizung Dachrinne"
+                        ]
+                    }
+                ]
+            },
+            {
+                "443": [
+                    {
+                        "Niederspannungshauptverteiler": [
+                            "Niederspannungshauptverteiler Feld1",
+                            "Niederspannungshauptverteiler Feld2",
+                            "Niederspannungshauptverteiler Feld3",
+                            "Niederspannungshauptverteiler Feld4"
+                        ]
+                    },
+                    {
+                        "Blindstromkompensationsanlage": [
+                            "Blindstromkompensationsanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "446": [
+                    {
+                        "Blitzschutzanlage": [
+                            "Blitzschutzanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Abwasser-, Wasser-, Gasanlagen": {
+        "id": 410,
+        "subcategories": [
+            {
+                "412": [
+                    {
+                        "Rohrleitungen": [
+                            "Rohrleitungen"
+                        ]
+                    },
+                    {
+                        "Sanitäre Einrichtungsgegenstände": [
+                            "Ausgußbecken"
+                        ]
+                    }
+                ]
+            },
+            {
+                "411": [
+                    {
+                        "Abwasserleitungen": [
+                            "Abwasserleitungen"
+                        ]
+                    },
+                    {
+                        "Tauchpumpe": [
+                            "Tauchpumpen Garage",
+                            "Tauchpumpen Technikzentrale groß"
+                        ]
+                    },
+                    {
+                        "Abläufe": [
+                            "Abläufe Garage",
+                            "Abläufe innen",
+                            "Abläufe",
+                            "Abläufe Hof"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Wärmeversorgungsanlagen": {
+        "id": 420,
+        "subcategories": [
+            {
+                "422": [
+                    {
+                        "Wärmeverteilnetz": [
+                            "Wärmeverteilnetz"
+                        ]
+                    }
+                ]
+            },
+            {
+                "421": [
+                    {
+                        "Fernwärmeübergabestation - Heißwasser": [
+                            "Fernwärmeübergabestation - Heißwasser"
+                        ]
+                    },
+                    {
+                        "Solarthermie": [
+                            "Solarthermie"
+                        ]
+                    },
+                    {
+                        "Wassererwärmungsanlage": [
+                            "Wassererwärmungsanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "423": [
+                    {
+                        "Heizkörper": [
+                            "Heizkörper"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Lufttechnische Anlagen": {
+        "id": 430,
+        "subcategories": [
+            {
+                "434": [
+                    {
+                        "Verteilnetz / Pumpen - Kälteerzeugung": [
+                            "Verteilnetz / Pumpen - Kälteerzeugung"
+                        ]
+                    },
+                    {
+                        "Kompressionskältemaschine": [
+                            "Kompressionskältemaschine KM 1",
+                            "Kompressionskältemaschine KM 2",
+                            "Kompressionskältemaschine KM 3"
+                        ]
+                    },
+                    {
+                        "Rückkühlwerk": [
+                            "Rückkühlwerk KM 1 und KM 2"
+                        ]
+                    }
+                ]
+            },
+            {
+                "431": [
+                    {
+                        "Luftschleieranlage": [
+                            "Luftschleieranlage 1",
+                            "Luftschleieranlage 2",
+                            "Fancoils"
+                        ]
+                    },
+                    {
+                        "Abluftanlage": [
+                            "Abluftanlage Garage 1UG",
+                            "Abluftanlage Müllraum",
+                            "Abluftanlage Triebwerksraum 2. UG",
+                            "Abluftanlage NSP 1. UG",
+                            "Abluftanlage Küchenkälte",
+                            "Abluftanlage WC",
+                            "Abluftanlage Batteriraum",
+                            "Abluftanlage Kältemaschinenraum",
+                            "Abluftanlage Stiegenhaus 1",
+                            "Abluftanlage Lötplatz",
+                            "Abluftanlage mobile Klima",
+                            "Abluftanlage Serverschrank"
+                        ]
+                    },
+                    {
+                        "Küchenabluftanlage": [
+                            "Küchenabluftanlage"
+                        ]
+                    },
+                    {
+                        "Zuluftanlage": [
+                            "Zuluftanlage Archive",
+                            "Zuluftanlage Serverschrank"
+                        ]
+                    },
+                    {
+                        "Zu- und Abluftanlage": [
+                            "Zu- und Abluftanlage Drive-In"
+                        ]
+                    },
+                    {
+                        "Maschinelle Rauch-/Wärmeabzuganlage (MRA)": [
+                            "Maschinelle Rauch-/Wärmeabzuganlage (MRA) - Garage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "439": [
+                    {
+                        "Kanalnetz": [
+                            "Kanalnetz"
+                        ]
+                    },
+                    {
+                        "Rauchwärmeabzugsanlage (RWA)": [
+                            "Rauchwärmeabzugsanlage (RWA) Stiege Mitte",
+                            "Rauchwärmeabzugsanlage (RWA) Drive in",
+                            "Rauchwärmeabzugsanlage (RWA Stiege Ost)",
+                            "Rauchwärmeabzugsanlage (RWA) Stiege West"
+                        ]
+                    },
+                    {
+                        "Brandschutzklappe": [
+                            "Brandschutzklappe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "433": [
+                    {
+                        "Klimaanlage": [
+                            "Klimaanlage LA Büroräume und Gänge",
+                            "Klimaanlage - Zuluftanlage Seminarraum"
+                        ]
+                    }
+                ]
+            },
+            {
+                "432": [
+                    {
+                        "Teilklimaanlage": [
+                            "Teilklimaanlage - Zuluftanlage Küche"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Ausstattung": {
+        "id": 610,
+        "subcategories": [
+            {
+                "611": [
+                    {
+                        "Werkstattausstattung": [
+                            "Feuerwehrschlüsselsafe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Fernmelde- und informationstechnische Anlagen": {
+        "id": 450,
+        "subcategories": [
+            {
+                "456": [
+                    {
+                        "Brandmeldeanlage": [
+                            "Brandmeldeanlage"
+                        ]
+                    },
+                    {
+                        "Gas-Warnanlage": [
+                            "Gas-Warnanlage - CO2"
+                        ]
+                    },
+                    {
+                        "Zugangskontrollanlage": [
+                            "Zugangskontrollanlage Stiege Nord"
+                        ]
+                    }
+                ]
+            },
+            {
+                "452": [
+                    {
+                        "Türsprech- und Türöffneranlage": [
+                            "Türsprech- und Türöffneranlage",
+                            "Türsprech- und Türöffneranlage Stiege Ost"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Nutzungsspezifische Anlagen": {
+        "id": 470,
+        "subcategories": [
+            {
+                "474": [
+                    {
+                        "Löschwasseranlage (nass-trocken)": [
+                            "Löschwasseranlage (nass-trocken)"
+                        ]
+                    },
+                    {
+                        "Handfeuerlöscher": [
+                            "Handfeuerlöscher",
+                            "Handfeuerlöscher - Archiv, nicht zugänglich!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "473": [
+                    {
+                        "Lagertank": [
+                            "Lagertank Diesel",
+                            "Lagertank Glykol"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Förderanlagen": {
+        "id": 460,
+        "subcategories": [
+            {
+                "461": [
+                    {
+                        "Personenaufzug": [
+                            "Personenaufzug 2UG - EG",
+                            "Personenaufzug 2UG - DG",
+                            "Personenaufzug EG - DG"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Sonstiges zur KG": {
+        "id": 380,
+        "subcategories": [
+            {
+                "389": [
+                    {
+                        "Tritte / Leitern": [
+                            "Tritte / Leitern",
+                            "Tritte / Leitern 1UG Technik",
+                            "Tritte / Leitern Niederspannungsraum",
+                            "Tritte / Leitern Notstiege"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gebäudeautomation": {
+        "id": 480,
+        "subcategories": [
+            {
+                "482": [
+                    {
+                        "GA-Schaltschränke": [
+                            "GA-Schaltschränke Garagenlüftung",
+                            "GA-Schaltschränke Kälteanlage 1",
+                            "GA-Schaltschränke Kälteanlage 2",
+                            "GA-Schaltschränke Heizungsanlage",
+                            "GA-Schaltschränke Kleinlüftungen",
+                            "GA-Schaltschränke BSK",
+                            "GA-Schaltschränke L01",
+                            "GA-Schaltschränke L02",
+                            "GA-Schaltschränke L 03",
+                            "GA-Schaltschränke L 04"
+                        ]
+                    }
+                ]
+            },
+            {
+                "483": [
+                    {
+                        "Management-Ebene": [
+                            "Management-Ebene"
+                        ]
+                    }
+                ]
+            },
+            {
+                "481": [
+                    {
+                        "Automationssystem": [
+                            "Automationssystem"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Technische Anlagen in Außenanlagen": {
+        "id": 540,
+        "subcategories": [
+            {
+                "546": [
+                    {
+                        "Außenbeleuchtung": [
+                            "Außenbeleuchtung"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Dächer": {
+        "id": 360,
+        "subcategories": [
+            {
+                "362": [
+                    {
+                        "Lichtkuppel / Oberlicht / Dachfenster": [
+                            "Lichtkuppel / Oberlicht / Dachfenster Drive in",
+                            "Lichtkuppel / Oberlicht / Dachfenster Stiege Mitte"
+                        ]
+                    }
+                ]
+            },
+            {
+                "363": [
+                    {
+                        "Geneigtes Dach": [
+                            "Geneigtes Dach"
+                        ]
+                    },
+                    {
+                        "Flachdach": [
+                            "Flachdach - Terrasse",
+                            "Flachdach - Innenhof"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Außenwände": {
+        "id": 330,
+        "subcategories": [
+            {
+                "334": [
+                    {
+                        "Außentor": [
+                            "Außentor Drive in",
+                            "Außentor BST Garage",
+                            "Sektionaltor Garage"
+                        ]
+                    },
+                    {
+                        "Außentür": [
+                            "Außentür Drive in",
+                            "Außentür Garage - Innenhof",
+                            "Außentür Müllraum",
+                            "Außentür Haupteingang links",
+                            "Außentür Haupteingang",
+                            "Außentür Haupteingang rechts",
+                            "Außentür Stiege Ost",
+                            "Außentür Drive in - Innenhof",
+                            "Außentür Terrasse",
+                            "BST 01/2UG",
+                            "BST 02/2UG",
+                            "BST 03/2UG",
+                            "BST 04/2UG",
+                            "BST 05/2UG",
+                            "BST 06/2UG",
+                            "BST 07/2UG",
+                            "BST 08/2UG",
+                            "BST 09/2UG",
+                            "BST 10/2UG",
+                            "BST 11/2UG",
+                            "BST 13/1UG",
+                            "BST 14/1UG",
+                            "BST 15/1UG",
+                            "BST 16/1UG",
+                            "BST 16a/1UG",
+                            "BST 17/1UG",
+                            "BST 18/1UG",
+                            "BST 19/1UG",
+                            "BST 20/1UG",
+                            "BST 21/1UG",
+                            "BST 22/1UG",
+                            "BST 23/1UG",
+                            "BST 24/1UG",
+                            "BST 25/1UG",
+                            "BST 26/1UG",
+                            "BST 27/1UG",
+                            "BST 28/1UG",
+                            "BST 29/1UG",
+                            "BST 30/EG",
+                            "BST 31/EG",
+                            "BST 32/EG",
+                            "BST 33/EG",
+                            "BST 34/EG",
+                            "BST 37/EG",
+                            "BST 39/EG",
+                            "BST 40/EG",
+                            "BST 41/EG",
+                            "BST 43/EG",
+                            "BST 45/EG",
+                            "BST 46/EG",
+                            "BST 49/1OG",
+                            "BST 50/1OG",
+                            "BST 51/1OG",
+                            "BST 52/1OG",
+                            "BST 52a/1OG",
+                            "BST 52b/1OG",
+                            "BST 52c/1OG",
+                            "BST 53/1OG",
+                            "BST 56/1OG",
+                            "BST 58/1OG",
+                            "BST 59/2OG",
+                            "BST 60/2OG",
+                            "BST 61/2OG",
+                            "BST 62/2OG",
+                            "BST 62a/2OG",
+                            "BST 62b/2OG",
+                            "BST 62c/2OG",
+                            "BST 62d/2OG",
+                            "BST 63/2OG",
+                            "BST 65/2OG",
+                            "BST 66/2OG",
+                            "BST 67/2OG",
+                            "BST 68/3OG",
+                            "BST 69/3OG",
+                            "BST 70/3OG",
+                            "BST 71/3OG",
+                            "BST 71a/3OG",
+                            "BST 71b/3OG",
+                            "BST 71c/3OG",
+                            "BST 71d/3OG",
+                            "BST 71e/3OG",
+                            "BST 71f/3OG",
+                            "BST 72/3OG",
+                            "BST 75/3OG",
+                            "BST 77/3OG",
+                            "BST 78/DG",
+                            "BST 79/DG",
+                            "BST 80/DG",
+                            "BST 81/DG",
+                            "BST 82/DG",
+                            "BST 83/DG",
+                            "BST 84/DG",
+                            "BST 85/DG",
+                            "BST 86/DG",
+                            "BST 87/DG ?",
+                            "BST 88/DG",
+                            "BST 91/DG",
+                            "BST 92/DG",
+                            "BST 93/DG",
+                            "BST 94/2OG",
+                            "BST 95/2OG",
+                            "BST 96/3OG",
+                            "BST 97/3OG",
+                            "BST 98/1OG",
+                            "BST 99/1OG",
+                            "BST 101/EG"
+                        ]
+                    },
+                    {
+                        "Außenfenster mit Kipp- oder Drehflügel": [
+                            "Außenfenster mit Kipp- oder Drehflügel"
+                        ]
+                    },
+                    {
+                        "Personenvereinzelungsanlage, Schleuse/Durchgangsschleuse": [
+                            "Personenvereinzelungsanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "339": [
+                    {
+                        "Werbeanlage": [
+                            "Werbeanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "338": [
+                    {
+                        "Sonnenschutzanlage": [
+                            "Sonnenschutzanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "Elektro": {
+        "id": null,
+        "subcategories": [
+            {
+                "3112": {
+                    "Heizgeräte": [
+                        "Heizgerät, ortsfest"
+                    ]
+                }
+            },
+            {
+                "3410": {
+                    "Innenbeleuchtungseinrichtungen": [
+                        "Innenbel.einr. ortsf. Leuchten"
+                    ]
+                }
+            },
+            {
+                "33103": {
+                    "Niederspannungsleitungsanlagen": [
+                        "Niederspannungsleitungsanlage"
+                    ]
+                }
+            },
+            {
+                "3330": {
+                    "Blitzschutz-/Erdungsanlage": [
+                        "Blitzschutz/Erdung Gebäude"
+                    ]
+                }
+            },
+            {
+                "33104": {
+                    "Ortsveränderliche elektr. Anschlusseinr.": [
+                        "ortsveränderl. elektr. Geräte"
+                    ]
+                }
+            }
+        ]
+    },
+    "Sanitär": {
+        "id": null,
+        "subcategories": [
+            {
+                "32301": {
+                    "Abwasserleitungsanlagen": [
+                        "Abwasserleitungsanlage"
+                    ]
+                }
+            }
+        ]
+    },
+    "Brandschutz": {
+        "id": null,
+        "subcategories": [
+            {
+                "39301": {
+                    "Kleinlöschgeräte": [
+                        "Feuerlöscher"
+                    ]
+                }
+            }
+        ]
+    },
+    "Haustechn Einricht": {
+        "id": null,
+        "subcategories": [
+            {
+                "9920": {
+                    "spezielle Tätigkeiten": [
+                        "Verkehrssicherungspflicht"
+                    ]
+                }
+            },
+            {
+                "9111": {
+                    "Technischer Platz allgemein": [
+                        "Leitern und Tritte"
+                    ]
+                }
+            }
+        ]
+    },
+    "BuES, GLT, IZS": {
+        "id": null,
+        "subcategories": [
+            {
+                "35602": {
+                    "IZS-Zutrittskontrollzentrale": [
+                        "ACU"
+                    ]
+                }
+            }
+        ]
+    }
+}

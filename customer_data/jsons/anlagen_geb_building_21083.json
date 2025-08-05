@@ -1,0 +1,250 @@
+{
+    "RLT": {
+        "id": null,
+        "subcategories": [
+            {
+                "31211": {
+                    "Lüftungsanlagen": [
+                        "Schutzraumlüft. ohne Sandfilt.",
+                        "Zu-/Abluftanlage"
+                    ]
+                }
+            },
+            {
+                "31223": {
+                    "Ventilatoren": [
+                        "Deckenventilator"
+                    ]
+                }
+            }
+        ]
+    },
+    "Elektro": {
+        "id": null,
+        "subcategories": [
+            {
+                "3330": {
+                    "Blitzschutz-/Erdungsanlage": [
+                        "Blitzschutz/Erdung Gebäude"
+                    ]
+                }
+            },
+            {
+                "33103": {
+                    "Niederspannungsleitungsanlagen": [
+                        "Niederspannungsleitungsanlage"
+                    ]
+                }
+            },
+            {
+                "3410": {
+                    "Innenbeleuchtungseinrichtungen": [
+                        "Innenbel.einr. ortsf. Leuchten"
+                    ]
+                }
+            },
+            {
+                "3420": {
+                    "Außenbeleuchtungseinrichtungen": [
+                        "Außenbel.einr. ortsf. Leuchten"
+                    ]
+                }
+            },
+            {
+                "3450": {
+                    "Sicherheitsleuchten, einzelne": [
+                        "Sicherheitsl.einzel ortsveränd"
+                    ]
+                }
+            },
+            {
+                "33104": {
+                    "Ortsveränderliche elektr. Anschlusseinr.": [
+                        "ortsveränderl. elektr. Geräte"
+                    ]
+                }
+            },
+            {
+                "3113": {
+                    "Wassererwärmungsgeräte ortsfest": [
+                        "Gerät, elektrisch beheizt"
+                    ]
+                }
+            }
+        ]
+    },
+    "Haustechn Einricht": {
+        "id": null,
+        "subcategories": [
+            {
+                "3520": {
+                    "Elektroakustische Anlagen": [
+                        "Beschallungsanlage"
+                    ]
+                }
+            },
+            {
+                "3622": {
+                    "Krane": [
+                        "Laufkatzenanlage"
+                    ]
+                }
+            },
+            {
+                "3590": {
+                    "Meldeeinrichtungen, sonstige": [
+                        "Tür-Klingel-/Sprech-/Videoanl",
+                        "Gasmeldeanlage sonstige"
+                    ]
+                }
+            },
+            {
+                "3992": {
+                    "Steig- und Anschlageinrichtungen": [
+                        "Steigleiter"
+                    ]
+                }
+            },
+            {
+                "3990": {
+                    "besondere Einrichtungen": [
+                        "Dachrinnen-, Rohrbegleitheiz."
+                    ]
+                }
+            },
+            {
+                "9920": {
+                    "spezielle Tätigkeiten": [
+                        "Verkehrssicherungspflicht"
+                    ]
+                }
+            },
+            {
+                "9111": {
+                    "Technischer Platz allgemein": [
+                        "Leitern und Tritte"
+                    ]
+                }
+            },
+            {
+                "3970": {
+                    "Medizinische Geräte und Hilfsmittel": [
+                        "Erste-Hilfe-Verbandskasten"
+                    ]
+                }
+            }
+        ]
+    },
+    "Sanitär": {
+        "id": null,
+        "subcategories": [
+            {
+                "32302": {
+                    "Hebeanlagen/Entwässerungspumpen": [
+                        "Entwässerungspumpen, ortsfest"
+                    ]
+                }
+            },
+            {
+                "32205": {
+                    "Wasserverteilanlagen": [
+                        "Wasserverteilanlage"
+                    ]
+                }
+            },
+            {
+                "32301": {
+                    "Abwasserleitungsanlagen": [
+                        "Abwasserleitungsanlage"
+                    ]
+                }
+            },
+            {
+                "32206": {
+                    "sonstige Wassertechnische Einrichtungen": [
+                        "Automatische Spüleinrichtung",
+                        "Systemtrenner"
+                    ]
+                }
+            },
+            {
+                "32303": {
+                    "Abwasserbehandlunganlagen": [
+                        "Neutralisationsanlage"
+                    ]
+                }
+            },
+            {
+                "32201": {
+                    "Wasseraufbereitungsanlagen": [
+                        "Enthärtungsanlage"
+                    ]
+                }
+            }
+        ]
+    },
+    "BuES, GLT, IZS": {
+        "id": null,
+        "subcategories": [
+            {
+                "35601": {
+                    "autarke Zutrittsanlagen": [
+                        "autarke Zutrittsanlagen"
+                    ]
+                }
+            },
+            {
+                "35602": {
+                    "IZS-Zutrittskontrollzentrale": [
+                        "IDT"
+                    ]
+                }
+            }
+        ]
+    },
+    "Brandschutz": {
+        "id": null,
+        "subcategories": [
+            {
+                "39301": {
+                    "Kleinlöschgeräte": [
+                        "Feuerlöscher"
+                    ]
+                }
+            },
+            {
+                "35403": {
+                    "RWA-Anlagen": [
+                        "RWA-Anlagen"
+                    ]
+                }
+            },
+            {
+                "35404": {
+                    "Feuer-/Rauchschutzabschlüsse": [
+                        "Feuer-/Rauchschutz-TÜR"
+                    ]
+                }
+            }
+        ]
+    },
+    "Heizung": {
+        "id": null,
+        "subcategories": [
+            {
+                "3210": {
+                    "Gasversorgungseinrichtungen": [
+                        "Gasleitungsanlage, Erdgas"
+                    ]
+                }
+            },
+            {
+                "31111": {
+                    "Heizungsanlagen": [
+                        "Heizungsanlage"
+                    ]
+                }
+            }
+        ]
+    }
+}

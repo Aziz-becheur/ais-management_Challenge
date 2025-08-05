@@ -1,0 +1,445 @@
+{
+    "Lufttechnische Anlagen": {
+        "id": 430,
+        "subcategories": [
+            {
+                "431": [
+                    {
+                        "Abluftanlage": [
+                            "ABL FOL Teeküche 1 4OG",
+                            "ABL FOL Teeküche 3 1-3OG",
+                            "ABL FOL Teeküche 2 5OG",
+                            "ABL FOL WC 1 1-4OG",
+                            "ABL FOL WC 2 2-5OG",
+                            "ABL FOL WC EG",
+                            "ABL FOL K 1/1 Lager 1UG",
+                            "Abluftanlage DG Technikraum",
+                            "Abluftanlage Aufzugsmaschinenraum"
+                        ]
+                    },
+                    {
+                        "Luftschleieranlage": [
+                            "Lufterhitzer",
+                            "Lufterhitzer Kältezentrale",
+                            "Lufterhitzer Technikraum",
+                            "FanCoils Mietbereiche"
+                        ]
+                    }
+                ]
+            },
+            {
+                "439": [
+                    {
+                        "Brandschutzklappe": [
+                            "Brandschutzklappen (65 Stk.)"
+                        ]
+                    },
+                    {
+                        "Rauchwärmeabzugsanlage (RWA)": [
+                            "Rauchwärmeabzugsanlage (RWA) Lichthof",
+                            "Rauchwärmeabzugsanlage (RWA) Stiegenhaus"
+                        ]
+                    },
+                    {
+                        "Kanalnetz": [
+                            "Kanalnetz - LAen"
+                        ]
+                    }
+                ]
+            },
+            {
+                "434": [
+                    {
+                        "Kompressionskältemaschine": [
+                            "Kältemaschine KWS1"
+                        ]
+                    },
+                    {
+                        "Splitanlage": [
+                            "Splitanlage EDV"
+                        ]
+                    },
+                    {
+                        "Verteilnetz / Pumpen - Kälteerzeugung": [
+                            "Verteilnetz / Pumpen - Kälteerzeugung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "432": [
+                    {
+                        "Teilklimaanlage": [
+                            "Lüftung Hausanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "433": [
+                    {
+                        "Klimaanlage": [
+                            "Lüftung Schulung"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Starkstromanlagen": {
+        "id": 440,
+        "subcategories": [
+            {
+                "446": [
+                    {
+                        "Blitzschutzanlage": [
+                            "Blitzschutzanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "443": [
+                    {
+                        "Niederspannungshauptverteiler": [
+                            "Niederspannungshauptverteiler"
+                        ]
+                    },
+                    {
+                        "Blindstromkompensationsanlage": [
+                            "Blindstromkompensationsanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "445": [
+                    {
+                        "Sicherheitsbeleuchtungsanlage": [
+                            "Sicherheitsbeleuchtungsanlage"
+                        ]
+                    },
+                    {
+                        "Raumbeleuchtung": [
+                            "Raumbeleuchtung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "444": [
+                    {
+                        "NS-Unterverteiler": [
+                            "Netzumschaltung (Notstromversorgung via LKG)",
+                            "NS-Unterverteiler 6OG",
+                            "NS-Unterverteiler 5OG",
+                            "NS-Unterverteiler 4OG",
+                            "NS-Unterverteiler 3OG  - 30g 01",
+                            "NS-Unterverteiler 3OG - 30g 02",
+                            "NS-Unterverteiler 2OG",
+                            "NS-Unterverteiler 1OG"
+                        ]
+                    },
+                    {
+                        "Kabel": [
+                            "Kabel"
+                        ]
+                    },
+                    {
+                        "Leitungen": [
+                            "Leitungen"
+                        ]
+                    },
+                    {
+                        "Verlegesysteme": [
+                            "Verlegesysteme"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Fernmelde- und informationstechnische Anlagen": {
+        "id": 450,
+        "subcategories": [
+            {
+                "456": [
+                    {
+                        "Brandmeldeanlage": [
+                            "Brandmeldeanlage"
+                        ]
+                    },
+                    {
+                        "Zugangskontrollanlage": [
+                            "Zugangskontrollanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "452": [
+                    {
+                        "Türsprech- und Türöffneranlage": [
+                            "Türsprech- und Türöffneranlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Förderanlagen": {
+        "id": 460,
+        "subcategories": [
+            {
+                "461": [
+                    {
+                        "Personenaufzug": [
+                            "Personenaufzug"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Wärmeversorgungsanlagen": {
+        "id": 420,
+        "subcategories": [
+            {
+                "421": [
+                    {
+                        "Fernwärmeübergabestation - Heißwasser": [
+                            "Fernwärmeübergabestation - Heißwasser"
+                        ]
+                    }
+                ]
+            },
+            {
+                "422": [
+                    {
+                        "Wärmeverteilnetz": [
+                            "Wärmeverteilnetz",
+                            "Wärmeverteilnetz Warmwasser",
+                            "Wärmeverteilnetz Heizregister Lüftungen DG"
+                        ]
+                    }
+                ]
+            },
+            {
+                "423": [
+                    {
+                        "Heizkörper": [
+                            "Heizkörper 6OG"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Außenwände": {
+        "id": 330,
+        "subcategories": [
+            {
+                "334": [
+                    {
+                        "Außentür": [
+                            "Außentür Eingang",
+                            "Brandschutztüre 001 2UG Lager K2/7",
+                            "Brandschutztüre 002 2UG Archiv K2/4",
+                            "Brandschutztüre 003 2UG Stiegenhaus",
+                            "Brandschutztüre 004 2UG Haustechnik",
+                            "Brandschutztüre 005 2UG Heizraum",
+                            "Brandschutztüren 2UG 006",
+                            "Brandschutztüre 002 1UG VR K1/3",
+                            "Brandschutztüre 003 1UG Archiv K1/2",
+                            "Brandschutztüre 004 1UG Archiv K1/1",
+                            "Brandschutztüre 001 EG Stiegenhaus/BMZ",
+                            "Brandschutztüre 002 EG Stiegenhaus",
+                            "Brandschutztüre 001 1OG Stiegenhaus",
+                            "Brandschutztüre 002 1OG Stiegenhaus",
+                            "Brandschutztüre 003 1OG Stiegenhaus",
+                            "Brandschutztüre 001 2OG Stiegenhaus",
+                            "Brandschutztüre 002 2OG Stiegenhaus",
+                            "Brandschutztüre 003 2OG Stiegenhaus",
+                            "Brandschutztüre 004 2OG Stiegenhaus",
+                            "Brandschutztüre 001 3OG Stiegenhaus",
+                            "Brandschutztüre 002 3OG Stiegenhaus",
+                            "Brandschutztüre 003 3OG Stiegenhaus",
+                            "Brandschutztüre 004 3OG Stiegenhaus",
+                            "Brandschutztüre 001 4OG Stiegenhaus",
+                            "Brandschutztüre 002 4OG Stiegenhaus",
+                            "Brandschutztüre 003 4OG Stiegenhaus",
+                            "Brandschutztüre 004 4OG Stiegenhaus",
+                            "Brandschutztüre 001 5OG Stiegenhaus",
+                            "Brandschutztüre 002 5OG Stiegenhaus",
+                            "Brandschutztüre 003 5OG Stiegenhaus",
+                            "Brandschutztüre 004 5OG Stiegenhaus",
+                            "Brandschutztüre 001 6OG Gang",
+                            "Brandschutztüre 002 6OG Gang",
+                            "Brandschutztüre 003 6OG Gang",
+                            "Brandschutztüre 004 6OG Gang",
+                            "Brandschutztüre 005 6OG Gang",
+                            "Brandschutztüre 006 6OG Gang",
+                            "Brandschutztüre 007 6OG Gang",
+                            "Brandschutztüre 008 6OG Gang",
+                            "Brandschutztüre 009 6OG Gang",
+                            "Brandschutztüre 001 7OG Gang",
+                            "Brandschutztüre 002 7OG 41/10",
+                            "Brandschutztüre 003 7OG Gang",
+                            "Brandschutztüre 004 7OG Gang",
+                            "Brandschutztüre 005 7OG Gang",
+                            "Brandschutztüre 006 7OG Gang",
+                            "Brandschutztüre 007 7OG Stiege",
+                            "Brandschutztüre 001 DG Aufzugs-Maschinenraum",
+                            "Brandschutztüre 002 DG Kältezentrale",
+                            "Brandschutztüre 003 DG Kältezentrale",
+                            "Brandschutztüren 2UG 007 NSHV/Trafforaum",
+                            "Brandschutztüren 001 1UG K1-5",
+                            "Brandschutztüren 005 K1-4 1UG"
+                        ]
+                    },
+                    {
+                        "Außenfenster mit Kipp- oder Drehflügel": [
+                            "Außenfenster mit Kipp- oder Drehflügel"
+                        ]
+                    }
+                ]
+            },
+            {
+                "338": [
+                    {
+                        "Sonnenschutzanlage": [
+                            "Sonnenschutzanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Abwasser-, Wasser-, Gasanlagen": {
+        "id": 410,
+        "subcategories": [
+            {
+                "412": [
+                    {
+                        "Rohrleitungen": [
+                            "Rohrleitungen"
+                        ]
+                    },
+                    {
+                        "Sanitäre Einrichtungsgegenstände": [
+                            "Sanitäre Einrichtungsgegenstände"
+                        ]
+                    }
+                ]
+            },
+            {
+                "411": [
+                    {
+                        "Hebeanlage": [
+                            "Pumpensumpf Heizraum"
+                        ]
+                    },
+                    {
+                        "Abläufe": [
+                            "Abläufe"
+                        ]
+                    },
+                    {
+                        "Abwasserleitungen": [
+                            "Abwasserfallleitungen (kleiner DN200)"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Ausstattung": {
+        "id": 610,
+        "subcategories": [
+            {
+                "611": [
+                    {
+                        "Werkstattausstattung": [
+                            "Feuerwehrschlüsselsafe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gebäudeautomation": {
+        "id": 480,
+        "subcategories": [
+            {
+                "481": [
+                    {
+                        "Automationssystem": [
+                            "MSR Heizraum",
+                            "MSR Lüftung",
+                            "MSR Kälte/ Lüftung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "482": [
+                    {
+                        "GA-Schaltschränke": [
+                            "GA-Schaltschrank Lüftung",
+                            "GA-Schaltschrank Kälte",
+                            "GA-Schaltschrank Heizraum"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Nutzungsspezifische Anlagen": {
+        "id": 470,
+        "subcategories": [
+            {
+                "474": [
+                    {
+                        "Handfeuerlöscher": [
+                            "Handfeuerlöscher 2UG Stiegenhaus",
+                            "Handfeuerlöscher 1UG Stiegenhaus",
+                            "Handfeuerlöscher 1UG K1/1",
+                            "Handfeuerlöscher 2UG K2/2",
+                            "Handfeuerlöscher 7OG Stiegenhaus",
+                            "Handfeuerlöscher DG",
+                            "Handfeuerlöscher 6OG Stiegenhaus"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Sonstiges zur KG": {
+        "id": 380,
+        "subcategories": [
+            {
+                "389": [
+                    {
+                        "Tritte / Leitern": [
+                            "Leiter Dach"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Dächer": {
+        "id": 360,
+        "subcategories": [
+            {
+                "363": [
+                    {
+                        "Geneigtes Dach": [
+                            "Geneigtes Dach"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

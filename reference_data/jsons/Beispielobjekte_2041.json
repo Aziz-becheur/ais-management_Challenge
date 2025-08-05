@@ -1,0 +1,508 @@
+{
+    "Lufttechnische Anlagen": {
+        "id": 430,
+        "subcategories": [
+            {
+                "431": [
+                    {
+                        "Zu- und Abluftanlage": [
+                            "Zu- und Abluftanlage LA 01",
+                            "Zu- und Abluftanlage LA 10 Garderobe",
+                            "Zu- und Abluftanlage Turnsaal LA 12"
+                        ]
+                    },
+                    {
+                        "Abluftanlage": [
+                            "Abluftanlage",
+                            "Abluftanlage Dunstabzug Konferenzküche",
+                            "Abluftanlage LA 02 Müllraum"
+                        ]
+                    },
+                    {
+                        "Luftschleieranlage": [
+                            "Luftschleieranlage",
+                            "FanCoils Mietbereiche"
+                        ]
+                    },
+                    {
+                        "Maschinelle Rauch-/Wärmeabzuganlage (MRA)": [
+                            "Maschinelle Rauch-/Wärmeabzuganlage (MRA)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "434": [
+                    {
+                        "Verteilnetz / Pumpen - Kälteerzeugung": [
+                            "Verteilnetz / Pumpen - Kälteerzeugung Zwischendecke 4OG",
+                            "Verteilnetz / Pumpen - Kälteerzeugung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "439": [
+                    {
+                        "Rauchwärmeabzugsanlage (RWA)": [
+                            "Rauchwärmeabzugsanlage (RWA)"
+                        ]
+                    },
+                    {
+                        "Brandschutzklappe": [
+                            "Brandschutzklappen"
+                        ]
+                    },
+                    {
+                        "Kanalnetz": [
+                            "Kanalnetz"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Starkstromanlagen": {
+        "id": 440,
+        "subcategories": [
+            {
+                "446": [
+                    {
+                        "Blitzschutzanlage": [
+                            "Blitzschutzanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "445": [
+                    {
+                        "Sicherheitsbeleuchtungsanlage": [
+                            "Sicherheitsbeleuchtungsanlage"
+                        ]
+                    },
+                    {
+                        "Raumbeleuchtung": [
+                            "Raumbeleuchtung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "443": [
+                    {
+                        "Niederspannungshauptverteiler": [
+                            "NSHV BK5/6",
+                            "NSHV Allgemein BK5/6",
+                            "NSHV HASK BK 5/6"
+                        ]
+                    }
+                ]
+            },
+            {
+                "444": [
+                    {
+                        "NS-Unterverteiler": [
+                            "NS-Unterverteiler A1"
+                        ]
+                    },
+                    {
+                        "Verlegesysteme": [
+                            "Verlegesysteme"
+                        ]
+                    }
+                ]
+            },
+            {
+                "449": [
+                    {
+                        "Begleitheizung": [
+                            "Begleitheizung"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Abwasser-, Wasser-, Gasanlagen": {
+        "id": 410,
+        "subcategories": [
+            {
+                "411": [
+                    {
+                        "Abläufe": [
+                            "Abläufe"
+                        ]
+                    },
+                    {
+                        "Hebeanlage": [
+                            "Pumpensumpf Fernwärme Kälte",
+                            "Pumpensumpf Abstellraum 2",
+                            "Hebeanlage Turnsaal (im Boden in der Dusche)"
+                        ]
+                    },
+                    {
+                        "Abwassersammelanlage": [
+                            "Abwassersammelanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "412": [
+                    {
+                        "Druckerhöhungsanlage (nicht Löschwasser)": [
+                            "Druckerhöhungsanlage (nicht Löschwasser)"
+                        ]
+                    },
+                    {
+                        "Rohrleitungen": [
+                            "Trinkwassereinspeisung"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Sonstiges zur KG": {
+        "id": 380,
+        "subcategories": [
+            {
+                "389": [
+                    {
+                        "Tritte / Leitern": [
+                            "Tritte / Leitern",
+                            "Leiter Zugang Dach"
+                        ]
+                    },
+                    {
+                        "Seilsysteme": [
+                            "Seilsysteme"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Dächer": {
+        "id": 360,
+        "subcategories": [
+            {
+                "362": [
+                    {
+                        "Lichtkuppel / Oberlicht / Dachfenster": [
+                            "Lichtkuppel / Oberlicht / Dachfenster"
+                        ]
+                    }
+                ]
+            },
+            {
+                "363": [
+                    {
+                        "Flachdach": [
+                            "Flachdach"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Wärmeversorgungsanlagen": {
+        "id": 420,
+        "subcategories": [
+            {
+                "422": [
+                    {
+                        "Wärmeverteilnetz": [
+                            "Wärmeverteilnetz Zwischendecke 4OG",
+                            "Kälte",
+                            "Wärmeverteilnetz"
+                        ]
+                    }
+                ]
+            },
+            {
+                "423": [
+                    {
+                        "Heizkörper": [
+                            "Heizkörper",
+                            "Heizkörper 1 Foyer",
+                            "Heizkörper 2 Foyer",
+                            "Heizkörper 3 Foyer",
+                            "Heizkörper 4 Foyer",
+                            "Heizkörper 5 Foyer",
+                            "Heizkörper 6 Foyer",
+                            "Heizkörper 7 Foyer",
+                            "Heizkörper 8 Foyer",
+                            "Heizkörper 9 Foyer"
+                        ]
+                    }
+                ]
+            },
+            {
+                "421": [
+                    {
+                        "Wassererwärmungsanlage": [
+                            "Therme Waschbecken"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gebäudeautomation": {
+        "id": 480,
+        "subcategories": [
+            {
+                "481": [
+                    {
+                        "Automationssystem": [
+                            "Automationssystem Fernwärme Kälte",
+                            "Automationssystem BMZ Raum",
+                            "Automationssystem Mietbereich BMF",
+                            "Automationssystem - Brandentrauchung Stiege 9",
+                            "Automationssystem - MSR Schrank (Lohr)"
+                        ]
+                    },
+                    {
+                        "Raumautomationssystem (BUS-System)": [
+                            "Raumautomationssystem (BUS-System)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "483": [
+                    {
+                        "Management-Ebene": [
+                            "Management-Ebene"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Außenwände": {
+        "id": 330,
+        "subcategories": [
+            {
+                "334": [
+                    {
+                        "Außentür": [
+                            "Brandschutztüre Stiege 10 Fernwärme Kälte",
+                            "Brandschutztüre Stiege 10 Lager 1",
+                            "Brandschutztüre Stiege 10 Lager BFA",
+                            "Brandschutztüre Stiege 10 Lager 2",
+                            "Brandschutztüre Stiege 10 Batterieraum",
+                            "Brandschutztüre Stiege 10 Gang Lager FWW",
+                            "Brandschutztüre Stiege 10 Medienraum/BMZ",
+                            "Brandschutztüre Stiege 10 Garage 1",
+                            "Brandschutztüre Stiege 8 NSHV",
+                            "Brandschutztüre Stiege 8 Turnsaal",
+                            "Brandschutztüre Stiege 8 Stiegenhaus",
+                            "Brandschutztüre Stiege 8 Garage",
+                            "Brandschutztüre Stg11 5OG",
+                            "Brandschutztüre Stg11 4OG",
+                            "Brandschutztüre Stg11 3OG",
+                            "Brandschutztüre Stg11 2OG",
+                            "Brandschutztüre Stg11 1OG",
+                            "Brandschutztüre Stg11 EG",
+                            "Brandschutztüre 1UG Technik Garage",
+                            "Brandschutztüre 1UG Abstellraum",
+                            "Brandschutztüre 1UG Garage Schleuse",
+                            "Brandschutztüre 1UG Garage",
+                            "Brandschutztüre Stiege 8 5OG",
+                            "Brandschutztüre Stiege 8 4OG",
+                            "Brandschutztüre Stiege 8 3OG",
+                            "Brandschutztüre Stiege 8 2OG",
+                            "Brandschutztüre Stiege 8 1OG",
+                            "Brandschutztüre Stiege 9 Wassermesser",
+                            "Brandschutztüre Stiege 9 Waschküche",
+                            "Brandschutztüre Stiege 9 Gang",
+                            "Brandschutztüre Stiege 9 Umkleide Herren",
+                            "Brandschutztüre Stiege 9 Umkleide Damen",
+                            "Brandschutztüre Stiege 9 Abstellraum",
+                            "Brandschutztüre Stiege 9 Lager",
+                            "Brandschutztüre Stiege 9 Medien",
+                            "Brandschutztüre Stiege 9 Hebeanlage",
+                            "Brandschutztüre Stiege 9 unbeschriftet",
+                            "Brandschutztüre Stiege 9 5OG",
+                            "Brandschutztüre Stiege 9 4OG",
+                            "Brandschutztüre Stiege 9 3OG",
+                            "Brandschutztüre Stiege 9 2OG",
+                            "Brandschutztüre Stiege 9 1OG",
+                            "Brandschutztüre Stiege 9 EG",
+                            "Brandschutz - Außentür Stiege 9 - Ausgang Sonnwendgasse",
+                            "Brandschutztüre Stiege 9 1UG Ausgang Garage",
+                            "Brandschutztüre Stiege 9 1UG  Abstellraum",
+                            "Brandschutztüre Stiege 10 5OG",
+                            "Brandschutztüre Stiege 10 4OG",
+                            "Brandschutztüre Stiege 10 3OG",
+                            "Brandschutztüre Stiege 10 2OG",
+                            "Brandschutztüre Stiege 10 1OG",
+                            "Brandschutztüre Stiege 10 EG",
+                            "Brandschutz - Stiege 10 Außentür EG Raucher",
+                            "Brandschutztüre Stiege 10 EG Ausgang",
+                            "Brandschutztüre 2 Stiege 10 EG Ausgang",
+                            "Brandschutztüre Stiege 10 1UG",
+                            "Brandschutztüre Stiege 10 1UG Abstellraum",
+                            "Brandschutztüre Foyer",
+                            "Brandschutztüre WC",
+                            "Brandschutztüre WC - Reinigung",
+                            "Außentür \"emergency only\"",
+                            "Außentür innen",
+                            "Außentür außen",
+                            "Außentür",
+                            "Brandschutztüren Mietbereiche",
+                            "Brandschutztüre Stiege 11 Eingang bei  Kassenautomat",
+                            "Brandschutztüre Stiege 11 Eingang bei  Kassenautomat 2",
+                            "Brandschutztüre Stiege 11 Abstellraum",
+                            "Brandschutztüre EG Zugang Müllraum",
+                            "Brandschutztüre EG Müllraum EG-10",
+                            "Brandschutztüre EG Müllraum Straße"
+                        ]
+                    },
+                    {
+                        "Außentor": [
+                            "Brandschutztor Foyer - Aufzüge",
+                            "Garagentor"
+                        ]
+                    },
+                    {
+                        "Personenvereinzelungsanlage, Schleuse/Durchgangsschleuse": [
+                            "Personenvereinzelungsanlage, Schleuse/Durchgangsschleuse"
+                        ]
+                    },
+                    {
+                        "Außenfenster mit Kipp- oder Drehflügel": [
+                            "Außenfenster mit Kipp- oder Drehflügel"
+                        ]
+                    }
+                ]
+            },
+            {
+                "338": [
+                    {
+                        "Sonnenschutzanlage": [
+                            "Sonnenschutzanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Fernmelde- und informationstechnische Anlagen": {
+        "id": 450,
+        "subcategories": [
+            {
+                "456": [
+                    {
+                        "Brandmeldeanlage": [
+                            "Brandmeldeanlage"
+                        ]
+                    },
+                    {
+                        "Gas-Warnanlage": [
+                            "Gas-Warnanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "453": [
+                    {
+                        "Uhrenanlage": [
+                            "Uhrenanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Ausstattung": {
+        "id": 610,
+        "subcategories": [
+            {
+                "611": [
+                    {
+                        "Werkstattausstattung": [
+                            "Steuergerät Feuerwehrschlüsselsafe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Förderanlagen": {
+        "id": 460,
+        "subcategories": [
+            {
+                "461": [
+                    {
+                        "Personenaufzug": [
+                            "Personenaufzug Stg11",
+                            "Personenaufzug Stiege 8",
+                            "Personenaufzug Lift 4",
+                            "Personenaufzug Lift 3",
+                            "Personenaufzug Lift 1",
+                            "Personenaufzug Lift 2",
+                            "Personenaufzug Behindertenaufzug"
+                        ]
+                    },
+                    {
+                        "Treppenlifter": [
+                            "Treppenlifter"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Nutzungsspezifische Anlagen": {
+        "id": 470,
+        "subcategories": [
+            {
+                "474": [
+                    {
+                        "Löschwasseranlage (nass-trocken)": [
+                            "Löschwasseranlage (nass-trocken)"
+                        ]
+                    },
+                    {
+                        "Handfeuerlöscher": [
+                            "Handfeuerlöscher"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Technische Anlagen in Außenanlagen": {
+        "id": 540,
+        "subcategories": [
+            {
+                "546": [
+                    {
+                        "Außenbeleuchtung": [
+                            "Außenbeleuchtung"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Innenwände": {
+        "id": 340,
+        "subcategories": [
+            {
+                "346": [
+                    {
+                        "Falt- und Schiebewand": [
+                            "Falt- und Schiebewand"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

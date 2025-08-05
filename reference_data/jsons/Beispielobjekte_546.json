@@ -1,0 +1,863 @@
+{
+    "Außenwände": {
+        "id": 330,
+        "subcategories": [
+            {
+                "338": [
+                    {
+                        "Sonnenschutzanlage": [
+                            "Sonnenschutzanlage außen",
+                            "Sonnenschutzanlage hofseitig"
+                        ]
+                    }
+                ]
+            },
+            {
+                "334": [
+                    {
+                        "Außenfenster mit Kipp- oder Drehflügel": [
+                            "Außenfenster mit Kipp- oder Drehflügel straßenseitig",
+                            "Außenfenster mit Kipp- oder Drehflügel 1 flg. hofseitig",
+                            "Außenfenster mit Kipp- oder Drehflügel 2 flg. hofseitig",
+                            "Außenfenster mit Kipp- oder Drehflügel 3 flg. hofseitig"
+                        ]
+                    },
+                    {
+                        "Außentür": [
+                            "Außentür Pestalozzigasse",
+                            "Brandschutztüre  -3UG-141",
+                            "Brandschutztüre   -3UG-142",
+                            "Brandschutztüre    -3UG-143",
+                            "Brandschutztüre     -3UG-144",
+                            "Brandschutztüre  -3UG-145",
+                            "Brandschutztüre   -3UG-146",
+                            "Brandschutztüre  -3UG-147",
+                            "Brandschutztüre   -3UG-149",
+                            "Brandschutztüre  -3UG-150",
+                            "Brandschutztüre  -3UG-151",
+                            "Brandschutztüre  -3UG-152",
+                            "Brandschutztüre   -3UG-153",
+                            "Brandschutztüre  -3UG-154",
+                            "Brandschutztüre  -3UG-155",
+                            "Brandschutztüre  -3UG-156",
+                            "Brandschutztüre  -3UG-157",
+                            "Brandschutztüre  -3UG-158",
+                            "Brandschutztüre  -2UG-128",
+                            "Brandschutztüre  -2UG-129",
+                            "Brandschutztüre  -2UG-130",
+                            "Brandschutztüre  -2UG-131",
+                            "Brandschutztüre  -2UG-132",
+                            "Brandschutztüre  -2UG-133",
+                            "Brandschutztüre  -2UG-134",
+                            "Brandschutztüre  -2UG-135",
+                            "Brandschutztüre  -2UG-136",
+                            "Brandschutztüre  -2UG-137",
+                            "Brandschutztüre  -2UG-138",
+                            "Brandschutztüre  -2UG-139",
+                            "Brandschutztüre  -2UG-140",
+                            "Brandschutztüre  -1UG-085",
+                            "Brandschutztüre  -1UG-086",
+                            "Brandschutztüre  -1UG-087",
+                            "Brandschutztüre  -1UG-088",
+                            "Brandschutztüre  -1UG-089",
+                            "Brandschutztüre  -1UG-090",
+                            "Brandschutztüre  -1UG-091",
+                            "Brandschutztüre  -1UG-093",
+                            "Brandschutztüre   -1UG-094",
+                            "Brandschutztüre   -1UG-095",
+                            "Brandschutztüre   -1UG-096",
+                            "Brandschutztüre   -1UG-097",
+                            "Brandschutztüre   -1UG-098",
+                            "Brandschutztüre   -1UG-099",
+                            "Brandschutztüre   -1UG-100",
+                            "Brandschutztüre   -1UG-102",
+                            "Brandschutztüre   -1UG-103",
+                            "Brandschutztüre   -1UG-104",
+                            "Brandschutztüre   -1UG-105",
+                            "Brandschutztüre   -1UG-106",
+                            "Brandschutztüre   -1UG-107",
+                            "Brandschutztüre   -1UG-108",
+                            "Brandschutztüre   -1UG-109",
+                            "Brandschutztüre   -1UG-110",
+                            "Brandschutztüre   -1UG-111",
+                            "Brandschutztüre   -1UG-112",
+                            "Brandschutztüre   -1UG-113",
+                            "Brandschutztüre  -1UG-114",
+                            "Brandschutztüre  -1UG-115",
+                            "Brandschutztüre  -1UG-116",
+                            "Brandschutztüre  -1UG-117",
+                            "Brandschutztüre  -1UG-118",
+                            "Brandschutztüre  -1UG-119",
+                            "Brandschutztüre  -1UG-120",
+                            "Brandschutztüre  -1UG-121",
+                            "Brandschutztüre  -1UG-122",
+                            "Brandschutztüre  -1UG-123",
+                            "Brandschutztüre  -1UG-124",
+                            "Brandschutztüre  -1UG-125",
+                            "Brandschutztüre  -1UG-126",
+                            "Brandschutztüre  -1UG-127",
+                            "Brandschutztüre  -EG-027",
+                            "Brandschutztüre  -EG-033",
+                            "Brandschutztüre  -EG-034",
+                            "Brandschutztüre  -EG-056",
+                            "Brandschutztüre  -EG-057",
+                            "Brandschutztüre  -EG-058",
+                            "Brandschutztüre  -EG-059",
+                            "Brandschutztüre  -EG-060",
+                            "Brandschutztüre  -EG-061",
+                            "Brandschutztüre  -EG-062",
+                            "Brandschutztüre  -EG-063",
+                            "Brandschutztüre  -EG-064",
+                            "Brandschutztüre  -EG-065",
+                            "Brandschutztüre  -EG-066",
+                            "Brandschutztüre  -EG-067",
+                            "Brandschutztüre  -EG-068",
+                            "Brandschutztüre  -EG-069",
+                            "Brandschutztüre  -EG-070",
+                            "Brandschutztüre  -EG-071",
+                            "Brandschutztüre  -EG-072",
+                            "Brandschutztüre  -EG-073",
+                            "Brandschutztüre  -EG-074",
+                            "Brandschutztüre  -EG-075",
+                            "Brandschutztüre  -EG-076",
+                            "Brandschutztüre  -EG-077",
+                            "Brandschutztüre  -EG-078",
+                            "Brandschutztüre  -EG-079",
+                            "Brandschutztüre  -EG-080",
+                            "Brandschutztüre  -EG-081",
+                            "Brandschutztüre  -EG-082",
+                            "Brandschutztüre  -EG-083",
+                            "Brandschutztüre  -EG-084",
+                            "Brandschutztüre  -1OG-026",
+                            "Brandschutztüre  -1OG-032",
+                            "Brandschutztüre  -1OG-043",
+                            "Brandschutztüre  -1OG-044",
+                            "Brandschutztüre  -1OG-053",
+                            "Brandschutztüre  -1OG-054",
+                            "Brandschutztüre  -2OG-024",
+                            "Brandschutztüre  -2OG-025",
+                            "Brandschutztüre  -2OG-031",
+                            "Brandschutztüre  -2OG-041",
+                            "Brandschutztüre  -2OG-042",
+                            "Brandschutztüre  -2OG-051",
+                            "Brandschutztüre  -2OG-052",
+                            "Brandschutztüre  -3OG-023",
+                            "Brandschutztüre  -3OG-030",
+                            "Brandschutztüre  -3OG-039",
+                            "Brandschutztüre  -3OG-040",
+                            "Brandschutztüre  -3OG-049",
+                            "Brandschutztüre  -3OG-050",
+                            "Brandschutztüre  -4OG-022",
+                            "Brandschutztüre  -4OG-029",
+                            "Brandschutztüre  -4OG-037",
+                            "Brandschutztüre  -4OG-038",
+                            "Brandschutztüre  -4OG-047",
+                            "Brandschutztüre  -4OG-048",
+                            "Brandschutztüre  -5OG-021",
+                            "Brandschutztüre  -5OG-028",
+                            "Brandschutztüre  -5OG-035",
+                            "Brandschutztüre  -5OG-036",
+                            "Brandschutztüre  -5OG-045",
+                            "Brandschutztüre  -5OG-046",
+                            "Brandschutztüre  -6OG-005",
+                            "Brandschutztüre  -6OG-006",
+                            "Brandschutztüre  -6OG-007",
+                            "Brandschutztüre  -6OG-008",
+                            "Brandschutztüre  -6OG-010",
+                            "Brandschutztüre  -6OG-011",
+                            "Brandschutztüre  -6OG-016",
+                            "Brandschutztüre  -6OG-017",
+                            "Brandschutztüre  -6OG-018",
+                            "Brandschutztüre  -6OG-019",
+                            "Brandschutztüre  -6OG-020",
+                            "Brandschutztüre  -DG-001",
+                            "Brandschutztüre  -DG-002",
+                            "Brandschutztüre  -DG-003",
+                            "Brandschutztüre  -DG-004",
+                            "Brandschutztüre  -DG-009",
+                            "Brandschutztüre  -DG-012",
+                            "Brandschutztüre  -DG-013",
+                            "Brandschutztüre  -DG-014",
+                            "Brandschutztüre  -DG-015",
+                            "Brandschutztüre  -ZWG EG/1OG-055",
+                            "Außentür Pestalozzigasse 1",
+                            "Außentür Pestalozzigasse 2",
+                            "Außentür Pestalozzigasse 3",
+                            "Außentür Lothringerstraße 1",
+                            "Außentür Lothringerstraße 2",
+                            "Außentür Schwarzenbergplatz 1",
+                            "Außentür Schwarzenbergplatz 2",
+                            "Außentür Schwarzenbergplatz 3",
+                            "Außentür Schwarzenbergplatz Nebeneingang"
+                        ]
+                    },
+                    {
+                        "Außentor": [
+                            "Außentor Garageneinfahrt",
+                            "Brandschutztor  -3UG-148",
+                            "Brandschutztor  -1UG-092"
+                        ]
+                    }
+                ]
+            },
+            {
+                "339": [
+                    {
+                        "Werbeanlage": [
+                            "Werbeanlage Schwarzenbergplatz"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Baukonstruktionen in Außenanlagen": {
+        "id": 530,
+        "subcategories": [
+            {
+                "531": [
+                    {
+                        "Schrankenanlage": [
+                            "Schrankenanlage Einfahrt",
+                            "Schrankenanlage Ausfahrt",
+                            "Schrankenanlage Tiefgaragennausfahrt"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Lufttechnische Anlagen": {
+        "id": 430,
+        "subcategories": [
+            {
+                "439": [
+                    {
+                        "Rauchwärmeabzugsanlage (RWA)": [
+                            "Rauchwärmeabzugsanlage (RWA) - Stiege 1",
+                            "Rauchwärmeabzugsanlage (RWA) - Stiege 2",
+                            "Rauchwärmeabzugsanlage (RWA) - Stiege 3",
+                            "Rauchwärmeabzugsanlage (RWA) - Stiege 4",
+                            "Rauchwärmeabzugsanlage (RWA) - Garage Entlüftungsklappen A",
+                            "Rauchwärmeabzugsanlage (RWA) - Garage Entlüftungsklappen B"
+                        ]
+                    },
+                    {
+                        "Brandschutzklappe": [
+                            "Brandschutzklappen (728 Stk.)"
+                        ]
+                    },
+                    {
+                        "Kanalnetz": [
+                            "Kanalnetz gesamtes Haus für Volumenstromregler",
+                            "Kanalnetz LK 01 Klimaanlage Speisesääle",
+                            "Kanalnetz LK 30 Klimaanlage Speisesääle"
+                        ]
+                    }
+                ]
+            },
+            {
+                "433": [
+                    {
+                        "Klimaanlage": [
+                            "LA 01 Klimaanlage 1. - 6.OG",
+                            "LA 02 Klimaanlage Besprechungszi Lothringerstr.",
+                            "LA 03 Klimaanlage Dachgeschoss",
+                            "LA 04 Klimaanlage SW3 4. + 5.OG",
+                            "LA 05 Klimaanlage Halle EG",
+                            "LA 06 Klimaanlage Lokal Falco`s",
+                            "LA 07 Klimaanlage Vortragssaal 1.OG",
+                            "LA 22 Klimaanlage Historischer Bereich 1.+2.OG",
+                            "LB 01 Klimaanlage Büro EG - 6.OG",
+                            "LB 02 Klimaanlage Bespr.zimmer",
+                            "LK 01 Klimaanlage Speisesääle",
+                            "LK 02 Klimaanlage Küche u Nebenräume",
+                            "LK 30 Klimaanlage Speisesaal Neu + Zonen"
+                        ]
+                    }
+                ]
+            },
+            {
+                "431": [
+                    {
+                        "Zu- und Abluftanlage": [
+                            "LA 08 Zu- und Abluftanlage WC Anlagen",
+                            "LA 09 Zu- und Abluftanlage Dachzentrale",
+                            "LB 03 Zu- und Abluftanlage WC Anlagen",
+                            "LB 06 Zu- und Abluftanlage Dachzentrale",
+                            "LK 03 Zu- und Abluftanlage Küchenlager",
+                            "LK 04 Zu- und Abluftanlage Lager 1.UG",
+                            "LK 05 Zu- und Abluftanlage Garage",
+                            "LK 06 Zu- und Abluftanlage Schleusen 2.+3.UG",
+                            "LK 07 Zu- und Abluftanlage Heizzentrale",
+                            "LK 08 Zu- und Abluftanlage Lüftungszentrale 3.UG",
+                            "LK 20 Zu- und Abluftanlage Server 1.UG",
+                            "Zu- und Abluftanlage Stiegenhauslüftung 1-4",
+                            "LT 08 Zu- und Abluftanlage Batterieraum",
+                            "LT 12 Zu- und Abluftanlage Batterieraum USV 3. KG",
+                            "LT 13 Zu- und Abluftanlage USV Raum (außer Betrieb, defekt)"
+                        ]
+                    },
+                    {
+                        "Zuluftanlage": [
+                            "LA 10 Zuluftanlage Windfang Lothringerstr.",
+                            "LA 11 Zuluftanlage Windfang Schwarzenbergplatz",
+                            "LA 12 Zuluftanlage Windfang Falco`s SW3",
+                            "LK 09 Zuluftanlage Windfang Pestalozzi Stg 3"
+                        ]
+                    },
+                    {
+                        "Abluftanlage": [
+                            "Abluftanlage, L II",
+                            "LB 05 Abluftanlage Müllraum",
+                            "LT 01 Abluftanlage Aufzugsmaschr. Stg. 1",
+                            "LT 02 Abluftanlage Aufzugsmaschr. Stg 2",
+                            "LT 03 Abluftanlage Aufzug",
+                            "LT 04 Abluftanlage Aufzug Küche",
+                            "LT 05 Abluftanlage Aufzug 7 - Post",
+                            "LT 06 Abluftanlage Trafo und MS - Station",
+                            "LT 07 Abluftanlage Niederspannungsstation",
+                            "LT 10 Abluftanlage Kompensationsraum"
+                        ]
+                    }
+                ]
+            },
+            {
+                "434": [
+                    {
+                        "Verteilnetz / Pumpen - Kälteerzeugung": [
+                            "Verteilnetz / Pumpen - Kälteerzeugung",
+                            "Kälteverteilnetz, Vorregelung Kühlbalken Vorstandsbereich",
+                            "Kälteverteilnetz, Vorregelung Kühlbalken BT A",
+                            "Kälteverteilnetz, Vorregelung Kühlbalken BT B",
+                            "Kälteverteilnetz, LA Technikzentrale A",
+                            "Kälteverteilnetz, LA Technikzentrale B"
+                        ]
+                    },
+                    {
+                        "Absorptionskältemaschine": [
+                            "Fernkälteübergabestation"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Starkstromanlagen": {
+        "id": 440,
+        "subcategories": [
+            {
+                "443": [
+                    {
+                        "Blindstromkompensationsanlage": [
+                            "Blindstromkompensationsanlage"
+                        ]
+                    },
+                    {
+                        "Niederspannungshauptverteiler": [
+                            "Niederspannungshauptverteiler, EG"
+                        ]
+                    }
+                ]
+            },
+            {
+                "446": [
+                    {
+                        "Blitzschutzanlage": [
+                            "Blitzschutzanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "442": [
+                    {
+                        "USV-Anlage": [
+                            "USV - Anlage"
+                        ]
+                    },
+                    {
+                        "zentrale Batterieanlage": [
+                            "zentrale Batterieanlage für Sicherheitsbeleichtung",
+                            "zentrale Batterieanlage für USV"
+                        ]
+                    }
+                ]
+            },
+            {
+                "445": [
+                    {
+                        "Sicherheitsbeleuchtungsanlage": [
+                            "Sicherheitsbeleuchtungsanlage"
+                        ]
+                    },
+                    {
+                        "Raumbeleuchtung": [
+                            "Raumbeleuchtung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "449": [
+                    {
+                        "Taubenabwehranlage (elektrisch) - Weidenzaunprinzip - nicht Laser / Ultraschall / Spiegel": [
+                            "Taubenabwehranlage (elektrisch) - Weidenzaunprinzip - nicht Laser / Ultraschall / Spiegel"
+                        ]
+                    },
+                    {
+                        "Ladestation": [
+                            "E-Ladestation 2 UG"
+                        ]
+                    }
+                ]
+            },
+            {
+                "444": [
+                    {
+                        "NS-Unterverteiler": [
+                            "NS-Unterverteiler UV1",
+                            "NS-Unterverteiler UV2",
+                            "NS-Unterverteiler UV3",
+                            "NS-Unterverteiler UV6.2",
+                            "NS-Unterverteiler UV6.3",
+                            "NS-Unterverteiler UV41",
+                            "NS-Unterverteiler UV54",
+                            "NS-Unterverteiler UV55",
+                            "NS-Unterverteiler UV6.4",
+                            "NS-Unterverteiler UV6.1",
+                            "NS-Unterverteiler UV 8",
+                            "NS-Unterverteiler UV 4",
+                            "NS-Unterverteiler UV 10",
+                            "NS-Unterverteiler UV 40",
+                            "NS-Unterverteiler UV 51",
+                            "NS-Unterverteiler UV 39",
+                            "NS-Unterverteiler UV 38",
+                            "NS-Unterverteiler UV 43",
+                            "NS-Unterverteiler UV 45",
+                            "NS-Unterverteiler UV 44",
+                            "NS-Unterverteiler UV Lichtwerbung Amundi"
+                        ]
+                    },
+                    {
+                        "Leitungen": [
+                            "Leitungen"
+                        ]
+                    },
+                    {
+                        "Kabel": [
+                            "Kabel"
+                        ]
+                    },
+                    {
+                        "Verlegesysteme": [
+                            "Verlegesysteme"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Fernmelde- und informationstechnische Anlagen": {
+        "id": 450,
+        "subcategories": [
+            {
+                "456": [
+                    {
+                        "Brandmeldeanlage": [
+                            "Brandmeldeanlage FM Büro"
+                        ]
+                    },
+                    {
+                        "Videoüberwachungsanlage": [
+                            "Videoüberwachungsanlage (nicht VDS sondern ÖNORM)"
+                        ]
+                    },
+                    {
+                        "Gas-Warnanlage": [
+                            "CO - Warnanlage Garage"
+                        ]
+                    },
+                    {
+                        "Zugangskontrollanlage": [
+                            "Zugangskontrollanlage (PKE)"
+                        ]
+                    },
+                    {
+                        "Einbruchmeldeanlage": [
+                            "Einbruchmeldeanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "452": [
+                    {
+                        "Türsprech- und Türöffneranlage": [
+                            "Türsprech- und Türöffneranlage, Gegensprechanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Förderanlagen": {
+        "id": 460,
+        "subcategories": [
+            {
+                "461": [
+                    {
+                        "Personenaufzug": [
+                            "Personenaufzug 1",
+                            "Personenaufzug 2",
+                            "Personenaufzug 3",
+                            "Personenaufzug 4a",
+                            "Personenaufzug 4",
+                            "Personenaufzug 5",
+                            "Personenaufzug 6"
+                        ]
+                    },
+                    {
+                        "Lastenaufzug": [
+                            "Lastenaufzug 7",
+                            "Lastenaufzug 8"
+                        ]
+                    },
+                    {
+                        "Treppenlifter": [
+                            "Treppenlifter"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Nutzungsspezifische Anlagen": {
+        "id": 470,
+        "subcategories": [
+            {
+                "474": [
+                    {
+                        "Löschwasseranlage (trocken)": [
+                            "Löschwasseranlage (trocken) Stg. 1",
+                            "Löschwasseranlage (trocken) Stg. 2",
+                            "Löschwasseranlage (trocken) Stg. 3"
+                        ]
+                    },
+                    {
+                        "Sprinkleranlage": [
+                            "Sprinkleranlage (Garage 2.UG-3-UG, Küche und Fitness-Bereich)"
+                        ]
+                    },
+                    {
+                        "Handfeuerlöscher": [
+                            "Handfeuerlöscher 1",
+                            "Handfeuerlöscher 2",
+                            "Handfeuerlöscher 3",
+                            "Handfeuerlöscher 4",
+                            "Handfeuerlöscher 5",
+                            "Handfeuerlöscher 6",
+                            "Handfeuerlöscher 7",
+                            "Handfeuerlöscher 8",
+                            "Handfeuerlöscher 9",
+                            "Handfeuerlöscher 10",
+                            "Handfeuerlöscher 11",
+                            "Handfeuerlöscher 12",
+                            "Handfeuerlöscher 13",
+                            "Handfeuerlöscher 14",
+                            "Handfeuerlöscher 15",
+                            "Handfeuerlöscher 16",
+                            "Handfeuerlöscher 17",
+                            "Handfeuerlöscher 18",
+                            "Handfeuerlöscher 19",
+                            "Handfeuerlöscher 20",
+                            "Handfeuerlöscher 21",
+                            "Handfeuerlöscher 22",
+                            "Handfeuerlöscher 23",
+                            "Handfeuerlöscher 24",
+                            "Handfeuerlöscher 25",
+                            "Handfeuerlöscher 26",
+                            "Handfeuerlöscher 27",
+                            "Handfeuerlöscher 28",
+                            "Handfeuerlöscher 29",
+                            "Handfeuerlöscher 30",
+                            "Handfeuerlöscher 31",
+                            "Handfeuerlöscher 32",
+                            "Handfeuerlöscher 33",
+                            "Handfeuerlöscher 34",
+                            "Handfeuerlöscher 35",
+                            "Handfeuerlöscher 36",
+                            "Handfeuerlöscher 37",
+                            "Handfeuerlöscher 38",
+                            "Handfeuerlöscher 39",
+                            "Handfeuerlöscher 40",
+                            "Handfeuerlöscher 41",
+                            "Handfeuerlöscher 42",
+                            "Handfeuerlöscher 43",
+                            "Handfeuerlöscher 44",
+                            "Handfeuerlöscher 45",
+                            "Handfeuerlöscher 46",
+                            "Handfeuerlöscher 47",
+                            "Handfeuerlöscher 48",
+                            "Handfeuerlöscher 49",
+                            "Handfeuerlöscher 50",
+                            "Handfeuerlöscher 51",
+                            "Handfeuerlöscher 52",
+                            "Handfeuerlöscher 53",
+                            "Handfeuerlöscher 54",
+                            "Handfeuerlöscher 55",
+                            "Handfeuerlöscher 56",
+                            "Handfeuerlöscher 57",
+                            "Handfeuerlöscher 58",
+                            "Handfeuerlöscher 59",
+                            "Handfeuerlöscher 60",
+                            "Handfeuerlöscher 61",
+                            "Handfeuerlöscher 62",
+                            "Handfeuerlöscher 63",
+                            "Handfeuerlöscher 64",
+                            "Handfeuerlöscher 65",
+                            "Handfeuerlöscher 66",
+                            "Handfeuerlöscher 67",
+                            "Handfeuerlöscher 68",
+                            "Handfeuerlöscher 69",
+                            "Handfeuerlöscher 70",
+                            "Handfeuerlöscher 71",
+                            "Handfeuerlöscher 72",
+                            "Handfeuerlöscher 73",
+                            "Handfeuerlöscher 74",
+                            "Handfeuerlöscher 75",
+                            "Handfeuerlöscher 76",
+                            "Handfeuerlöscher 77",
+                            "Handfeuerlöscher 78",
+                            "Handfeuerlöscher 79",
+                            "Handfeuerlöscher 80",
+                            "Handfeuerlöscher 81",
+                            "Handfeuerlöscher 82",
+                            "Handfeuerlöscher 83",
+                            "Handfeuerlöscher 84"
+                        ]
+                    },
+                    {
+                        "Nassalarmventilstation (NAV)": [
+                            "Nassalarmventilstation (NAV)"
+                        ]
+                    },
+                    {
+                        "Trockenalarmventilstation (TAV)": [
+                            "Trockenalarmventilstation (TAV)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "476": [
+                    {
+                        "Müllpresse u. Container mit Kraftantrieb": [
+                            "Müllpresse u. Container mit Kraftantrieb"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Innenwände": {
+        "id": 340,
+        "subcategories": [
+            {
+                "344": [
+                    {
+                        "Innentor": [
+                            "Brandschutzschiebetor, 3UG T005",
+                            "Brandschutzschiebetor, 3UG T006",
+                            "Brandschutzschiebetor, 2UG T002",
+                            "Brandschutzschiebetor, 2UG T003",
+                            "Brandschutzschiebetor, 2UG T004",
+                            "Brandschutzschiebetor, 1UG T001"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Abwasser-, Wasser-, Gasanlagen": {
+        "id": 410,
+        "subcategories": [
+            {
+                "411": [
+                    {
+                        "Hebeanlage": [
+                            "Hebeanlage 1, 2.UG",
+                            "Hebeanlage 2, 2.UG",
+                            "Hebeanlage 3, 1.UG"
+                        ]
+                    },
+                    {
+                        "Tauchpumpe": [
+                            "Tauchpumpe, Entwässerungspumpe 1",
+                            "Tauchpumpe, Entwässerungspumpe 2",
+                            "Tauchpumpe, Grundwasserpumpe 1",
+                            "Tauchpumpe, Grundwasserpumpe 2",
+                            "Tauchpumpe, Grundwasserpumpe 3"
+                        ]
+                    },
+                    {
+                        "Fettabscheider": [
+                            "Fettabscheider 1952L, DN 150"
+                        ]
+                    },
+                    {
+                        "Abläufe": [
+                            "Abläufe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "412": [
+                    {
+                        "Druckerhöhungsanlage (nicht Löschwasser)": [
+                            "Druckerhöhungsanlage Heizung"
+                        ]
+                    },
+                    {
+                        "Wasseraufbereitungsanlage (Dosierung)": [
+                            "Wasseraufbereitungsanlage (Dosierung), Restaurant Falcos",
+                            "Wasseraufbereitungsanlage (Dosierung)"
+                        ]
+                    },
+                    {
+                        "Rohrleitungen": [
+                            "Kaltwasserleitung gesamtes Haus",
+                            "Wasserleitung Küche",
+                            "Wasserleitung Zierbrunnen Bauteil A",
+                            "Wasserleitung Wasserwand Empfangsbereich"
+                        ]
+                    },
+                    {
+                        "Wasseraufbereitungsanlage (Enthärtung)": [
+                            "Wasseraufbereitungsanlage (Enthärtung) Zierbrunnen, Wasserwand, Küche"
+                        ]
+                    },
+                    {
+                        "Brunnenanlage": [
+                            "Brunnenanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Wärmeversorgungsanlagen": {
+        "id": 420,
+        "subcategories": [
+            {
+                "422": [
+                    {
+                        "Wärmeverteilnetz": [
+                            "Wärmeverteilnetz, Fußbodenheizung Halle",
+                            "Wärmeverteilnetz, Vorregelung Heizung DG",
+                            "Wärmeverteilnetz, Vorregelung Heizung 1",
+                            "Wärmeverteilnetz, Vorregelung Heizung 2",
+                            "Wärmeverteilnetz, Vorregelung Heizung 3",
+                            "Wärmeverteilnetz, Zirkulation Falco's",
+                            "Wärmeverteilnetz, Vorregelung Heizung Bierreither",
+                            "Wärmeverteilnetz",
+                            "Wärmeverteilnetz, Zirkulation Küche"
+                        ]
+                    }
+                ]
+            },
+            {
+                "421": [
+                    {
+                        "Fernwärmeübergabestation - Heißwasser": [
+                            "Fernwärmeübergabestation 1",
+                            "Fernwärmeübergabestation 2",
+                            "Fernwärmeübergabestation 3"
+                        ]
+                    },
+                    {
+                        "Elektroheizung": [
+                            "Elektr. Fußbodenheizung (außer Betrieb) defekt"
+                        ]
+                    },
+                    {
+                        "Wassererwärmungsanlage": [
+                            "Wassererwärmungsanlage Küche",
+                            "Wassererwärmungsanlage Falco"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gebäudeautomation": {
+        "id": 480,
+        "subcategories": [
+            {
+                "481": [
+                    {
+                        "Automationssystem": [
+                            "Automationssystem, Gebäudeleittechnik"
+                        ]
+                    }
+                ]
+            },
+            {
+                "483": [
+                    {
+                        "Management-Ebene": [
+                            "Management-Ebene"
+                        ]
+                    }
+                ]
+            },
+            {
+                "482": [
+                    {
+                        "GA-Schaltschränke": [
+                            "GA-Schaltschränke LZ A",
+                            "GA-Schaltschränke LZ B",
+                            "GA-Schaltschränke LZ KG",
+                            "GA-Schaltschränke KG"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Ausstattung": {
+        "id": 610,
+        "subcategories": [
+            {
+                "611": [
+                    {
+                        "Werkstattausstattung": [
+                            "(Werkstattausstattung) Wetterstation",
+                            "(Werkstattausstattung) FWS"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Dächer": {
+        "id": 360,
+        "subcategories": [
+            {
+                "363": [
+                    {
+                        "Geneigtes Dach": [
+                            "Geneigtes Dach"
+                        ]
+                    },
+                    {
+                        "Flachdach": [
+                            "Flachdach"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

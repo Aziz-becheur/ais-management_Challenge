@@ -1,0 +1,409 @@
+{
+    "Förderanlagen": {
+        "id": 460,
+        "subcategories": [
+            {
+                "461": [
+                    {
+                        "Personenaufzug": [
+                            "Personenaufzug Wohnungen",
+                            "Personenaufzug"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Fernmelde- und informationstechnische Anlagen": {
+        "id": 450,
+        "subcategories": [
+            {
+                "452": [
+                    {
+                        "Türsprech- und Türöffneranlage": [
+                            "Türsprech- und Türöffneranlage Wohnungen rechts",
+                            "Türsprech- und Türöffneranlage Wohnungen links"
+                        ]
+                    }
+                ]
+            },
+            {
+                "456": [
+                    {
+                        "Brandmeldeanlage": [
+                            "Brandmeldeanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Außenwände": {
+        "id": 330,
+        "subcategories": [
+            {
+                "334": [
+                    {
+                        "Außentür": [
+                            "Außentür Haupteingang rechts",
+                            "Außentür Haupteingang links",
+                            "Außentür"
+                        ]
+                    },
+                    {
+                        "Außentor": [
+                            "Außentor Sektionaltor",
+                            "Außentor Schiebetor"
+                        ]
+                    }
+                ]
+            },
+            {
+                "338": [
+                    {
+                        "Sonnenschutzanlage": [
+                            "Sonnenschutzanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Nutzungsspezifische Anlagen": {
+        "id": 470,
+        "subcategories": [
+            {
+                "474": [
+                    {
+                        "Handfeuerlöscher": [
+                            "Handfeuerlöscher"
+                        ]
+                    }
+                ]
+            },
+            {
+                "472": [
+                    {
+                        "Kleinteilewaschmaschine": [
+                            "Kleinteilewaschmaschine"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Lufttechnische Anlagen": {
+        "id": 430,
+        "subcategories": [
+            {
+                "439": [
+                    {
+                        "Rauchwärmeabzugsanlage (RWA)": [
+                            "Rauchwärmeabzugsanlage (RWA)",
+                            "Rauchwärmeabzugsanlage (RWA) West",
+                            "Rauchwärmeabzugsanlage (RWA) Ost"
+                        ]
+                    },
+                    {
+                        "Brandschutzklappe": [
+                            "Brandschutzklappe gesamtes Haus"
+                        ]
+                    }
+                ]
+            },
+            {
+                "431": [
+                    {
+                        "Abluftanlage": [
+                            "Abluftanlage West Nassräume",
+                            "Abluftanlage Ost Nassräume",
+                            "Abluftanlage West",
+                            "Abluftanlage Ost"
+                        ]
+                    }
+                ]
+            },
+            {
+                "434": [
+                    {
+                        "Kompressionskältemaschine": [
+                            "Kompressionskältemaschine"
+                        ]
+                    },
+                    {
+                        "Verteilnetz / Pumpen - Kälteerzeugung": [
+                            "Verteilnetz / Pumpen - Kälteerzeugung KM",
+                            "Verteilnetz / Pumpen - Kälteerzeugung 17",
+                            "Verteilnetz / Pumpen - Kälteerzeugung Kühlturm",
+                            "Verteilnetz / Pumpen - Kälteerzeugung 30",
+                            "Verteilnetz / Pumpen - Kälteerzeugung"
+                        ]
+                    },
+                    {
+                        "Rückkühlwerk": [
+                            "Rückkühlwerk"
+                        ]
+                    }
+                ]
+            },
+            {
+                "433": [
+                    {
+                        "Klimaanlage": [
+                            "Klimaanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gebäudeautomation": {
+        "id": 480,
+        "subcategories": [
+            {
+                "482": [
+                    {
+                        "GA-Schaltschränke": [
+                            "GA-Schaltschränke",
+                            "GA-Schaltschränke Kessel",
+                            "GA-Schaltschränke KM"
+                        ]
+                    }
+                ]
+            },
+            {
+                "481": [
+                    {
+                        "Automationssystem": [
+                            "Automationssystem"
+                        ]
+                    }
+                ]
+            },
+            {
+                "483": [
+                    {
+                        "Management-Ebene": [
+                            "Management-Ebene"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Starkstromanlagen": {
+        "id": 440,
+        "subcategories": [
+            {
+                "444": [
+                    {
+                        "NS-Unterverteiler": [
+                            "NS-Unterverteiler",
+                            "NS-Unterverteiler UV Stiege",
+                            "NS-Unterverteiler Parkdeck",
+                            "NS-Unterverteiler Keller",
+                            "NS-Unterverteiler Allgemein",
+                            "NS-Unterverteiler West",
+                            "NS-Unterverteiler Ost",
+                            "NS-Unterverteiler West 1",
+                            "NS-Unterverteiler West 2"
+                        ]
+                    },
+                    {
+                        "Leitungen": [
+                            "Leitungen"
+                        ]
+                    },
+                    {
+                        "Kabel": [
+                            "Kabel"
+                        ]
+                    },
+                    {
+                        "Verlegesysteme": [
+                            "Verlegesysteme"
+                        ]
+                    }
+                ]
+            },
+            {
+                "445": [
+                    {
+                        "Ampelanlage": [
+                            "Ampelanlage"
+                        ]
+                    },
+                    {
+                        "Sicherheitsbeleuchtungsanlage": [
+                            "Sicherheitsbeleuchtungsanlage"
+                        ]
+                    },
+                    {
+                        "Raumbeleuchtung": [
+                            "Raumbeleuchtung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "443": [
+                    {
+                        "Niederspannungshauptverteiler": [
+                            "Niederspannungshauptverteiler Anspeisung",
+                            "Niederspannungshauptverteiler EIB",
+                            "Niederspannungshauptverteiler Hauptmessung",
+                            "Niederspannungshauptverteiler Messung",
+                            "Niederspannungshauptverteiler Feld 1",
+                            "Niederspannungshauptverteiler Feld 2",
+                            "Niederspannungshauptverteiler Feld 3",
+                            "Niederspannungshauptverteiler Feld 4",
+                            "Niederspannungshauptverteiler Feld 5"
+                        ]
+                    }
+                ]
+            },
+            {
+                "442": [
+                    {
+                        "zentrale Batterieanlage": [
+                            "zentrale Batterieanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "446": [
+                    {
+                        "Blitzschutzanlage": [
+                            "Blitzschutzanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Abwasser-, Wasser-, Gasanlagen": {
+        "id": 410,
+        "subcategories": [
+            {
+                "411": [
+                    {
+                        "Abläufe": [
+                            "Abläufe 1 UG",
+                            "Abläufe"
+                        ]
+                    },
+                    {
+                        "Hebeanlage": [
+                            "Hebeanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "412": [
+                    {
+                        "Sanitäre Einrichtungsgegenstände": [
+                            "Sanitäre Einrichtungsgegenstände"
+                        ]
+                    },
+                    {
+                        "Wasseraufbereitungsanlage (Enthärtung)": [
+                            "Wasseraufbereitungsanlage (Enthärtung)"
+                        ]
+                    },
+                    {
+                        "Rohrleitungen": [
+                            "Rohrleitungen",
+                            "Rohrleitungen Waschküche"
+                        ]
+                    }
+                ]
+            },
+            {
+                "413": [
+                    {
+                        "Gaseinspeisung": [
+                            "Gaseinspeisung"
+                        ]
+                    },
+                    {
+                        "Gasleitungsnetz": [
+                            "Gasleitungsnetz"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Wärmeversorgungsanlagen": {
+        "id": 420,
+        "subcategories": [
+            {
+                "421": [
+                    {
+                        "Gastherme": [
+                            "Gastherme gesamtes Haus 1",
+                            "Gastherme gesamtes Haus 2"
+                        ]
+                    },
+                    {
+                        "Schornstein": [
+                            "Schornstein"
+                        ]
+                    }
+                ]
+            },
+            {
+                "422": [
+                    {
+                        "Druckhaltesystem mit Fremddruckerzeugung": [
+                            "Druckhaltesystem mit Fremddruckerzeugung Regenwasser",
+                            "Druckhaltesystem mit Fremddruckerzeugung 17",
+                            "Druckhaltesystem mit Fremddruckerzeugung 30",
+                            "Druckhaltesystem mit Fremddruckerzeugung Übergabe"
+                        ]
+                    },
+                    {
+                        "Wärmeverteilnetz": [
+                            "Kälteanbindung 17",
+                            "Kälteanbindung 30",
+                            "Wärmeverteilnetz Klimaanlage Büro",
+                            "Wärmeverteilnetz Klimaanlage Büro Cafe",
+                            "Wärmeverteilnetz FBH Blumenladen",
+                            "Wärmeverteilnetz Übergabe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Ausstattung": {
+        "id": 610,
+        "subcategories": [
+            {
+                "611": [
+                    {
+                        "Werkstattausstattung": [
+                            "Bewässerungsanlage Atrium"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Dächer": {
+        "id": 360,
+        "subcategories": [
+            {
+                "363": [
+                    {
+                        "Geneigtes Dach": [
+                            "Geneigtes Dach"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

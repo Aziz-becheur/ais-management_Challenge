@@ -1,0 +1,44 @@
+{
+    "RLT": [
+        "Lufttechnische Anlagen"
+    ],
+    "Elektro": [
+        "Starkstromanlagen",
+        "Fernmelde- und informationstechnische Anlagen",
+        "Nutzungsspezifische Anlagen"
+    ],
+    "Haustechn Einricht": [
+        "Neu Ausstattung",
+        "Baukonstruktionen in Au\u00dfenanlagen"
+    ],
+    "Sanit\u00e4r": [
+        "Abwasser-, Wasser-, Gasanlagen"
+    ],
+    "BuES, GLT, IZS": [
+        "Geb\u00e4udeautomation"
+    ],
+    "Brandschutz": [
+        "Nutzungsspezifische Anlagen"
+    ],
+    "K\u00e4ltetechnik": [
+        "Lufttechnische Anlagen",
+        "Nutzungsspezifische Anlagen",
+        "Abwasser-, Wasser-, Gasanlagen"
+    ],
+    "Heizung": [
+        "Abwasser-, Wasser-, Gasanlagen"
+    ],
+    "T\u00fcren und Tore": [
+        "Au\u00dfenw\u00e4nde",
+        "Innenw\u00e4nde",
+        "D\u00e4cher"
+    ],
+    "Aufzug": [
+        "F\u00f6rderanlagen"
+    ],
+    "GEV": [
+        "Nutzungsspezifische Anlagen",
+        "Geb\u00e4udeautomation",
+        "Starkstromanlagen"
+    ]
+}

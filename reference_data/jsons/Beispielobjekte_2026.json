@@ -1,0 +1,777 @@
+{
+    "Lufttechnische Anlagen": {
+        "id": 430,
+        "subcategories": [
+            {
+                "434": [
+                    {
+                        "Kompressionskältemaschine": [
+                            "Kleinkaltwassersatz 109 kW",
+                            "Kleinkaltwassersatz 237kW",
+                            "VRV - Anlage",
+                            "Kältemaschine Lüftungsanlagen",
+                            "KM Kühlraum Küche",
+                            "Tiefkühlzelle",
+                            "Kälte Lüftung ArchivTrane"
+                        ]
+                    },
+                    {
+                        "Verteilnetz / Pumpen - Kälteerzeugung": [
+                            "Kältenetz Dach - Deckenkühlung & Fancoil",
+                            "Kältenetz - Lüftungsgeräte"
+                        ]
+                    },
+                    {
+                        "Rückkühlwerk": [
+                            "Rückkühler 1 und 2 für LA in Lüftungszentrale 2. DG"
+                        ]
+                    },
+                    {
+                        "Splitanlage": [
+                            "Splitanlage ehem. Serverraum und EDV Raum 6. OG",
+                            "Splitanlage 1 Serverraum",
+                            "Splitanlage 2 Serverraum",
+                            "Splitanlage - Kälte Küche (Kühllade)",
+                            "Splitanlage - Kälte Getränke"
+                        ]
+                    }
+                ]
+            },
+            {
+                "432": [
+                    {
+                        "Teilklimaanlage": [
+                            "Lüftungsanlage Speisesaal",
+                            "Lüftungsanlage Küche",
+                            "Lüftungsanlage Bürobereich",
+                            "Lüfrungsanlage innenliegende Räume Keller",
+                            "Lüftungsanlage Archiv",
+                            "Exhausto Lüftung",
+                            "Lüftung KFZ Besichtigung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "431": [
+                    {
+                        "Abluftanlage": [
+                            "Abluft Tiefgarage",
+                            "Abluftanlage Müllraum",
+                            "Abluftanlage Dusche",
+                            "Abluftanlage Raucherraum",
+                            "Abluftanlage WC Stiege 1",
+                            "Abluftanlage WC Stiege 2"
+                        ]
+                    },
+                    {
+                        "Maschinelle Rauch-/Wärmeabzuganlage (MRA)": [
+                            "BRA Abluft Halle"
+                        ]
+                    },
+                    {
+                        "Zuluftanlage": [
+                            "Zuluftanlage 1 Halle",
+                            "Zuluftanlage 2 Halle"
+                        ]
+                    },
+                    {
+                        "Luftschleieranlage": [
+                            "Fan-Coils EG",
+                            "Fan-Coils 1. OG",
+                            "Fan-Coils 2. OG",
+                            "Fan-Coils 3. OG",
+                            "Fan-Coils 4. OG",
+                            "Fan-Coils 5. OG",
+                            "Fan-Coils 6. OG - Firma Ratzenböck",
+                            "Fan-Coils 6. OG - Fa. LSG",
+                            "Fan-Coils 7. OG",
+                            "Fan-Coils 8. OG",
+                            "Fan-Coils 9. OG - Tourismusverband",
+                            "Fan-Coils 9. OG - Firma Rex",
+                            "Fan-Coils 10. OG",
+                            "Fan-Coils 10. OG - Besprechung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "439": [
+                    {
+                        "Rauchwärmeabzugsanlage (RWA)": [
+                            "Rauchwärmeabzugsanlage (RWA) 1",
+                            "Rauchwärmeabzugsanlage (RWA) 2"
+                        ]
+                    },
+                    {
+                        "Kanalnetz": [
+                            "Kanalnetz - Lüftungsanlagen"
+                        ]
+                    },
+                    {
+                        "Brandschutzklappe": [
+                            "Brandschutzklappen"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Wärmeversorgungsanlagen": {
+        "id": 420,
+        "subcategories": [
+            {
+                "423": [
+                    {
+                        "Heizkörper": [
+                            "El. Heizkörper",
+                            "Heizkörper 1. OG Foyer - B",
+                            "Heizkörper 1. OG Foyer - C",
+                            "Heizkörper 1. OG Foyer - D",
+                            "Heizkörper 1. OG Foyer - E",
+                            "Heizkörper 1. OG Foyer - F",
+                            "Heizkörper 3. OG Stiegenhaus 1",
+                            "Heizkörper 3. OG Stiegenhaus 2",
+                            "Heizkörper 7. OG Stiegenhaus 1",
+                            "Heizkörper 7. OG Stiegenhaus 2",
+                            "Heizkörper 1. OG Foyer - A"
+                        ]
+                    }
+                ]
+            },
+            {
+                "422": [
+                    {
+                        "Wärmeverteilnetz": [
+                            "Wärmeverteilnetz"
+                        ]
+                    }
+                ]
+            },
+            {
+                "421": [
+                    {
+                        "Fernwärmeübergabestation - Heißwasser": [
+                            "Fernwärmeübergabestation 1 & 2"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Starkstromanlagen": {
+        "id": 440,
+        "subcategories": [
+            {
+                "449": [
+                    {
+                        "Begleitheizung": [
+                            "Begleitheizung Wasserleitung Technikzentrale Dach",
+                            "Dachrinnenheizung",
+                            "Begleitheizung Dachrinne 2.OG"
+                        ]
+                    }
+                ]
+            },
+            {
+                "446": [
+                    {
+                        "Blitzschutzanlage": [
+                            "Blitzschutzanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "445": [
+                    {
+                        "Sicherheitsbeleuchtungsanlage": [
+                            "Sicherheitsbeleuchtungsanlage"
+                        ]
+                    },
+                    {
+                        "Ampelanlage": [
+                            "Ampelanlage Tiefgarageneinfahrt"
+                        ]
+                    },
+                    {
+                        "Raumbeleuchtung": [
+                            "Raumbeleuchtung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "442": [
+                    {
+                        "USV-Anlage": [
+                            "USV-Anlage Serverraum"
+                        ]
+                    }
+                ]
+            },
+            {
+                "443": [
+                    {
+                        "Niederspannungshauptverteiler": [
+                            "Niederspannungshauptverteiler"
+                        ]
+                    }
+                ]
+            },
+            {
+                "444": [
+                    {
+                        "Leitungen": [
+                            "Leitungen"
+                        ]
+                    },
+                    {
+                        "Kabel": [
+                            "Kabel"
+                        ]
+                    },
+                    {
+                        "Verlegesysteme": [
+                            "Verlegesysteme"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Abwasser-, Wasser-, Gasanlagen": {
+        "id": 410,
+        "subcategories": [
+            {
+                "412": [
+                    {
+                        "Rohrleitungen": [
+                            "Kältenetz Schmutzfänger",
+                            "Kältenetz 10. OG Schmutzfänger",
+                            "Wasserrohrnetz"
+                        ]
+                    },
+                    {
+                        "Wasseraufbereitungsanlage (Enthärtung)": [
+                            "Enthärtungsanlage Küche",
+                            "Enthärtungsanlage"
+                        ]
+                    },
+                    {
+                        "Druckerhöhungsanlage (nicht Löschwasser)": [
+                            "Druckerhöhungsanlage Kaltwasser"
+                        ]
+                    },
+                    {
+                        "Sanitäre Einrichtungsgegenstände": [
+                            "WC Herren",
+                            "WC Damen und barrierefreies WC"
+                        ]
+                    }
+                ]
+            },
+            {
+                "411": [
+                    {
+                        "Abläufe": [
+                            "Dachablauf Dach",
+                            "Abläufe Regenrinnen",
+                            "Dachablauf  2. DG",
+                            "Abläufe",
+                            "Abläufe Heizzentrale",
+                            "Dachablauf 2.OG"
+                        ]
+                    },
+                    {
+                        "Hebeanlage": [
+                            "Hebeanlage DN 80",
+                            "Hebeanlage DN 65",
+                            "Hebeanlage Lüftungszentrale 2. UG",
+                            "Hebeanlage Garderoben 2. UG"
+                        ]
+                    },
+                    {
+                        "Fettabscheider": [
+                            "Fettabscheider"
+                        ]
+                    },
+                    {
+                        "Abwasserleitungen": [
+                            "Abwasserleitungen - Fallstränge"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Dächer": {
+        "id": 360,
+        "subcategories": [
+            {
+                "363": [
+                    {
+                        "Flachdach": [
+                            "Flachdach"
+                        ]
+                    },
+                    {
+                        "Geneigtes Dach": [
+                            "Blechdach 2. DG"
+                        ]
+                    }
+                ]
+            },
+            {
+                "362": [
+                    {
+                        "Lichtkuppel / Oberlicht / Dachfenster": [
+                            "Lichtkuppel 1",
+                            "Lichtkuppel 2"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Sonstiges zur KG": {
+        "id": 380,
+        "subcategories": [
+            {
+                "389": [
+                    {
+                        "Tritte / Leitern": [
+                            "Leiter Dach 2. DG auf oberes Dach",
+                            "Leiter Lüftungszentrale zu Dachausstieg"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Förderanlagen": {
+        "id": 460,
+        "subcategories": [
+            {
+                "463": [
+                    {
+                        "Befahranlage": [
+                            "Befahranlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "461": [
+                    {
+                        "Personenaufzug": [
+                            "Personenaufzug A",
+                            "Personenaufzug B",
+                            "Personenaufzug C"
+                        ]
+                    },
+                    {
+                        "Lastenaufzug": [
+                            "Lastenaufzug"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Außenwände": {
+        "id": 330,
+        "subcategories": [
+            {
+                "334": [
+                    {
+                        "Außentür": [
+                            "Außentür - Dachausstieg",
+                            "Außentür Haupteingang",
+                            "Brandschutztüre 2.UG/A",
+                            "Brandschutztüre 2.UG/B",
+                            "Brandschutztüre 2.UG/C",
+                            "Brandschutztüre 2.UG/D",
+                            "Brandschutztüre 2.UG/E",
+                            "Brandschutztüre 2.UG/F",
+                            "Brandschutztüre 2.UG/G",
+                            "Brandschutztüre 2.UG/H",
+                            "Brandschutztüre 2.UG/I",
+                            "Brandschutztüre 2.UG/J",
+                            "Brandschutztüre 2.UG/K",
+                            "Brandschutztüre 2.UG/L",
+                            "Brandschutztüre 2.UG/M",
+                            "Brandschutztüre 2.UG/N",
+                            "Brandschutztüre 2.UG/O",
+                            "Brandschutztüre 2.UG/P",
+                            "Brandschutztüre 2.UG/Q",
+                            "Brandschutztüre 2.UG/R",
+                            "Brandschutztüre 2.UG/S",
+                            "Brandschutztüre 2.UG/T",
+                            "Brandschutztüre 2.UG/U",
+                            "Brandschutztüre 2.UG/V",
+                            "Brandschutztüre 2.UG/W",
+                            "Brandschutztüre 2.UG/X",
+                            "Brandschutztüre 2.UG/Y",
+                            "Brandschutztüre 1.UG/A",
+                            "Brandschutztüre 1.UG/B",
+                            "Brandschutztüre 1.UG/C",
+                            "Brandschutztüre 1.UG/D",
+                            "Brandschutztüre 1.UG/E",
+                            "Brandschutztüre 1.UG/F",
+                            "Brandschutztüre EG/A",
+                            "Brandschutztüre EG/B",
+                            "Brandschutztüre EG/C",
+                            "Brandschutztüre EG/D",
+                            "Brandschutztüre EG/E",
+                            "Brandschutztüre EG/F",
+                            "Brandschutztüre EG/G",
+                            "Brandschutztüre EG/H",
+                            "Brandschutztüre EG/I",
+                            "Brandschutztüre EG/J",
+                            "Brandschutztüre EG/K",
+                            "Brandschutztüre EG/L",
+                            "Brandschutztüre EG/M",
+                            "Brandschutztüre EG/N",
+                            "Brandschutztüre EG/O",
+                            "Brandschutztüre 1.OG/A",
+                            "Brandschutztüre 1.OG/B",
+                            "Brandschutztüre 1.OG/C",
+                            "Brandschutztüre 1.OG/D",
+                            "Brandschutztüre 1.OG/E",
+                            "Brandschutztüre 1.OG/F",
+                            "Brandschutztüre 2.OG/A",
+                            "Brandschutztüre 2.OG/B",
+                            "Brandschutztüre 2.OG/C",
+                            "Brandschutztüre 2.OG/D",
+                            "Brandschutztüre 2.OG/E",
+                            "Brandschutztüre 2.OG/F",
+                            "Brandschutztüre 2.OG/G",
+                            "Brandschutztüre 2.OG/H",
+                            "Brandschutztüre 2.OG/I",
+                            "Brandschutztüre 2.OG/J",
+                            "Brandschutztüre 3.OG/A",
+                            "Brandschutztüre 3.OG/B",
+                            "Brandschutztüre 3.OG/C",
+                            "Brandschutztüre 3.OG/D",
+                            "Brandschutztüre 3.OG/E",
+                            "Brandschutztüre 3.OG/F",
+                            "Brandschutztüre 3.OG/G",
+                            "Brandschutztüre 3.OG/H",
+                            "Brandschutztüre 3.OG/I",
+                            "Brandschutztüre 3.OG/J",
+                            "Brandschutztüre 4.OG/A",
+                            "Brandschutztüre 4.OG/B",
+                            "Brandschutztüre 4.OG/C",
+                            "Brandschutztüre 4.OG/D",
+                            "Brandschutztüre 4.OG/E",
+                            "Brandschutztüre 4.OG/F",
+                            "Brandschutztüre 4.OG/G",
+                            "Brandschutztüre 4.OG/H",
+                            "Brandschutztüre 4.OG/I",
+                            "Brandschutztüre 4.OG/J",
+                            "Brandschutztüre 5.OG/A",
+                            "Brandschutztüre 5.OG/B",
+                            "Brandschutztüre 5.OG/C",
+                            "Brandschutztüre 5.OG/D",
+                            "Brandschutztüre 5.OG/E",
+                            "Brandschutztüre 5.OG/F",
+                            "Brandschutztüre 5.OG/G",
+                            "Brandschutztüre 5.OG/H",
+                            "Brandschutztüre 5.OG/I",
+                            "Brandschutztüre 5.OG/J",
+                            "Brandschutztüre 6.OG/A",
+                            "Brandschutztüre 6.OG/B",
+                            "Brandschutztüre 6.OG/C",
+                            "Brandschutztüre 6.OG/D",
+                            "Brandschutztüre 6.OG/E",
+                            "Brandschutztüre 6.OG/F",
+                            "Brandschutztüre 6.OG/G",
+                            "Brandschutztüre 6.OG/H",
+                            "Brandschutztüre 6.OG/I",
+                            "Brandschutztüre 6.OG/J",
+                            "Brandschutztüre 6.OG/K",
+                            "Brandschutztüre 7.OG/A",
+                            "Brandschutztüre 7.OG/B",
+                            "Brandschutztüre 7.OG/C",
+                            "Brandschutztüre 7.OG/D",
+                            "Brandschutztüre 7.OG/E",
+                            "Brandschutztüre 7.OG/F",
+                            "Brandschutztüre 7.OG/G",
+                            "Brandschutztüre 7.OG/H",
+                            "Brandschutztüre 7.OG/I",
+                            "Brandschutztüre 7.OG/J",
+                            "Brandschutztüre 7.OG/K",
+                            "Brandschutztüre 8.OG/A",
+                            "Brandschutztüre 8.OG/B",
+                            "Brandschutztüre 8.OG/C",
+                            "Brandschutztüre 8.OG/D",
+                            "Brandschutztüre 8.OG/E",
+                            "Brandschutztüre 8.OG/F",
+                            "Brandschutztüre 8.OG/G",
+                            "Brandschutztüre 8.OG/H",
+                            "Brandschutztüre 8.OG/I",
+                            "Brandschutztüre 8.OG/J",
+                            "Brandschutztüre 8.OG/K",
+                            "Brandschutztüre 9.OG/A",
+                            "Brandschutztüre 9.OG/B",
+                            "Brandschutztüre 9.OG/C",
+                            "Brandschutztüre 9.OG/D",
+                            "Brandschutztüre 9.OG/E",
+                            "Brandschutztüre 9.OG/F",
+                            "Brandschutztüre 9.OG/G",
+                            "Brandschutztüre 9.OG/H",
+                            "Brandschutztüre 9.OG/I",
+                            "Brandschutztüre 9.OG/J",
+                            "Brandschutztüre 10.OG/A",
+                            "Brandschutztüre 10.OG/B",
+                            "Brandschutztüre 10.OG/C",
+                            "Brandschutztüre 10.OG/D",
+                            "Brandschutztüre 10.OG/E",
+                            "Brandschutztüre 10.OG/F",
+                            "Brandschutztüre DG/A",
+                            "Brandschutztüre DG/B",
+                            "Brandschutztüre DG/C",
+                            "Brandschutztüren Mieter",
+                            "Außentüren",
+                            "Brandschutztüre 2.UG/Z"
+                        ]
+                    },
+                    {
+                        "Außentor": [
+                            "Sektionaltor Tiefgarage",
+                            "Außentor KFZ Besichtigung"
+                        ]
+                    },
+                    {
+                        "Außenfenster mit Kipp- oder Drehflügel": [
+                            "Außenfenster mit Kipp- oder Drehflügel"
+                        ]
+                    }
+                ]
+            },
+            {
+                "339": [
+                    {
+                        "Werbeanlage": [
+                            "Werbeanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "338": [
+                    {
+                        "Sonnenschutzanlage": [
+                            "Markise Chinesisches Restaurant",
+                            "Sonnenschutzanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gebäudeautomation": {
+        "id": 480,
+        "subcategories": [
+            {
+                "482": [
+                    {
+                        "GA-Schaltschränke": [
+                            "Schaltschrank LA Speisesaal/Küche",
+                            "Schaltschrank LA Büroberiche/Halle",
+                            "Schaltschrank LA Heizung",
+                            "Schaltschrank Unterverteiler Lüftungszentrale",
+                            "Schaltschrank KM Kühlraum",
+                            "Schaltschrank Außenbeleuchtung",
+                            "Schaltschrank Dachrinnenheizung",
+                            "Schaltschrank KM Dach",
+                            "Schaltschrank Trafoeinspeisung",
+                            "Schaltschrank Feld 2 Wandlermessung",
+                            "Schaltschrank Feld 3 UV KG1",
+                            "Schaltschrank Feld 4 UV KG2",
+                            "Schaltschrank Feld 5",
+                            "Schaltschrank Feld 6",
+                            "Schaltschrank Feld 7",
+                            "Schaltschrank Feld 8",
+                            "Schaltschrank Feld 9",
+                            "Schaltschrank Heizung",
+                            "Schaltschrank LA Archiv und Keller innen",
+                            "Schaltschrank CO Warnanlage",
+                            "Schaltschrank UV EG und 1.OG",
+                            "Schaltschrank Zählerverteiler",
+                            "Schaltschrank USV",
+                            "Schaltschrank KFZ Besichtigung"
+                        ]
+                    }
+                ]
+            },
+            {
+                "481": [
+                    {
+                        "Automationssystem": [
+                            "Automationssystem"
+                        ]
+                    },
+                    {
+                        "Raumautomationssystem (BUS-System)": [
+                            "Raumautomationssystem (BUS-System - zentral",
+                            "Raumautomationssystem (BUS-System - dezentral"
+                        ]
+                    }
+                ]
+            },
+            {
+                "483": [
+                    {
+                        "Management-Ebene": [
+                            "Management-Ebene"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Fernmelde- und informationstechnische Anlagen": {
+        "id": 450,
+        "subcategories": [
+            {
+                "456": [
+                    {
+                        "Brandmeldeanlage": [
+                            "Brandmeldeanlage"
+                        ]
+                    },
+                    {
+                        "Gas-Warnanlage": [
+                            "CO-Warnanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "452": [
+                    {
+                        "Türsprech- und Türöffneranlage": [
+                            "Türsprech- und Türöffneranlage",
+                            "Türsprech- und Türöffneranlage  Hof"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Nutzungsspezifische Anlagen": {
+        "id": 470,
+        "subcategories": [
+            {
+                "474": [
+                    {
+                        "Sprinkleranlage": [
+                            "Sprinkleranlage Müllraum & Papierabwurf"
+                        ]
+                    },
+                    {
+                        "Löschwasseranlage (trocken)": [
+                            "Löschwasseranlage (trocken)"
+                        ]
+                    },
+                    {
+                        "Handfeuerlöscher": [
+                            "Handfeuerlöscher 2UG/A",
+                            "Handfeuerlöscher 2.UG/B",
+                            "Handfeuerlöscher 2.UG/C",
+                            "Handfeuerlöscher 2.UG/D",
+                            "Handfeuerlöscher 2.UG/E",
+                            "Handfeuerlöscher 2.UG/F",
+                            "Handfeuerlöscher 1.UG/A",
+                            "Handfeuerlöscher 1.UG/B",
+                            "Handfeuerlöscher 1.UG/C",
+                            "Handfeuerlöscher 1.UG/D",
+                            "Handfeuerlöscher 1.UG/E",
+                            "Handfeuerlöscher 1.UG/F",
+                            "Handfeuerlöscher 1.UG/G",
+                            "Handfeuerlöscher 1.UG/H",
+                            "Handfeuerlöscher 2.OG/A",
+                            "Handfeuerlöscher 2.OG/B",
+                            "Handfeuerlöscher 3.OG/A",
+                            "Handfeuerlöscher 3.OG/B",
+                            "Handfeuerlöscher 4.OG/A",
+                            "Handfeuerlöscher 4.OG/B",
+                            "Handfeuerlöscher 5.OG/A",
+                            "Handfeuerlöscher 5.OG/B",
+                            "Handfeuerlöscher 6.OG/A",
+                            "Handfeuerlöscher 6.OG/B",
+                            "Handfeuerlöscher 7.OG/A",
+                            "Handfeuerlöscher 7.OG/B",
+                            "Handfeuerlöscher 8.OG/A",
+                            "Handfeuerlöscher 8.OG/B",
+                            "Handfeuerlöscher 9.OG/A",
+                            "Handfeuerlöscher 9.OG/B",
+                            "Handfeuerlöscher 10.OG/A",
+                            "Handfeuerlöscher 10.OG/B",
+                            "Handfeuerlöscher 10.OG/C"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Innenwände": {
+        "id": 340,
+        "subcategories": [
+            {
+                "344": [
+                    {
+                        "Innentür": [
+                            "Innentür Windfang - Haupteingang"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Baukonstruktionen in Außenanlagen": {
+        "id": 530,
+        "subcategories": [
+            {
+                "531": [
+                    {
+                        "Schrankenanlage": [
+                            "Schrankenanlage 1",
+                            "Schrankenanlage 2"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Technische Anlagen in Außenanlagen": {
+        "id": 540,
+        "subcategories": [
+            {
+                "546": [
+                    {
+                        "Außenbeleuchtung": [
+                            "Außenbeleuchtung"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Ausstattung": {
+        "id": 610,
+        "subcategories": [
+            {
+                "611": [
+                    {
+                        "Werkstattausstattung": [
+                            "Feuerwehrschlusselsafe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

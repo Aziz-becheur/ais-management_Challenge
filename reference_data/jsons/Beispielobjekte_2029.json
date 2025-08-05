@@ -1,0 +1,480 @@
+{
+    "Starkstromanlagen": {
+        "id": 440,
+        "subcategories": [
+            {
+                "445": [
+                    {
+                        "Raumbeleuchtung": [
+                            "Raumbeleuchtung"
+                        ]
+                    },
+                    {
+                        "Sicherheitsbeleuchtungsanlage": [
+                            "Sicherheitsbeleuchtungsanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "444": [
+                    {
+                        "Kabel": [
+                            "Kabel"
+                        ]
+                    },
+                    {
+                        "Verlegesysteme": [
+                            "Verlegesysteme"
+                        ]
+                    },
+                    {
+                        "NS-Unterverteiler": [
+                            "NS-Unterverteiler Aufzug",
+                            "NS-Unterverteiler Stiege 1/EG",
+                            "NS-Unterverteiler 1",
+                            "NS-Unterverteiler 2"
+                        ]
+                    }
+                ]
+            },
+            {
+                "443": [
+                    {
+                        "Niederspannungshauptverteiler": [
+                            "Niederspannungshauptverteiler Feld 1",
+                            "Niederspannungshauptverteiler Feld 2",
+                            "Niederspannungshauptverteiler Feld 3",
+                            "Niederspannungshauptverteiler Feld 4",
+                            "Niederspannungshauptverteiler Feld 5",
+                            "Niederspannungshauptverteiler Feld 6",
+                            "Niederspannungshauptverteiler Feld 7",
+                            "Niederspannungshauptverteiler Feld 8",
+                            "Niederspannungshauptverteiler Feld 9",
+                            "Niederspannungshauptverteiler Feld 10"
+                        ]
+                    }
+                ]
+            },
+            {
+                "449": [
+                    {
+                        "Begleitheizung": [
+                            "Begleitheizung Papierbox, Lichtkuppel, Rigol",
+                            "Begleitheizung Rampenheizung",
+                            "Begleitheizung Glaskuppel Passage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "446": [
+                    {
+                        "Blitzschutzanlage": [
+                            "Blitzschutzanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Abwasser-, Wasser-, Gasanlagen": {
+        "id": 410,
+        "subcategories": [
+            {
+                "412": [
+                    {
+                        "Rohrleitungen": [
+                            "Rohrleitungen"
+                        ]
+                    },
+                    {
+                        "Druckerhöhungsanlage (nicht Löschwasser)": [
+                            "Druckerhöhungsanlage (nicht Löschwasser)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "411": [
+                    {
+                        "Abwasserleitungen": [
+                            "Abwasserleitungen"
+                        ]
+                    },
+                    {
+                        "Abläufe": [
+                            "Abläufe Garage",
+                            "Abläufe Dachterrasse Stiege 3",
+                            "Abläufe Passage",
+                            "Abläufe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Wärmeversorgungsanlagen": {
+        "id": 420,
+        "subcategories": [
+            {
+                "422": [
+                    {
+                        "Wärmeverteilnetz": [
+                            "Wärmeverteilnetz"
+                        ]
+                    }
+                ]
+            },
+            {
+                "421": [
+                    {
+                        "Fernwärmeübergabestation - Heißwasser": [
+                            "Fernwärmeübergabestation - Heißwasser"
+                        ]
+                    },
+                    {
+                        "Wassererwärmungsanlage": [
+                            "Wassererwärmungsanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "423": [
+                    {
+                        "Heizkörper": [
+                            "Heizkörper Batterieraum",
+                            "Heizkörper Stiege 2/1OG",
+                            "Heizkörper Stiege 5/2OG"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Lufttechnische Anlagen": {
+        "id": 430,
+        "subcategories": [
+            {
+                "439": [
+                    {
+                        "Kanalnetz": [
+                            "Kanalnetz"
+                        ]
+                    },
+                    {
+                        "Rauchwärmeabzugsanlage (RWA)": [
+                            "Rauchwärmeabzugsanlage (RWA) Stiege 1",
+                            "Rauchwärmeabzugsanlage (RWA) Stiege 2",
+                            "Rauchwärmeabzugsanlage (RWA) Stiege 3",
+                            "Rauchwärmeabzugsanlage (RWA) Stiege 4"
+                        ]
+                    },
+                    {
+                        "Brandschutzklappe": [
+                            "Brandschutzklappe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "431": [
+                    {
+                        "Abluftanlage": [
+                            "Abluftanlage Garage 1",
+                            "Abluftanlage Garage 2"
+                        ]
+                    },
+                    {
+                        "Luftschleieranlage": [
+                            "Luftschleieranlage"
+                        ]
+                    },
+                    {
+                        "Zu- und Abluftanlage": [
+                            "Zu- und Abluftanlage Geschäft EG",
+                            "Zu- und Abluftanlage Geschäft 1OG"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Fernmelde- und informationstechnische Anlagen": {
+        "id": 450,
+        "subcategories": [
+            {
+                "456": [
+                    {
+                        "Brandmeldeanlage": [
+                            "Brandmeldeanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "452": [
+                    {
+                        "Türsprech- und Türöffneranlage": [
+                            "Türsprech- und Türöffneranlage Stiege 1",
+                            "Türsprech- und Türöffneranlage Stiege 2",
+                            "Türsprech- und Türöffneranlage Stiege 4",
+                            "Türsprech- und Türöffneranlage Stiege 5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Nutzungsspezifische Anlagen": {
+        "id": 470,
+        "subcategories": [
+            {
+                "474": [
+                    {
+                        "Löschwasseranlage (nass-trocken)": [
+                            "Löschwasseranlage (nass-trocken)"
+                        ]
+                    },
+                    {
+                        "Handfeuerlöscher": [
+                            "Handfeuerlöscher Garage/1",
+                            "Handfeuerlöscher Garage/2",
+                            "Handfeuerlöscher Garage/3",
+                            "Handfeuerlöscher Garage/4",
+                            "Handfeuerlöscher Garage/5",
+                            "Handfeuerlöscher Stiege 1/1",
+                            "Handfeuerlöscher Stiege 1/2",
+                            "Handfeuerlöscher Stiege 1/3",
+                            "Handfeuerlöscher Stiege 1/4",
+                            "Handfeuerlöscher Stiege 1/5",
+                            "Handfeuerlöscher Stiege 2/1",
+                            "Handfeuerlöscher Stiege 2/2",
+                            "Handfeuerlöscher Stiege 2/3",
+                            "Handfeuerlöscher Stiege 2/4",
+                            "Handfeuerlöscher Stiege 4/1",
+                            "Handfeuerlöscher Stiege 4/2",
+                            "Handfeuerlöscher Stiege 4/3",
+                            "Handfeuerlöscher Stiege 4/4",
+                            "Handfeuerlöscher Stiege 4/5",
+                            "Handfeuerlöscher Stiege 5/1",
+                            "Handfeuerlöscher Stiege 5/2",
+                            "Handfeuerlöscher Stiege 5/3",
+                            "Handfeuerlöscher Stiege 5/4",
+                            "Handfeuerlöscher Garage/6",
+                            "Handfeuerlöscher Stiege 4/EG",
+                            "Handfeuerlöscher Stiege 4/6"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gebäudeautomation": {
+        "id": 480,
+        "subcategories": [
+            {
+                "482": [
+                    {
+                        "GA-Schaltschränke": [
+                            "GA-Schaltschränke SV27",
+                            "GA-Schaltschränke",
+                            "GA-Schaltschränke Lüftungszentrale"
+                        ]
+                    }
+                ]
+            },
+            {
+                "481": [
+                    {
+                        "Automationssystem": [
+                            "Automationssystem"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Sonstiges zur KG": {
+        "id": 380,
+        "subcategories": [
+            {
+                "389": [
+                    {
+                        "Tritte / Leitern": [
+                            "Tritte / Leitern Aufzug 3",
+                            "Tritte / Leitern Aufzug 2",
+                            "Tritte / Leitern Aufzug 1",
+                            "Tritte / Leitern Stiege 4 Dach zu Terrasse (Lüftungszentrale)",
+                            "Tritte / Leitern Aufzug 4"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Außenwände": {
+        "id": 330,
+        "subcategories": [
+            {
+                "334": [
+                    {
+                        "Außentür": [
+                            "Außentür Stiege 1",
+                            "Außentür Stiege 2",
+                            "Außentür Stiege 4 - Haupteingang",
+                            "Außentür Stiege 4 Hof",
+                            "Außentür Stiege 5",
+                            "BST Garage/1",
+                            "BST Garage/2",
+                            "BST Garage/3",
+                            "BST Garage/4",
+                            "BST Garage/5",
+                            "BST Garage/6",
+                            "BST Garage/7",
+                            "BST Garage/8",
+                            "BST Garage/9",
+                            "BST Stiege 1/1",
+                            "BST Stiege 1/2",
+                            "BST Stiege 1/3",
+                            "BST Stiege 1/4",
+                            "BST Stiege 1/5",
+                            "BST Stiege 1/Wohnungen",
+                            "BST Stiege 2/1",
+                            "BST Stiege 2/2",
+                            "BST Stiege 2/Wohnungen",
+                            "BST Stiege 3/1",
+                            "BST Stiege 3/2",
+                            "BST Stiege 3/3",
+                            "BST Stiege 3/4",
+                            "BST Stiege 3/5",
+                            "BST Stiege 4/1",
+                            "BST Stiege 4/2",
+                            "BST Stiege 4/3",
+                            "BST Stiege 4/4",
+                            "BST Stiege 4/5",
+                            "BST Stiege 4/6",
+                            "Außentür Stiege 4 Dach",
+                            "BST Stiege 4/Wohnungen",
+                            "BST Stiege 5/1",
+                            "BST Stiege 5/Wohnungen und Geschäftslokale",
+                            "Außentür Geschäfte EG",
+                            "Außentüren Wohnungen und Geschäfte (OG)"
+                        ]
+                    },
+                    {
+                        "Außentor": [
+                            "Rolltor Passage 1",
+                            "Rolltor Passage 2",
+                            "Außentor Hof"
+                        ]
+                    },
+                    {
+                        "Außenfenster mit Kipp- oder Drehflügel": [
+                            "Außenfenster mit Kipp- oder Drehflügel"
+                        ]
+                    }
+                ]
+            },
+            {
+                "339": [
+                    {
+                        "Werbeanlage": [
+                            "Werbeanlage Stadtplatz",
+                            "Werbeanlage Hinterstadt"
+                        ]
+                    }
+                ]
+            },
+            {
+                "338": [
+                    {
+                        "Sonnenschutzanlage": [
+                            "Sonnenschutzanlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Ausstattung": {
+        "id": 610,
+        "subcategories": [
+            {
+                "611": [
+                    {
+                        "Werkstattausstattung": [
+                            "Feuerwehrschlüsselkasten",
+                            "Ausgussbecken"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Dächer": {
+        "id": 360,
+        "subcategories": [
+            {
+                "363": [
+                    {
+                        "Flachdach": [
+                            "Flachdach Kiesdach Stiege 4",
+                            "Flachdach Terrasse Stiege 3",
+                            "Flachdach Stiege 2"
+                        ]
+                    },
+                    {
+                        "Geneigtes Dach": [
+                            "Geneigtes Dach Stiege 5",
+                            "Geneigtes Dach Stiege 1"
+                        ]
+                    }
+                ]
+            },
+            {
+                "362": [
+                    {
+                        "Lichtkuppel / Oberlicht / Dachfenster": [
+                            "Lichtkuppel / Oberlicht / Dachfenster Lichthof Passage",
+                            "Lichtkuppel / Oberlicht / Dachfenster Lichthof Stiege 3",
+                            "Lichtkuppel / Oberlicht / Dachfenster Lichthof Stiege 4"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Technische Anlagen in Außenanlagen": {
+        "id": 540,
+        "subcategories": [
+            {
+                "546": [
+                    {
+                        "Außenbeleuchtung": [
+                            "Außenbeleuchtung"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Förderanlagen": {
+        "id": 460,
+        "subcategories": [
+            {
+                "461": [
+                    {
+                        "Personenaufzug": [
+                            "Personenaufzug Stiege 1",
+                            "Personenaufzug Stiege 2 - außer Betrieb",
+                            "Personenaufzug Stiege 3 - außer Betrieb",
+                            "Personenaufzug Stiege 4"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

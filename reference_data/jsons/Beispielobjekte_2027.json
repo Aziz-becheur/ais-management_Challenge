@@ -1,0 +1,443 @@
+{
+    "Starkstromanlagen": {
+        "id": 440,
+        "subcategories": [
+            {
+                "445": [
+                    {
+                        "Raumbeleuchtung": [
+                            "Raumbeleuchtung"
+                        ]
+                    },
+                    {
+                        "Sicherheitsbeleuchtungsanlage": [
+                            "Sicherheitsbeleuchtungsanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "444": [
+                    {
+                        "Kabel": [
+                            "Kabel"
+                        ]
+                    },
+                    {
+                        "Verlegesysteme": [
+                            "Verlegesysteme"
+                        ]
+                    },
+                    {
+                        "Leitungen": [
+                            "Leitungen"
+                        ]
+                    },
+                    {
+                        "NS-Unterverteiler": [
+                            "NS-Unterverteiler STGH 4.OG-1.DG",
+                            "NS-Unterverteiler STGH 3OG-4OG",
+                            "NS-Unterverteiler STGH 2OG-3OG Kleiderbauer 2. OG",
+                            "NS-Unterverteiler STGH 2OG-3OG Kleiderbauer UV 2. OG",
+                            "NS-Unterverteiler STGH 1OG-2OG Kleiderbauer UV 1. OG",
+                            "NS-Unterverteiler STGH EG-1OG Kleiderbauer UV EG"
+                        ]
+                    }
+                ]
+            },
+            {
+                "446": [
+                    {
+                        "Blitzschutzanlage": [
+                            "Blitzschutzanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "443": [
+                    {
+                        "Niederspannungshauptverteiler": [
+                            "Niederspannungshauptverteiler Hauptschalter Allgemein",
+                            "Niederspannungshauptverteiler FI u Autom. Kleiderbauer",
+                            "Niederspannungshauptverteiler SichrrungstrennerKleiderbauer",
+                            "Niederspannungshauptverteiler Sichrungstrenner Allgemein",
+                            "Niederspannungshauptverteiler FI Allgemein",
+                            "Niederspannungshauptverteiler Messeinrichtung Kleiderbauer",
+                            "Niederspannungshauptverteiler Messeinrichtung Allgemein",
+                            "Niederspannungshauptverteiler Hauptschalter Kleiderbauer",
+                            "Niederspannungshauptverteiler Resereve Kompensation",
+                            "Niederspannungshauptverteiler Aufzug"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Abwasser-, Wasser-, Gasanlagen": {
+        "id": 410,
+        "subcategories": [
+            {
+                "411": [
+                    {
+                        "Abwasserleitungen": [
+                            "Abwasserleitungen"
+                        ]
+                    },
+                    {
+                        "Abläufe": [
+                            "Abläufe Bodenablauf innen",
+                            "Abläufe Dachabläufe",
+                            "Abläufe Gründächer",
+                            "Abläufe"
+                        ]
+                    },
+                    {
+                        "Tauchpumpe": [
+                            "Tauchpumpe"
+                        ]
+                    }
+                ]
+            },
+            {
+                "412": [
+                    {
+                        "Rohrleitungen": [
+                            "Rohrleitungen"
+                        ]
+                    },
+                    {
+                        "Sanitäre Einrichtungsgegenstände": [
+                            "Sanitäre Einrichtungsgegenstände Ausgußbecken"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Wärmeversorgungsanlagen": {
+        "id": 420,
+        "subcategories": [
+            {
+                "422": [
+                    {
+                        "Wärmeverteilnetz": [
+                            "Wärmeverteilnetz"
+                        ]
+                    }
+                ]
+            },
+            {
+                "421": [
+                    {
+                        "Fernwärmeübergabestation - Heißwasser": [
+                            "Fernwärmeübergabestation - Heißwasser"
+                        ]
+                    },
+                    {
+                        "Wassererwärmungsanlage": [
+                            "Wassererwärmungsanlage"
+                        ]
+                    }
+                ]
+            },
+            {
+                "423": [
+                    {
+                        "Heizkörper": [
+                            "Heizkörper"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Lufttechnische Anlagen": {
+        "id": 430,
+        "subcategories": [
+            {
+                "439": [
+                    {
+                        "Kanalnetz": [
+                            "Kanalnetz"
+                        ]
+                    },
+                    {
+                        "Brandschutzklappe": [
+                            "Brandschutzklappe"
+                        ]
+                    },
+                    {
+                        "Rauchwärmeabzugsanlage (RWA)": [
+                            "Rauchwärmeabzugsanlage (RWA)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "431": [
+                    {
+                        "Abluftanlage": [
+                            "Abluftanlage FW Raum",
+                            "Abluftanlage Aufzugsmaschinenraum",
+                            "Abluftanlage Technikraum im Bunker",
+                            "Abluftanlage 1",
+                            "Abluftanlage Büroräume",
+                            "Abluftanlage Wohnungen Naßräume 1",
+                            "Abluftanlage Wohnungen Naßräume 2",
+                            "Abluftanlage Wohnungen Naßräume 3"
+                        ]
+                    },
+                    {
+                        "Zu- und Abluftanlage": [
+                            "Zu- und Abluftanlage Kleiderbauer",
+                            "Zu- und Abluftanlage Technikräume",
+                            "Zu- und Abluftanlage Lagerräume",
+                            "Zu- und Abluftanlage"
+                        ]
+                    },
+                    {
+                        "Luftschleieranlage": [
+                            "Luftschleieranlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Sonstiges zur KG": {
+        "id": 380,
+        "subcategories": [
+            {
+                "389": [
+                    {
+                        "Seilsysteme": [
+                            "Seilsysteme Gründach 1. OG"
+                        ]
+                    },
+                    {
+                        "Tritte / Leitern": [
+                            "Tritte / Leitern Dachluke",
+                            "Tritte / Leitern Lüftungszentrale",
+                            "Tritte / Leitern Stiegenhaus KG",
+                            "Tritte / Leitern"
+                        ]
+                    },
+                    {
+                        "Anschlagpunkte": [
+                            "Anschlagpunkte"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Außenwände": {
+        "id": 330,
+        "subcategories": [
+            {
+                "334": [
+                    {
+                        "Außenfenster mit Kipp- oder Drehflügel": [
+                            "Außenfenster mit Kipp- oder Drehflügel"
+                        ]
+                    },
+                    {
+                        "Außentür": [
+                            "BST Triebwerksraum",
+                            "BST Lüftungszentrale",
+                            "BST Traforaum",
+                            "BST Niederspannung",
+                            "BST Heizraum",
+                            "BST Technikraum im Bunker",
+                            "BST Stiegenhaus",
+                            "BST Lager Mieter",
+                            "BST Triebwerksraum 2. DG",
+                            "Außentür Dachluke",
+                            "BST zu Mieter",
+                            "Außentür Terrasse",
+                            "Außentür Mieter",
+                            "Außentür Haupteingang",
+                            "Außentür Fluchtwegsstiege",
+                            "BST Fluchtstiegenhaus EG",
+                            "Außentür Balkon/Terrasse/Loggia"
+                        ]
+                    }
+                ]
+            },
+            {
+                "338": [
+                    {
+                        "Sonnenschutzanlage": [
+                            "Sonnenschutzanlage Außenjalousien"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Förderanlagen": {
+        "id": 460,
+        "subcategories": [
+            {
+                "461": [
+                    {
+                        "Treppenlifter": [
+                            "Treppenlift Haupteingang"
+                        ]
+                    },
+                    {
+                        "Personenaufzug": [
+                            "Personenaufzug KG - 1. DG"
+                        ]
+                    },
+                    {
+                        "Lastenaufzug": [
+                            "Lastenaufzug Kleiderbauer KG - 2.OG"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Neu Ausstattung": {
+        "id": 610,
+        "subcategories": [
+            {
+                "611": [
+                    {
+                        "Werkstattausstattung": [
+                            "Feuerwehrschlüsselsafe"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Fernmelde- und informationstechnische Anlagen": {
+        "id": 450,
+        "subcategories": [
+            {
+                "456": [
+                    {
+                        "Brandmeldeanlage": [
+                            "Brandmeldeanlage KG - 2. OG - Mieter Kleider Bauer"
+                        ]
+                    }
+                ]
+            },
+            {
+                "452": [
+                    {
+                        "Türsprech- und Türöffneranlage": [
+                            "Türsprech- und Türöffneranlage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Nutzungsspezifische Anlagen": {
+        "id": 470,
+        "subcategories": [
+            {
+                "474": [
+                    {
+                        "Löschwasseranlage (nass-trocken)": [
+                            "Löschwasseranlage (nass-trocken)"
+                        ]
+                    },
+                    {
+                        "Druckerhöhungsanlage für Löschwasseranlage": [
+                            "Druckerhöhungsanlage für Löschwasseranlage"
+                        ]
+                    },
+                    {
+                        "Handfeuerlöscher": [
+                            "Handfeuerlöscher Gang vor Heizraum",
+                            "Handfeuerlöscher Hydranten KG",
+                            "Handfeuerlöscher Hydranten 2. DG",
+                            "Handfeuerlöscher Hydranten 1. DG",
+                            "Handfeuerlöscher Hydranten 4. OG",
+                            "Handfeuerlöscher Hydranten 3. OG",
+                            "Handfeuerlöscher Hydranten EG"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Gebäudeautomation": {
+        "id": 480,
+        "subcategories": [
+            {
+                "482": [
+                    {
+                        "GA-Schaltschränke": [
+                            "GA-Schaltschränke",
+                            "GA-Schaltschränke  FW",
+                            "GA-Schaltschränke  Löschwasser",
+                            "GA-Schaltschränke 1",
+                            "GA-Schaltschränke 2",
+                            "GA-Schaltschränke 3",
+                            "GA-Schaltschränke  LA Büro und WC"
+                        ]
+                    }
+                ]
+            },
+            {
+                "481": [
+                    {
+                        "Automationssystem": [
+                            "Automationssystem"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Dächer": {
+        "id": 360,
+        "subcategories": [
+            {
+                "362": [
+                    {
+                        "Lichtkuppel / Oberlicht / Dachfenster": [
+                            "Lichtkuppel / Oberlicht / Dachfenster"
+                        ]
+                    }
+                ]
+            },
+            {
+                "363": [
+                    {
+                        "Flachdach": [
+                            "Flachdach Kiesdach",
+                            "Flachdach - Gründach 1. OG",
+                            "Flachdach - Gründach 3. OG"
+                        ]
+                    },
+                    {
+                        "Geneigtes Dach": [
+                            "Geneigtes Dach"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "Technische Anlagen in Außenanlagen": {
+        "id": 540,
+        "subcategories": [
+            {
+                "546": [
+                    {
+                        "Außenbeleuchtung": [
+                            "Außenbeleuchtung"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
